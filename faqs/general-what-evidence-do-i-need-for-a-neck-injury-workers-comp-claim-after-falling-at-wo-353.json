@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for a neck injury workers comp claim after falling at work?",
+  "description": "Medical proof of work causation, witnesses, reports.",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-a-neck-injury-workers-comp-claim-after-falling-at-wo-353",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for a neck injury workers comp claim after falling at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical proof of work causation, witnesses, reports.",
+        "description": "**Medical records, doctor reports linking pain to the incident, witness statements, and incident reports are essential.** Utah cases require proof of causal connection for neck injuries.[1][2] Key factors: Imaging like MRI showing damage; employer logs; your symptom timeline. Gather photos of scene, keep wage records. Without strong medical causation, claims fail like in some Idaho denials.[2] Attorney review strengthens evidence."
+      }
+    }
+  ]
+}

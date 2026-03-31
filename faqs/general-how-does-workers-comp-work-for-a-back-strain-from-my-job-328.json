@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does workers comp work for a back strain from my job?",
+  "description": "Covers meds, 66% wages, impairment pay—report, file claim, use approved docs[1][2].",
+  "url": "https://justworkcomplaw.com//faq/general-how-does-workers-comp-work-for-a-back-strain-from-my-job-328",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does workers comp work for a back strain from my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Covers meds, 66% wages, impairment pay—report, file claim, use approved docs[1][2].",
+        "description": "**Workers comp covers medical bills, partial lost wages (typically 66% of average weekly wage), and permanent impairment awards.** Employers must carry insurance; file claims through state commissions[1][2]. No fault needed. **Key factors:** Report promptly, use authorized providers, attend independent medical exams. **Practical guidance:** Submit claim forms after reporting, track treatments/mileage for reimbursement, appeal denials via hearing. Benefits continue for related future care. **Idaho: 1-year filing limit[2].**"
+      }
+    }
+  ]
+}

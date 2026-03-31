@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Boise ID, sue boss for back injury?",
+  "description": "No, comp only vs employer—third-party yes[2].",
+  "url": "https://justworkcomplaw.com//faq/general-in-boise-id-sue-boss-for-back-injury-344",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Boise ID, sue boss for back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp only vs employer—third-party yes[2].",
+        "description": "**No, workers comp exclusive remedy barring gross negligence or third-party.** Can't sue employer[2]. **Key factors:** Intentional harm exception rare. **Practical guidance:** Pursue comp fully first, third-party separate suit. Idaho strict[2]. **Comp faster, no liability proof.**"
+      }
+    }
+  ]
+}

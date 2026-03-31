@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my back lifting boxes at work yesterday, what do I do right now?",
+  "description": "Report to your supervisor now, get medical help, and document everything—delays risk denial[1][2].",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-back-lifting-boxes-at-work-yesterday-what-do-i-do-right-now-325",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my back lifting boxes at work yesterday, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to your supervisor now, get medical help, and document everything—delays risk denial[1][2].",
+        "description": "**Report the injury to your supervisor immediately, ideally within 24 hours, and seek medical attention.** In most states, notify your employer in writing as soon as possible to start the workers' compensation process[1][2]. Delays can jeopardize your claim. **Key factors:** Timely reporting preserves benefits like medical coverage and wage replacement; document everything including witnesses. **Practical guidance:** Get a doctor's note linking the injury to work, avoid giving recorded statements to insurance adjusters without advice, and track all expenses. Consult a workers' comp attorney if unsure. **Utah and Idaho emphasize prompt action to avoid denials[1][2].**"
+      }
+    }
+  ]
+}

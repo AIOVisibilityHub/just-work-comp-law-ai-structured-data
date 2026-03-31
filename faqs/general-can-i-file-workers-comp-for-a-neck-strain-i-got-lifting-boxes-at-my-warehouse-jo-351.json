@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file workers comp for a neck strain I got lifting boxes at my warehouse job in Ogden?",
+  "description": "Yes, if work-related; report immediately and get doctor confirmation.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-file-workers-comp-for-a-neck-strain-i-got-lifting-boxes-at-my-warehouse-jo-351",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file workers comp for a neck strain I got lifting boxes at my warehouse job in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work-related; report immediately and get doctor confirmation.",
+        "description": "**Yes, neck strains from lifting at work are typically compensable under Utah workers' compensation if causally linked to the job.** Utah courts recognize workplace neck injuries as covered when medical evidence supports the connection.[1] Key factors: Prove injury occurred at work; no fault needed; pre-existing conditions may complicate if not aggravated by work. Report promptly, get medical eval, file formal claim via employer. An attorney can help ensure approval."
+      }
+    }
+  ]
+}

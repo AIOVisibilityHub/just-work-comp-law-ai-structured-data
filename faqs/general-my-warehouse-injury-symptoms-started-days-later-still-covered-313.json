@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My warehouse injury symptoms started days later - still covered?",
+  "description": "Yes, if doctor connects to work accident.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-my-warehouse-injury-symptoms-started-days-later-still-covered-313",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My warehouse injury symptoms started days later - still covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor connects to work accident.[5]",
+        "description": "**Yes, if medically linked to accident; delayed onset common in soft tissue cases.** Report ASAP anyway.[5] Key factors: doctor opinion on causation; consistent history. Avoid treatment gaps; log symptoms daily. Courts accept with proof.[3]"
+      }
+    }
+  ]
+}

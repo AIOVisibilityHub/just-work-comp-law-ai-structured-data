@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my warehouse employer if I slipped on spilled oil and broke my arm?",
+  "description": "Usually no - workers' comp is exclusive; sue third parties if applicable.[1][4]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-warehouse-employer-if-i-slipped-on-spilled-oil-and-broke-my-arm-301",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my warehouse employer if I slipped on spilled oil and broke my arm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no - workers' comp is exclusive; sue third parties if applicable.[1][4]",
+        "description": "**No, in Utah and Idaho, workers' compensation is generally your exclusive remedy against your employer for job injuries, barring gross negligence.** It provides no-fault benefits like medical care and wage replacement.[1][3] Key factors: employer violations of safety regs (e.g., UOSH in Utah) might allow third-party suits; intentional harm exceptions are rare. Preserve evidence like scene photos and reports; check for negligent equipment makers. Consult an attorney to explore all options beyond comp.[4]"
+      }
+    }
+  ]
+}

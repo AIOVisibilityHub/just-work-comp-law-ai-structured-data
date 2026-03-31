@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer offered quick neck injury settlement, should I take it?",
+  "description": "Wait for lawyer review and full diagnosis.",
+  "url": "https://justworkcomplaw.com//faq/general-employer-offered-quick-neck-injury-settlement-should-i-take-it-369",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer offered quick neck injury settlement, should I take it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wait for lawyer review and full diagnosis.",
+        "description": "**No, unless lawyer reviews—early offers undervalue future needs.** Don't rush.[5] Key factors: Wait for MMI; know full damages; no final prognosis yet. Common insurer tactic. Hold for fair amount."
+      }
+    }
+  ]
+}

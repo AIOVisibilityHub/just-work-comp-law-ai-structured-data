@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't go to doctor right after neck tweak at work, symptoms worse now, can I still claim?",
+  "description": "Yes, report now if within time limits.",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-go-to-doctor-right-after-neck-tweak-at-work-symptoms-worse-now-can-i-st-358",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't go to doctor right after neck tweak at work, symptoms worse now, can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report now if within time limits.",
+        "description": "**Yes, if you report soon and doctor links delayed symptoms to work injury.** Utah allows claims for evolving injuries if notice within limits.[1] Key factors: Explain delay reasonably; medical causation key; no gap too long without cause. See doctor now, document timeline. Insurers challenge delays, so attorney helps prove connection."
+      }
+    }
+  ]
+}

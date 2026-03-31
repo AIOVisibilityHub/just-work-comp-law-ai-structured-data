@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my neck slip at work in Murray, can I still get comp?",
+  "description": "Yes, medical proof and your account enough.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-neck-slip-at-work-in-murray-can-i-still-get-comp-364",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my neck slip at work in Murray, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical proof and your account enough.",
+        "description": "**Yes, your testimony plus medical evidence and circumstances suffice.** No witnesses not fatal.[3] Key factors: Incident report; video if any; consistent doctor history. Builds via records. Many solo claims succeed."
+      }
+    }
+  ]
+}

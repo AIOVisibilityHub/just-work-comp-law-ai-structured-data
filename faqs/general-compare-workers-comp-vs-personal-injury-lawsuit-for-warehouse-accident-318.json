@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare workers comp vs personal injury lawsuit for warehouse accident?",
+  "description": "Comp easier/no-fault; suit for more $$ vs 3rd parties.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-compare-workers-comp-vs-personal-injury-lawsuit-for-warehouse-accident-318",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare workers comp vs personal injury lawsuit for warehouse accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp easier/no-fault; suit for more $$ vs 3rd parties.[4]",
+        "description": "**Comp: quick, no-fault, limited benefits; lawsuit: fault-based, higher potential but harder.** Comp exclusive vs employer.[1][4]\n\n| Aspect | Workers' Comp | Personal Injury |\n|--------|---------------|-----------------|\n| Fault | No | Yes |\n| Benefits | Med/lost wages | All damages |\n| Time | Faster | Years |[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer denied my toxic exposure illness claim in Boise, what now?",
+  "description": "Appeal to Industrial Commission within 20 days with better evidence.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-denied-my-toxic-exposure-illness-claim-in-boise-what-now-381",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer denied my toxic exposure illness claim in Boise, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal to Industrial Commission within 20 days with better evidence.[2]",
+        "description": "Appeal to the Idaho Industrial Commission within 20 days of denial.[2] Provide stronger medical evidence disputing denial reasons.[3] Key factors: (1) appeal deadline; (2) new causation proof; (3) hearing request. Request all insurer records, get second opinion. Don't accept first denial. Attorney increases success odds."
+      }
+    }
+  ]
+}

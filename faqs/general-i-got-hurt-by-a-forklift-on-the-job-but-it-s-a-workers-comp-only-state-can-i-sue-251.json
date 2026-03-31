@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt by a forklift on the job but it's a workers comp only state, can I sue anyone?",
+  "description": "No suit against employer, but sue third parties like other operators, manufacturers, or contractors if negligent.",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hurt-by-a-forklift-on-the-job-but-it-s-a-workers-comp-only-state-can-i-sue-251",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt by a forklift on the job but it's a workers comp only state, can I sue anyone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No suit against employer, but sue third parties like other operators, manufacturers, or contractors if negligent.",
+        "description": "**In most states including Utah and Idaho, workers' comp is your primary remedy barring lawsuits against your employer, but third-party claims are possible.** If a co-worker from another company, defective equipment manufacturer, or negligent contractor caused it, you can sue them separately.[5][6] Key factors: Prove negligence via surveillance, OSHA citations, or maintenance failures; gross negligence by employer might allow exceptions; examples include $20M verdict for runaway forklift and $5.3M for malfunction.[2][4] Preserve evidence like videos and expert reports. Hire an attorney to identify liable parties beyond workers' comp for pain/suffering damages. Acting fast preserves options."
+      }
+    }
+  ]
+}

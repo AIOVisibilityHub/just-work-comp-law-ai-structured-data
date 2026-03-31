@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's evidence I need for lung disease from factory work in West Valley City?",
+  "description": "Medical reports, exposure records, expert link.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-evidence-i-need-for-lung-disease-from-factory-work-in-west-valley-city-389",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's evidence I need for lung disease from factory work in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical reports, exposure records, expert link.[9]",
+        "description": "Chest x-rays, pulmonologist report tying to exposures, coworker statements, MSDS sheets.[9] Utah requires substantial work causation proof.[9] Key factors: (1) diagnostic tests; (2) exposure logs; (3) no smoking confounders; (4) expert opinion. Collect safety data now. Chain of custody for samples. Lawyer subpoenas records."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss says my neck pain from work isn't covered because I have arthritis already, is that true?",
+  "description": "Covered if work aggravated it; get doctor opinion.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-says-my-neck-pain-from-work-isn-t-covered-because-i-have-arthritis-alrea-354",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss says my neck pain from work isn't covered because I have arthritis already, is that true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Covered if work aggravated it; get doctor opinion.",
+        "description": "**No, Utah workers' comp covers aggravation of pre-existing conditions if work caused the worsening.** Courts allow benefits if the job injury didn't heal properly.[1] Key factors: Doctor opinion on aggravation vs. degeneration; no need to prove solely work caused it. Get independent medical exam if disputed. Push back with evidence; denials can be appealed. Legal help navigates this common issue."
+      }
+    }
+  ]
+}

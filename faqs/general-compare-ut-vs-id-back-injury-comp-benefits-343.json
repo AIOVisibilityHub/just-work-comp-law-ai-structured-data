@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Compare UT vs ID back injury comp benefits?",
+  "description": "UT: 180d notice; ID:60d/1yr—both med/wages/PPD[1][2].",
+  "url": "https://justworkcomplaw.com//faq/general-compare-ut-vs-id-back-injury-comp-benefits-343",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Compare UT vs ID back injury comp benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "UT: 180d notice; ID:60d/1yr—both med/wages/PPD[1][2].",
+        "description": "**Similar: medical, TTD 66% wages, PPD lump sums; UT has Labor Commission hearings, ID Industrial Commission + ISIF for pre-existing.** UT 180-day notice, ID 60/1yr[1][2]. **Key factors:** State statutes vary slightly on impairment schedules. **Practical guidance:** Check local rules, attorney knows both. UT appeals stronger for idiopathic[3]. **Cross-state work? File where injured.**"
+      }
+    }
+  ]
+}

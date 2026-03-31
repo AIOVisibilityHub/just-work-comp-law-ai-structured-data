@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit to claim hearing loss from noisy job in Utah? I'm in Salt Lake City and just noticed it.",
+  "description": "1 year from last injurious exposure in Utah—file now if close, as it's strict for gradual noise loss.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-time-limit-to-claim-hearing-loss-from-noisy-job-in-utah-i-m-in-salt-l-201",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit to claim hearing loss from noisy job in Utah? I'm in Salt Lake City and just noticed it.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1 year from last injurious exposure in Utah—file now if close, as it's strict for gradual noise loss.[2]",
+        "description": "In Utah, you have 1 year from the date of accident or last injurious noise exposure to file a workers' comp claim for occupational hearing loss.[2] For gradual loss like at factories or mines, this starts from your last significant workplace noise day.[2] Key factors: Short 1-year SOL is strict; delayed symptoms don't extend it, medical diagnosis date may not reset clock.[2][1] Track last exposure date precisely, file with Utah Labor Commission promptly, gather audiograms and job records.[2] A lawyer can help preserve your claim if near deadline.[2]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my work back injury, still claimable?",
+  "description": "Yes, testimony + meds enough—report fast[1].",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-work-back-injury-still-claimable-339",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my work back injury, still claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, testimony + meds enough—report fast[1].",
+        "description": "**Yes, your credible testimony + medical evidence suffices.** Consistent story key[1]. **Key factors:** No contradicting proof, prompt report. **Practical guidance:** Note details immediately, get supervisor statement, MRI proof. Insurers challenge but lose in hearings[1]. **Viable without witnesses.**"
+      }
+    }
+  ]
+}

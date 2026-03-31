@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a workers comp claim for work illness in West Valley City?",
+  "description": "Utah: 3 years from knowing it's work-related; don't wait.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-workers-comp-claim-for-work-illness-in-west-valley--378",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a workers comp claim for work illness in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 3 years from knowing it's work-related; don't wait.[1]",
+        "description": "In Utah, file within 3 years of injury knowledge or 12 years of accident for occupational diseases.[1] Deadlines run from when you knew or should have known the illness was work-related.[3] Key factors: (1) discovery date of causation; (2) state-specific limits (Idaho: 1 year from disablement); (3) continuous exposure tolling. Track symptoms and consult lawyer to calculate precisely. Missing deadlines bars claims permanently. Act fast post-diagnosis."
+      }
+    }
+  ]
+}

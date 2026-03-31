@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have no witnesses to my warehouse fall - can I still get workers' comp?",
+  "description": "Yes, medical records and your report can prove it.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-no-witnesses-to-my-warehouse-fall-can-i-still-get-workers-comp-304",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have no witnesses to my warehouse fall - can I still get workers' comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical records and your report can prove it.[9]",
+        "description": "**Yes, your medical records, employer incident report, and consistent story often suffice without witnesses.** Many claims succeed on employee testimony alone.[1][9] Key factors: photos of hazard (e.g., wet floor); supervisor statements; video footage if available. Report immediately and get treated; avoid gaps in care. Build your case methodically for approval.[4]"
+      }
+    }
+  ]
+}

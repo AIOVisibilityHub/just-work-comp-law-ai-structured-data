@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a warehouse injury claim after the accident?",
+  "description": "Utah: 4 yrs personal injury, 1 yr workers' comp; file ASAP.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-do-i-have-to-file-a-warehouse-injury-claim-after-the-accident-302",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a warehouse injury claim after the accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 4 yrs personal injury, 1 yr workers' comp; file ASAP.[4]",
+        "description": "**In Utah, the statute of limitations for personal injury suits is 4 years; workers' comp claims must be filed within 1 year of accident or knowledge of injury.** Idaho follows similar timelines, often 1 year for comp.[3][4] Key factors: delayed reporting can bar claims; pre-existing conditions may complicate timing. Act fast to avoid denial; gather medical records early. Missing deadlines forfeits benefits - start now.[4]"
+      }
+    }
+  ]
+}

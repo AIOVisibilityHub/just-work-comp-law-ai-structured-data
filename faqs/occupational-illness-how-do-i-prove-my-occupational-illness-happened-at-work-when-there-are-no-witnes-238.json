@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove my occupational illness happened at work when there are no witnesses in Saint George?",
+  "description": "Medical + records prove it; witnesses not required[3].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-how-do-i-prove-my-occupational-illness-happened-at-work-when-there-are-no-witnes-238",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove my occupational illness happened at work when there are no witnesses in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + records prove it; witnesses not required[3].",
+        "description": "Use medical opinions, records, safety data.\n\nCircumstantial evidence suffices; no witnesses not fatal[3].\n\n- Exposure logs, MSDS sheets.\n- Coworker affidavits later.\n- Expert causation testimony.\n\nBuild file methodically; legal aid compels discovery."
+      }
+    }
+  ]
+}

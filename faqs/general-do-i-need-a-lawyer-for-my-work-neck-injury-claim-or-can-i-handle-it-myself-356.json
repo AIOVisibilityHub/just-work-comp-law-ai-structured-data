@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my work neck injury claim or can I handle it myself?",
+  "description": "Not required but recommended for denials or complexity.",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-work-neck-injury-claim-or-can-i-handle-it-myself-356",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my work neck injury claim or can I handle it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not required but recommended for denials or complexity.",
+        "description": "**You can file yourself, but a lawyer greatly improves outcomes for disputed neck claims.** Utah/Idaho systems favor represented claimants in appeals.[1][2] Key factors: Insurers deny 20-30% initially; complex causation proof; fee only from winnings. Avoid if simple; hire for denials, surgery needs. They handle paperwork, negotiations free upfront."
+      }
+    }
+  ]
+}

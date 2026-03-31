@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do they measure how bad my work hearing loss is for comp in Utah?",
+  "description": "Audiogram % binaural impairment x scheduled weeks x wage.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-they-measure-how-bad-my-work-hearing-loss-is-for-comp-in-utah-207",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do they measure how bad my work hearing loss is for comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiogram % binaural impairment x scheduled weeks x wage.[2]",
+        "description": "Binaural impairment percentage from audiogram, using AMA or state schedule, multiplied by weeks (e.g., 150 for total loss).[2] Tests average frequencies, account for both ears.[1] Key factors: Independent tester avoids bias, must show occupational cause, not age.[3] Schedule audiologist familiar with WC, bring exposure details.[2] Lawyer ensures fair rating.[5]"
+      }
+    }
+  ]
+}

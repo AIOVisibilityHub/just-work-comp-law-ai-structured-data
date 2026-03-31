@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My coworker ran me over with a forklift at work in Salt Lake City, what do I do right now?",
+  "description": "Report to supervisor, get medical help immediately, document scene and injuries, notify employer ASAP, and contact a workers' comp lawyer before talking to insu",
+  "url": "https://justworkcomplaw.com//faq/general-my-coworker-ran-me-over-with-a-forklift-at-work-in-salt-lake-city-what-do-i-do-r-250",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My coworker ran me over with a forklift at work in Salt Lake City, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to supervisor, get medical help immediately, document scene and injuries, notify employer ASAP, and contact a workers' comp lawyer before talking to insurance.",
+        "description": "**Immediately report the accident to your supervisor and seek medical attention, even if injuries seem minor.** Workers' compensation in Utah covers workplace injuries like forklift accidents regardless of fault.[1][2] Key factors: Document everything including photos of the scene, witness contacts, and medical records; notify employer within 180 days but sooner is better; OSHA violations like unlicensed operators strengthen claims.[1][5] Get evaluated fully as symptoms like back pain or brain injuries can delay.[2][3] Consult a workers' comp attorney promptly to file the claim and avoid pitfalls; do not give recorded statements to insurance without advice. This protects your right to benefits like medical care and lost wages."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my occupational illness prevent SSDI or affect it?",
+  "description": "Can get both; offsets limit total[4].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-will-my-occupational-illness-prevent-ssdi-or-affect-it-247",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my occupational illness prevent SSDI or affect it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Can get both; offsets limit total[4].",
+        "description": "No; can get both, offset rules apply.\n\nWorkers comp reduces SSDI max 80%[4].\n\n- Apply SSDI separately.\n- Comp first.\n- Lawyer coordinates.\n\nMaximize combined."
+      }
+    }
+  ]
+}

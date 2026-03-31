@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Forklift from defective part crushed me, sue manufacturer?",
+  "description": "Yes, sue maker for defects—extra to comp benefits.",
+  "url": "https://justworkcomplaw.com//faq/general-forklift-from-defective-part-crushed-me-sue-manufacturer-265",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Forklift from defective part crushed me, sue manufacturer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue maker for defects—extra to comp benefits.",
+        "description": "**Yes, product liability claim beyond workers' comp.** $5.3M verdict example.[4] Key factors: Prove design/manufacturing defect; history of issues. Expert analysis needed. Attorney files against maker for full damages."
+      }
+    }
+  ]
+}

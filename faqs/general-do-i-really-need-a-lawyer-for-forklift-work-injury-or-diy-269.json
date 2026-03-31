@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer for forklift work injury or DIY?",
+  "description": "Yes—higher payouts, handle complexities, no upfront cost.",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-really-need-a-lawyer-for-forklift-work-injury-or-diy-269",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer for forklift work injury or DIY?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—higher payouts, handle complexities, no upfront cost.",
+        "description": "**Yes, insurers lowball without one; attorneys boost settlements 2-3x.** Free consult, no win no fee.[3] Key factors: Navigate denials, third-party ID, deadlines. Handle paperwork/evidentiary fights. Essential for fair value."
+      }
+    }
+  ]
+}

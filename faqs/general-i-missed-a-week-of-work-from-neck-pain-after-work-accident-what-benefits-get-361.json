@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed a week of work from neck pain after work accident, what benefits get?",
+  "description": "2/3 wages starting day 4 of missed work.",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-a-week-of-work-from-neck-pain-after-work-accident-what-benefits-get-361",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed a week of work from neck pain after work accident, what benefits get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2/3 wages starting day 4 of missed work.",
+        "description": "**Temporary total disability pays 2/3 of average weekly wages from day 4 in Utah/Idaho, up to state max.** Continues until max medical improvement.[5] Key factors: Doctor excuses work; wage records needed; light duty may reduce. File for TTD promptly. Permanent benefits follow if lasting issues."
+      }
+    }
+  ]
+}

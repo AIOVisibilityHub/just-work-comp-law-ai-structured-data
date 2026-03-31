@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if workers comp denies my forklift accident claim?",
+  "description": "Appeal in 1 yr with lawyer; gather more proof like video, medical experts to overturn.",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-if-workers-comp-denies-my-forklift-accident-claim-257",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if workers comp denies my forklift accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal in 1 yr with lawyer; gather more proof like video, medical experts to overturn.",
+        "description": "**Appeal within 1 year via state board hearing; many denials overturned with better evidence.** Common reasons: late notice, not work-related.[6] Key factors: Pre-existing conditions or 'idiopathic' defenses countered by medical experts; forklift negligence proven via video/OSHA.[1][2] Request file review first. Attorney handles appeals successfully, securing benefits."
+      }
+    }
+  ]
+}

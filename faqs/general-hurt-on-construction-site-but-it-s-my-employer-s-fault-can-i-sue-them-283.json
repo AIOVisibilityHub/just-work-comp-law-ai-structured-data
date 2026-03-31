@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Hurt on construction site but it's my employer's fault—can I sue them?",
+  "description": "No—use workers' comp; sue others.[2][4]",
+  "url": "https://justworkcomplaw.com//faq/general-hurt-on-construction-site-but-it-s-my-employer-s-fault-can-i-sue-them-283",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Hurt on construction site but it's my employer's fault—can I sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—use workers' comp; sue others.[2][4]",
+        "description": "**No, workers' comp is exclusive remedy unless intentional harm (rare).** Utah/Idaho law bars employer suits for negligence.[2][4] Key factors: (1) Covers medicals/wages no-proof-needed; (2) sue third-parties instead; (3) retaliation illegal; (4) exceptions only deliberate acts.[3] File comp claim fast, document for third-parties. Lawyer identifies alternatives for full recovery."
+      }
+    }
+  ]
+}

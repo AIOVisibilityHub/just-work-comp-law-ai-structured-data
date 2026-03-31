@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is hearing loss from factory noise considered occupational disease or injury?",
+  "description": "Occupational disease—same comp process.[2][3]",
+  "url": "https://justworkcomplaw.com//faq/general-is-hearing-loss-from-factory-noise-considered-occupational-disease-or-injury-215",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is hearing loss from factory noise considered occupational disease or injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Occupational disease—same comp process.[2][3]",
+        "description": "Occupational disease in Utah/Idaho for gradual exposure, treated under workers' comp.[1][2][3] Same benefits apply.[2] Key factors: Last exposure triggers SOL, prove arising out of employment.[2] File as disease with Labor Commission/Idaho Industrial Comm.[2][3] Expert differentiates from age.[3]"
+      }
+    }
+  ]
+}

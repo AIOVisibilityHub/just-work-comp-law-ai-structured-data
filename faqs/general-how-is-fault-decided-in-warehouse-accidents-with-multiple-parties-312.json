@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in warehouse accidents with multiple parties?",
+  "description": "Negligence + proximate cause; comp no-fault.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-warehouse-accidents-with-multiple-parties-312",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in warehouse accidents with multiple parties?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negligence + proximate cause; comp no-fault.[2]",
+        "description": "**Workers' comp ignores fault; for lawsuits, negligence per state law apportions liability.** Proximate cause key, as in UPS cases.[2] Key factors: safety regs violations; witness testimony. Investigate contractors/equipment; comparative fault reduces award. Expert reconstruction helps.[2]"
+      }
+    }
+  ]
+}

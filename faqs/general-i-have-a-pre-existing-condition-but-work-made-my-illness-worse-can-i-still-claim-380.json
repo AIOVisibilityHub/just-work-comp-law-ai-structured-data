@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing condition but work made my illness worse—can I still claim in Utah?",
+  "description": "Yes, covers work aggravation of pre-existing issues.[4][5]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-condition-but-work-made-my-illness-worse-can-i-still-claim-380",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing condition but work made my illness worse—can I still claim in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, covers work aggravation of pre-existing issues.[4][5]",
+        "description": "Yes, workers' comp covers aggravation of pre-existing conditions if work substantially contributed.[4][5] Employers pay for increased disability from work factors, with apportionment possible.[5] Key factors: (1) expert testimony on aggravation; (2) pre-work baseline; (3) work as prevailing factor. Obtain comparative medical opinions. File claim detailing changes. Legal help navigates apportionment disputes."
+      }
+    }
+  ]
+}

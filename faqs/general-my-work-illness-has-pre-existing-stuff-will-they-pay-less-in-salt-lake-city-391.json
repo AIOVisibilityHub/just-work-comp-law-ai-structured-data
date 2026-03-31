@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work illness has pre-existing stuff—will they pay less in Salt Lake City?",
+  "description": "Apportioned to work portion only.[4][5]",
+  "url": "https://justworkcomplaw.com//faq/general-my-work-illness-has-pre-existing-stuff-will-they-pay-less-in-salt-lake-city-391",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work illness has pre-existing stuff—will they pay less in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Apportioned to work portion only.[4][5]",
+        "description": "Possibly apportioned; employer pays only work-aggravated portion.[4][5] Idaho/Utah apportion based on pre-existing hindrance.[4] Key factors: (1) baseline impairment proof; (2) work contribution %; (3) ISIF for severe pre-existing. Demand full eval. Negotiate no-apportion. Legal fight maximizes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured subcontractor caused my injury in Boise—any recourse?",
+  "description": "Sue sub personally + gen contractor.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-subcontractor-caused-my-injury-in-boise-any-recourse-291",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured subcontractor caused my injury in Boise—any recourse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue sub personally + gen contractor.[2]",
+        "description": "**Yes, sue them personally and check general contractor liability.** Idaho third-party claims hold individuals accountable.[2] Key factors: (1) Property owners often vicarious; (2) workers' comp still pays; (3) assets seizable; (4) 2-year limit.[2][3] File comp, investigate finances, attorney collects judgments. Alternatives ensure payment."
+      }
+    }
+  ]
+}

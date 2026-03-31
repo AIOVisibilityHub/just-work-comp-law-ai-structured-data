@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says not working when back hurt, denied—help?",
+  "description": "Prove on-duty—appeal wins benefits[1].",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-not-working-when-back-hurt-denied-help-346",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says not working when back hurt, denied—help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prove on-duty—appeal wins benefits[1].",
+        "description": "**Fight it: prove 'course and scope' via testimony, routine duties.** Utah judge ruled for worker[1]. **Key factors:** Location/time on clock, witnesses. **Practical guidance:** Appeal to Labor Commission, subpoena records. Won lost wages + impairment[1]. **Don't settle low.**"
+      }
+    }
+  ]
+}

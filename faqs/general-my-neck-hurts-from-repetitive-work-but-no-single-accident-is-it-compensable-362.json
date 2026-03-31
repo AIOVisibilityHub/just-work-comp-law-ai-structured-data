@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My neck hurts from repetitive work but no single accident, is it compensable?",
+  "description": "Yes for cumulative if work-proven.",
+  "url": "https://justworkcomplaw.com//faq/general-my-neck-hurts-from-repetitive-work-but-no-single-accident-is-it-compensable-362",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My neck hurts from repetitive work but no single accident, is it compensable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for cumulative if work-proven.",
+        "description": "**Yes, cumulative trauma neck injuries qualify as occupational if work caused.** Utah/Idaho cover gradual onset with medical proof.[1] Key factors: Show job duties primary cause; symptom logs; specialist opinion. Harder than acute; report when disabling. Attorney builds gradual case."
+      }
+    }
+  ]
+}

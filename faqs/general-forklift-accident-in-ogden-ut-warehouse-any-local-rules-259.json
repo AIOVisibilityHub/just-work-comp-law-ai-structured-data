@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Forklift accident in Ogden UT warehouse, any local rules?",
+  "description": "Utah: 3-yr limit, 180-day notice, file w/ state fund—same as general but local filing.",
+  "url": "https://justworkcomplaw.com//faq/general-forklift-accident-in-ogden-ut-warehouse-any-local-rules-259",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Forklift accident in Ogden UT warehouse, any local rules?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah: 3-yr limit, 180-day notice, file w/ state fund—same as general but local filing.",
+        "description": "**Utah workers' comp governs: file with Employers Reinsurance Corp within 3 yrs, no-fault benefits.** Local OSHA enforces forklift training.[1][5] Key factors: Notify employer <180 days; third-party if contractor involved. Provo/Salt Lake courts handle suits. Consult UT attorney for state-specific forms/deadlines."
+      }
+    }
+  ]
+}

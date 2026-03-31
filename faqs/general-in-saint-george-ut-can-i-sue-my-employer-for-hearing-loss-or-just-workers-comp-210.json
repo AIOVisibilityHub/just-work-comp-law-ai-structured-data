@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Saint George UT, can I sue my employer for hearing loss or just workers comp?",
+  "description": "Workers' comp only vs employer; sue third parties maybe.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-in-saint-george-ut-can-i-sue-my-employer-for-hearing-loss-or-just-workers-comp-210",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Saint George UT, can I sue my employer for hearing loss or just workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp only vs employer; sue third parties maybe.[4]",
+        "description": "Workers' comp is exclusive remedy in Utah for job injuries like noise loss—no lawsuits against employer unless intentional misconduct.[1][6] Third-party suits possible if equipment maker at fault.[4] Key factors: File WC first via Labor Commission, gross negligence rare exception.[2] Pursue comp for medical/permanent disability.[1] Attorney checks third-party angles.[4]"
+      }
+    }
+  ]
+}

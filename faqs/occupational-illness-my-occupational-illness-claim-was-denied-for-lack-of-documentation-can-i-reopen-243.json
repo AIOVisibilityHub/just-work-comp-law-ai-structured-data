@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My occupational illness claim was denied for lack of documentation, can I reopen?",
+  "description": "Yes, new evidence; act within 20 days[2].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-my-occupational-illness-claim-was-denied-for-lack-of-documentation-can-i-reopen-243",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My occupational illness claim was denied for lack of documentation, can I reopen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, new evidence; act within 20 days[2].",
+        "description": "Yes, with new evidence within time limits.\n\nUtah allows motions to reconsider[2].\n\n- Submit missing docs.\n- Appeal deadlines strict.\n- Stronger proof needed.\n\nLawyer reopens effectively."
+      }
+    }
+  ]
+}

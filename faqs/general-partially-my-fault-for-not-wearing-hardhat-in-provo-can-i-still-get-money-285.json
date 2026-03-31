@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault for not wearing hardhat in Provo—can I still get money?",
+  "description": "Yes under 50% fault—reduced award.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-partially-my-fault-for-not-wearing-hardhat-in-provo-can-i-still-get-money-285",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault for not wearing hardhat in Provo—can I still get money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes under 50% fault—reduced award.[1]",
+        "description": "**Yes, if under 50% at fault in Utah's modified comparative rule.** Recovery reduced proportionally, barred at 50%+.[1] Key factors: (1) Defendants argue your negligence; (2) prove their breach primary; (3) workers' comp unaffected; (4) evidence counters claims.[1][2] Document their violations, get lawyer to fight fault shift. Most partial-fault cases settle favorably."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my neck at work yesterday in Salt Lake City, what do I do right now?",
+  "description": "Report to employer now, get medical care from approved doctor, document everything.",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-neck-at-work-yesterday-in-salt-lake-city-what-do-i-do-right-now-350",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my neck at work yesterday in Salt Lake City, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer now, get medical care from approved doctor, document everything.",
+        "description": "**Report the injury to your employer immediately, ideally within 24 hours, and seek medical attention from an approved provider.** In Utah, workers' comp covers workplace neck injuries if work-related, but prompt reporting preserves your claim.[1] Key factors: Get documentation from doctor linking injury to work; don't delay as Utah has a 180-day notice limit; employer must provide panel doctor list. See a doctor ASAP, request light duty if possible, and keep records of everything. Consult a workers' comp attorney if unsure about next steps."
+      }
+    }
+  ]
+}

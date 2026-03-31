@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get benefits if warehouse accident worsened my old shoulder issue?",
+  "description": "Yes for aggravation portion.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-benefits-if-warehouse-accident-worsened-my-old-shoulder-issue-323",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get benefits if warehouse accident worsened my old shoulder issue?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for aggravation portion.[3]",
+        "description": "**Yes, apportionment covers new worsening; prior stable conditions qualify.** Expert testimony key.[3] Key factors: baseline records; impairment change. Avoid if degenerative only; comp pays increase. Common success.[3]"
+      }
+    }
+  ]
+}

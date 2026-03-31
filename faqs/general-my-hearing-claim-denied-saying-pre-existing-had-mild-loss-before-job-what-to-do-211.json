@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My hearing claim denied saying pre-existing—had mild loss before job, what to do?",
+  "description": "Prove job aggravated it—new expert opinion needed for appeal.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-hearing-claim-denied-saying-pre-existing-had-mild-loss-before-job-what-to-do-211",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My hearing claim denied saying pre-existing—had mild loss before job, what to do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prove job aggravated it—new expert opinion needed for appeal.[3]",
+        "description": "Prove aggravation by work noise counts as compensable; get expert to apportion job contribution.[3] Idaho/Utah allow if employment substantially caused worsening.[1][3] Key factors: Compare pre/post audiograms, noise type matches pattern.[3] Challenge with new opinion, appeal denial.[3][5] Lawyer argues cumulative trauma.[1]"
+      }
+    }
+  ]
+}

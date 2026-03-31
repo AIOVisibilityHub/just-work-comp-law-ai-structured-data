@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Salt Lake City, how long for occupational illness comp decision?",
+  "description": "3-12 months typical[2].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-in-salt-lake-city-how-long-for-occupational-illness-comp-decision-248",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Salt Lake City, how long for occupational illness comp decision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "3-12 months typical[2].",
+        "description": "3-12 months; faster if uncontested.\n\nUtah Commission hearings scheduled post-filing[2].\n\n- Evidence delays common.\n- Appeals add 6+ months.\n- Interim benefits possible.\n\nPatience; track status."
+      }
+    }
+  ]
+}

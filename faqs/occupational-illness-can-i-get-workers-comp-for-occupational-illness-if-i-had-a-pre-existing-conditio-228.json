@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp for occupational illness if I had a pre-existing condition that work made worse, like in Ogden?",
+  "description": "Idaho says no for aggravation[1]; prove distinct work disease with expert MD; consult lawyer.",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-can-i-get-workers-comp-for-occupational-illness-if-i-had-a-pre-existing-conditio-228",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp for occupational illness if I had a pre-existing condition that work made worse, like in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Idaho says no for aggravation[1]; prove distinct work disease with expert MD; consult lawyer.",
+        "description": "No, generally not in Idaho; aggravation of pre-existing conditions isn't compensable as occupational disease[1].\n\nIdaho law excludes preexisting conditions worsened by work unless it's a true new occupational disease[1]. Utah may allow if work substantially contributed.\n\n- Prove work caused a distinct disease, not just aggravation.\n- Medical experts must differentiate.\n- Exceptions rare, like Stevens case[1].\n\nGet a second opinion from occupational specialist; attorney review needed to assess viability before filing."
+      }
+    }
+  ]
+}

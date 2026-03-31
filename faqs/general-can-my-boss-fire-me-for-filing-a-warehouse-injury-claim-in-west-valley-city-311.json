@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my boss fire me for filing a warehouse injury claim in West Valley City?",
+  "description": "Illegal retaliation; report to labor dept.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-boss-fire-me-for-filing-a-warehouse-injury-claim-in-west-valley-city-311",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my boss fire me for filing a warehouse injury claim in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal retaliation; report to labor dept.[1]",
+        "description": "**No, Utah/Idaho law protects against retaliation; it's illegal to terminate for comp claims.** Prove via timing and statements.[1] Key factors: document harassment; file complaint with Labor Commission. Seek unemployment if fired; sue for wrongful termination. Protections are strong.[4]"
+      }
+    }
+  ]
+}

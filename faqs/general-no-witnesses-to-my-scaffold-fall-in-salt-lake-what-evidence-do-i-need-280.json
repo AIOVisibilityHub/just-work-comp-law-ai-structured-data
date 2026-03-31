@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my scaffold fall in Salt Lake—what evidence do I need?",
+  "description": "Photos, medicals, OSHA reports—lawyers get more via discovery.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-scaffold-fall-in-salt-lake-what-evidence-do-i-need-280",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my scaffold fall in Salt Lake—what evidence do I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Photos, medicals, OSHA reports—lawyers get more via discovery.[1][2]",
+        "description": "**Medical records, photos, incident reports, expert reconstructions suffice even without witnesses.** Utah courts accept OSHA logs, coworker statements, site videos.[1][4] Key factors: (1) Supervisor reports often exist; (2) preserve clothing/PPE showing defects; (3) medical timeline proves causation; (4) lawyers use discovery for hidden evidence.[2] Take site photos immediately, request employer logs, avoid erasing digital proof. An attorney compels full disclosure for strong cases."
+      }
+    }
+  ]
+}

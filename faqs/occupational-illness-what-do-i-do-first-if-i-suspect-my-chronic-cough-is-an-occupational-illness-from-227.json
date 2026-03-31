@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do I do first if I suspect my chronic cough is an occupational illness from my job in Salt Lake City?",
+  "description": "Notify employer in writing now, see doctor, file claim; Utah deadline is 180 days from knowing it's work-related[2].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-do-i-do-first-if-i-suspect-my-chronic-cough-is-an-occupational-illness-from-227",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I do first if I suspect my chronic cough is an occupational illness from my job in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer in writing now, see doctor, file claim; Utah deadline is 180 days from knowing it's work-related[2].",
+        "description": "Notify your employer in writing immediately and see a doctor for diagnosis.\n\nUtah workers comp for occupational diseases starts with prompt reporting to preserve rights. Delays can forfeit benefits[2].\n\n- Submit written notice within 180 days of knowledge.\n- Get independent medical exam if needed.\n- File formal claim with Utah Labor Commission if denied.\n\nAct fast to avoid time bars; a local attorney can file properly and negotiate benefits like TTD or medical costs."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Neck surgery needed from work injury, does comp cover it?",
+  "description": "Yes, if work-related and authorized.",
+  "url": "https://justworkcomplaw.com//faq/general-neck-surgery-needed-from-work-injury-does-comp-cover-it-365",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Neck surgery needed from work injury, does comp cover it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work-related and authorized.",
+        "description": "**Yes, if doctor deems necessary and causally related; comp pays reasonable care.** But must follow referral chain.[2] Key factors: Prior authorization often; disputes lead to IME; future care included. Idaho cases deny if unproven link.[2] Appeal denials."
+      }
+    }
+  ]
+}

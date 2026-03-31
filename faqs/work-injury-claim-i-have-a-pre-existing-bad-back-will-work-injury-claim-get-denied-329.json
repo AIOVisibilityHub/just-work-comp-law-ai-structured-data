@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing bad back, will work injury claim get denied?",
+  "description": "Aggravation of pre-existing is covered—need medical proof of work link[4][5].",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-i-have-a-pre-existing-bad-back-will-work-injury-claim-get-denied-329",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing bad back, will work injury claim get denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aggravation of pre-existing is covered—need medical proof of work link[4][5].",
+        "description": "**No, if work accident aggravated your pre-existing condition, it's compensable.** Prior injuries don't bar claims if new incident caused worsening, as in multi-injury cases[4]. **Key factors:** Medical expert testimony on aggravation vs. prior alone, work history showing functionality before. **Practical guidance:** Disclose history honestly to doctors, get causation opinion, file promptly. ISIF in Idaho may cover combined disabilities[4]. Appeal denials. **Prove work was 'a cause'[5].**"
+      }
+    }
+  ]
+}

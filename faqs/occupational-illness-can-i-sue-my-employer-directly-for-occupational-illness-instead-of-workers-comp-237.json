@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer directly for occupational illness instead of workers comp?",
+  "description": "No, comp exclusive unless intentional; stick to claim[1].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-can-i-sue-my-employer-directly-for-occupational-illness-instead-of-workers-comp-237",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer directly for occupational illness instead of workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp exclusive unless intentional; stick to claim[1].",
+        "description": "Rarely; workers comp is exclusive remedy unless intentional tort.\n\nLimits third-party suits; employer immunity for negligence[1].\n\n- Exceptions: deliberate harm.\n- Product liability separate.\n- Higher proof threshold.\n\nComp first; lawyer assesses suits."
+      }
+    }
+  ]
+}

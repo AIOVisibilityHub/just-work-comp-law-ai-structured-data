@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed 2 months work after forklift injury, how to get paid?",
+  "description": "Comp wage loss: 2/3 avg pay; submit med proof, no wait after 14 days.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-2-months-work-after-forklift-injury-how-to-get-paid-266",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed 2 months work after forklift injury, how to get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp wage loss: 2/3 avg pay; submit med proof, no wait after 14 days.",
+        "description": "**Workers' comp pays ~2/3 wages from day 1 in UT after 3-day wait.** Submit doctor notes.[6] Key factors: Temporary total disability rate calculated on avg weekly wage. Permanent partial later. Track all losses. Appeal shortfalls."
+      }
+    }
+  ]
+}

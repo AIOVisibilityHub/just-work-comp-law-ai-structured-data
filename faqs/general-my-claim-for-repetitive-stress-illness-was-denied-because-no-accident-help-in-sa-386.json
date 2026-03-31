@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My claim for repetitive stress illness was denied because no 'accident'—help in Saint George?",
+  "description": "No accident needed for repetitive illnesses.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-claim-for-repetitive-stress-illness-was-denied-because-no-accident-help-in-sa-386",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My claim for repetitive stress illness was denied because no 'accident'—help in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No accident needed for repetitive illnesses.[3]",
+        "description": "Occupational diseases don't need a single accident; prove gradual work causation.[3] Utah/Idaho cover repetitive conditions without discrete events.[3] Key factors: (1) doctor linking to duties; (2) work predominance; (3) rebut denial. Appeal with expert report. Preserve job descriptions. Lawyer overturns common denials."
+      }
+    }
+  ]
+}

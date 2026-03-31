@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much time off for comp with back injury?",
+  "description": "66% wages til better, then permanent pay—follow doc[1].",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-time-off-for-comp-with-back-injury-341",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much time off for comp with back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66% wages til better, then permanent pay—follow doc[1].",
+        "description": "**Temporary total disability pays 66% wages until max medical improvement, often 3-12 months for backs.** Permanent then rated[1]. **Key factors:** Doctor release, light duty offers. **Practical guidance:** Follow restrictions, dispute unfair return pressure. Appeal cuts[1]. **Idaho/UT similar.**"
+      }
+    }
+  ]
+}

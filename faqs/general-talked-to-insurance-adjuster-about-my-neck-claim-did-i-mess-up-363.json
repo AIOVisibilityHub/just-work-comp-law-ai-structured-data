@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster about my neck claim, did I mess up?",
+  "description": "Be cautious; consult lawyer before more talks.",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-about-my-neck-claim-did-i-mess-up-363",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster about my neck claim, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Be cautious; consult lawyer before more talks.",
+        "description": "**Possibly; adjusters seek statements to deny—say little without lawyer.** Recorded talks used against you.[2] Key factors: Don't admit partial fault; request all in writing; no off-record chats. Common mistake; review what said. Lawyer protects from lowball offers."
+      }
+    }
+  ]
+}

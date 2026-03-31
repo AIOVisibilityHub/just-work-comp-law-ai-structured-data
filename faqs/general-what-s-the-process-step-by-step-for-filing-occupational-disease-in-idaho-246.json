@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process step-by-step for filing occupational disease in Idaho?",
+  "description": "Notify, doctor, file, appeal if needed[1].",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-process-step-by-step-for-filing-occupational-disease-in-idaho-246",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process step-by-step for filing occupational disease in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify, doctor, file, appeal if needed[1].",
+        "description": "1. Notify employer. 2. Doctor. 3. File with Commission. 4. Hearing if denied.\n\n60-day employment min[1].\n\n- Written notice ASAP.\n- Medical proof central.\n- Attorney guides.\n\nFollow precisely."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple companies at site, who pays for forklift accident?",
+  "description": "Employer comp + sue others (contractors, owners) for more.",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-companies-at-site-who-pays-for-forklift-accident-268",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple companies at site, who pays for forklift accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer comp + sue others (contractors, owners) for more.",
+        "description": "**Your employer's comp first; sue negligent third-parties like other contractors.** Apportion fault.[5][7] Key factors: Labor laws hold site owners liable for safety. Evidence IDs responsible. Max recovery via suit."
+      }
+    }
+  ]
+}

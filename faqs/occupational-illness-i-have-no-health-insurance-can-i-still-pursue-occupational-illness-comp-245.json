@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have no health insurance, can I still pursue occupational illness comp?",
+  "description": "Yes, comp pays medical fully[1].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-i-have-no-health-insurance-can-i-still-pursue-occupational-illness-comp-245",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have no health insurance, can I still pursue occupational illness comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comp pays medical fully[1].",
+        "description": "Yes; comp covers all medical costs.\n\nNo personal insurance needed[1].\n\n- Employer insurer pays.\n- Includes future care.\n- No deductibles.\n\nClaim prioritizes treatment."
+      }
+    }
+  ]
+}

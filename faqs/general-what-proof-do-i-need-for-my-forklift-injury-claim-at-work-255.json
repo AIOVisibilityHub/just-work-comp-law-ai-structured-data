@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for my forklift injury claim at work?",
+  "description": "Scene photos, medical records, witnesses, video, maintenance/OSHA logs, incident report.",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-my-forklift-injury-claim-at-work-255",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for my forklift injury claim at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scene photos, medical records, witnesses, video, maintenance/OSHA logs, incident report.",
+        "description": "**Photos of scene/forklift damage, witness statements, medical records, incident report, surveillance video, OSHA logs.** These prove negligence and causation.[1][6] Key factors: Operator training records, maintenance logs showing defects; expert testimony on standards.[4] Pre-existing issues need doctor linkage to accident. Secure evidence before employer discards. Attorney subpoenas records for strong claim."
+      }
+    }
+  ]
+}

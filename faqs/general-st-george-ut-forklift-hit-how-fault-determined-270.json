@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "St George UT forklift hit, how fault determined?",
+  "description": "Negligence proof via evidence; % fault reduces suit awards.",
+  "url": "https://justworkcomplaw.com//faq/general-st-george-ut-forklift-hit-how-fault-determined-270",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "St George UT forklift hit, how fault determined?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Negligence proof via evidence; % fault reduces suit awards.",
+        "description": "**Investigate negligence: training, speed, signals, maintenance; comparative fault reduces if shared.** Video/OSHA key.[1][5] Key factors: Operator error common; employer vicarious liability. UT pure comparative. Experts assign %."
+      }
+    }
+  ]
+}

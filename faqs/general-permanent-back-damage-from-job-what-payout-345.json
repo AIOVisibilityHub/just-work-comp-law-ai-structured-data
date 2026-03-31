@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent back damage from job, what payout?",
+  "description": "Impairment % x wage max + future meds[1].",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-back-damage-from-job-what-payout-345",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent back damage from job, what payout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Impairment % x wage max + future meds[1].",
+        "description": "**Lump sum based on impairment rating (e.g., 5-20% whole person for disc issues) times state max weekly rate.** Utah adds interest[1]. **Key factors:** AMA guides rating, future care. **Practical guidance:** Independent rating post-MMI, negotiate settlement. $20k-$150k common[1]. **Attorney maximizes.**"
+      }
+    }
+  ]
+}

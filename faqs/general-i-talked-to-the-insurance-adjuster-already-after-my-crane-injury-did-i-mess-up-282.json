@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I talked to the insurance adjuster already after my crane injury—did I mess up?",
+  "description": "Yes, risky—lawyer reviews/ counters statements.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-talked-to-the-insurance-adjuster-already-after-my-crane-injury-did-i-mess-up-282",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I talked to the insurance adjuster already after my crane injury—did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, risky—lawyer reviews/ counters statements.[1][2]",
+        "description": "**Possibly, as adjusters record statements to lowball; don't sign anything without review.** They probe for fault admissions in Utah/Idaho claims.[1][2] Key factors: (1) Statements used against you in comparative fault; (2) no legal duty to speak without lawyer; (3) workers' comp separate but impacts third-party; (4) retract via attorney.[3] Stop contact, request statement transcript, consult lawyer to counter. Early legal help fixes most issues."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get permanent disability for chronic neck pain from job injury?",
+  "description": "Yes post-MMI with impairment rating.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-permanent-disability-for-chronic-neck-pain-from-job-injury-372",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get permanent disability for chronic neck pain from job injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes post-MMI with impairment rating.",
+        "description": "**Yes, after MMI if impairment rated 1-100%; pays scheduled or whole person %.** Utah/Idaho use AMA guides.[5] Key factors: Objective tests; doc rating; retraining if total. Common for fusions. Apply post-healing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get benefits if partially at fault for my occupational exposure?",
+  "description": "Yes, no-fault coverage[1].",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-benefits-if-partially-at-fault-for-my-occupational-exposure-242",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get benefits if partially at fault for my occupational exposure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault coverage[1].",
+        "description": "Yes; no-fault system.\n\nComp ignores personal fault if work-related[1].\n\n- Even unsafe acts covered.\n- Sole remedy.\n\nFile confidently."
+      }
+    }
+  ]
+}

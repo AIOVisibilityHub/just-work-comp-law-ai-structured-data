@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Neck symptoms started months after work accident, still eligible Boise?",
+  "description": "Yes with medical connection proof.",
+  "url": "https://justworkcomplaw.com//faq/general-neck-symptoms-started-months-after-work-accident-still-eligible-boise-370",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Neck symptoms started months after work accident, still eligible Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes with medical connection proof.",
+        "description": "**Yes, if medical links to original injury and within time limits.** Delayed causation accepted.[1] Key factors: Doctor testimony key; no unreasonable delay in reporting. Idaho requires proof accident caused.[2] Document progression."
+      }
+    }
+  ]
+}

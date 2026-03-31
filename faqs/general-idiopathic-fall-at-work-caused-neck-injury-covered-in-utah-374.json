@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idiopathic fall at work caused neck injury, covered in Utah?",
+  "description": "Yes if work worsened idiopathic fall.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-idiopathic-fall-at-work-caused-neck-injury-covered-in-utah-374",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idiopathic fall at work caused neck injury, covered in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work worsened idiopathic fall.[3]",
+        "description": "**Possibly, if work conditions like hard floor worsened it.** Recent appeals clarify.[3] Key factors: Prove employment increased hazard; not just risk, actual aggravation. Medical shows floor impact. Case-specific; attorney argues."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer provided earplugs but I didn't always wear them—can they deny my hearing claim?",
+  "description": "No—protection factor but not absolute bar if harmful noise proven causal.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-provided-earplugs-but-i-didn-t-always-wear-them-can-they-deny-my-hearin-208",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer provided earplugs but I didn't always wear them—can they deny my hearing claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No—protection factor but not absolute bar if harmful noise proven causal.[1]",
+        "description": "No, provision doesn't auto-deny if noise was 'harmful' and you prove exposure caused loss; courts weigh actual heard noise.[1] Utah considers protection but doesn't bar claims.[1] Key factors: Show inconsistent use still led to damage, medical causation overrides.[1][5] Document noise levels, get expert to affirm.[1] Appeal denials with attorney.[5]"
+      }
+    }
+  ]
+}

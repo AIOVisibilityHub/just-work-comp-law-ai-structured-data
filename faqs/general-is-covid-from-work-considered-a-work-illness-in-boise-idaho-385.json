@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is COVID from work considered a work illness in Boise Idaho?",
+  "description": "Yes, if workplace exposure caused it.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-is-covid-from-work-considered-a-work-illness-in-boise-idaho-385",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is COVID from work considered a work illness in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if workplace exposure caused it.[7]",
+        "description": "Yes, if contracted due to workplace exposure, like coworker illness.[7] Idaho courts recognize occupational COVID claims.[7] Key factors: (1) workplace outbreak link; (2) no personal exposure; (3) medical confirmation. File promptly with exposure timeline. Evidence like tests strengthens. Viable if proven job-related."
+      }
+    }
+  ]
+}

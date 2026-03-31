@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my warehouse injury claim gets denied by insurance?",
+  "description": "Appeal fast with doctor notes; get a lawyer.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-warehouse-injury-claim-gets-denied-by-insurance-305",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my warehouse injury claim gets denied by insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with doctor notes; get a lawyer.[3]",
+        "description": "**Appeal within 20 days in Utah or per Idaho rules, providing new evidence like doctor opinions.** Denials often stem from 'not work-related' findings.[1][3] Key factors: hire a lawyer experienced in hearings; common for initial denials. Request file review; prepare for Industrial Commission hearing. Most overturned with strong medical proof.[3]"
+      }
+    }
+  ]
+}

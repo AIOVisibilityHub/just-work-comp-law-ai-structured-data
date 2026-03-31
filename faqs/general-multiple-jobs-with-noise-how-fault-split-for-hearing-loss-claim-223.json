@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple jobs with noise, how fault split for hearing loss claim?",
+  "description": "Current employer pays, apportion via experts.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-jobs-with-noise-how-fault-split-for-hearing-loss-claim-223",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple jobs with noise, how fault split for hearing loss claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current employer pays, apportion via experts.[3]",
+        "description": "Apportion based on exposure contribution via medical opinion; current employer liable for full if last injurious.[2][3] Key factors: Expert allocates % per job, prior may offset.[3] File against last employer, seek prior records.[1] Lawyer handles multi-party.[5]"
+      }
+    }
+  ]
+}

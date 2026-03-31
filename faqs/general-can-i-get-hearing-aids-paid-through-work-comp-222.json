@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get hearing aids paid through work comp?",
+  "description": "Yes—medical benefits include aids.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-hearing-aids-paid-through-work-comp-222",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get hearing aids paid through work comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—medical benefits include aids.[5]",
+        "description": "Yes, if medically recommended for compensable loss.[2][5] Ongoing care possible.[1] Key factors: Tie to occupational cause, get prescription post-rating.[5] Submit bills to insurer, appeal denials.[3] Specialist ensures coverage.[5]"
+      }
+    }
+  ]
+}

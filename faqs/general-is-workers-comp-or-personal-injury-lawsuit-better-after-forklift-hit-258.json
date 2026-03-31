@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers comp or personal injury lawsuit better after forklift hit?",
+  "description": "Comp for basics (no-fault); lawsuit third-parties for extras—combine for most money.",
+  "url": "https://justworkcomplaw.com//faq/general-is-workers-comp-or-personal-injury-lawsuit-better-after-forklift-hit-258",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers comp or personal injury lawsuit better after forklift hit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp for basics (no-fault); lawsuit third-parties for extras—combine for most money.",
+        "description": "**Workers' comp first for quick no-fault medical/wages; sue third-parties additionally for pain/suffering.** Comp limits benefits.[6][7] Key factors: Comp no litigation but caps; suits yield higher for severe injuries like $20M verdict.[2] Comp required in UT/ID. Layer both for max recovery via attorney."
+      }
+    }
+  ]
+}

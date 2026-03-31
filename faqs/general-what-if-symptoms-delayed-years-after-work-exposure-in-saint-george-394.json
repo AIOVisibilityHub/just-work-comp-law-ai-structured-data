@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if symptoms delayed years after work exposure in Saint George?",
+  "description": "Yes, if linked to work and timely filed.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-symptoms-delayed-years-after-work-exposure-in-saint-george-394",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if symptoms delayed years after work exposure in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if linked to work and timely filed.[3]",
+        "description": "Still compensable if work caused, filed within limits from manifestation.[3] Cases recognize latent occupational diseases.[3] Key factors: (1) causation despite delay; (2) no new causes; (3) timely post-discovery. Retroactively document exposure. Expert timelines key. Viable claims exist."
+      }
+    }
+  ]
+}

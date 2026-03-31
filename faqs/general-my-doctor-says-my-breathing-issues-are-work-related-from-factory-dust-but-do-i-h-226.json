@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My doctor says my breathing issues are work-related from factory dust, but do I have enough evidence to win an occupational disease claim?",
+  "description": "Doctor's link plus exposure proof wins most cases; collect records, coworker info, and get a lawyer to strengthen evidence[3].",
+  "url": "https://justworkcomplaw.com//faq/general-my-doctor-says-my-breathing-issues-are-work-related-from-factory-dust-but-do-i-h-226",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My doctor says my breathing issues are work-related from factory dust, but do I have enough evidence to win an occupational disease claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor's link plus exposure proof wins most cases; collect records, coworker info, and get a lawyer to strengthen evidence[3].",
+        "description": "Medical diagnosis linking illness to work is key, but you need exposure records too.\n\nProving occupational disease requires showing you incurred it 'arising out of and in the course of employment' by preponderance of evidence[3]. Cases like COVID-19 claims failed without proving workplace origin over other sources[3].\n\n- Get detailed medical reports naming work as cause.\n- Gather employment records, coworker statements, safety data sheets.\n- Expert testimony often decides close cases.\n\nPreserve all evidence now and avoid insurer talks alone; hire a specialist to build your case effectively."
+      }
+    }
+  ]
+}

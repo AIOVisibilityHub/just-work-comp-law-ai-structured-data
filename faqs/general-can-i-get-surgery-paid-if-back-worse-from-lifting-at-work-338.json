@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get surgery paid if back worse from lifting at work?",
+  "description": "Yes, comp pays work-related surgery—use approved docs[1].",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-surgery-paid-if-back-worse-from-lifting-at-work-338",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get surgery paid if back worse from lifting at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comp pays work-related surgery—use approved docs[1].",
+        "description": "**Yes, if doctor deems necessary and work-related.** Comp covers approved treatments[1][2]. **Key factors:** Authorized providers, IME agreement. **Practical guidance:** Follow referrals, appeal denials, track costs. Future care included[1]. **Utah orders reimbursements[1].**"
+      }
+    }
+  ]
+}

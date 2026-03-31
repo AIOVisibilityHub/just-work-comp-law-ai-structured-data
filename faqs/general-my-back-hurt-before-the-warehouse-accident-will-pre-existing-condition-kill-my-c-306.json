@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back hurt before the warehouse accident - will pre-existing condition kill my claim?",
+  "description": "No, covers aggravation; get doctor to link it.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-back-hurt-before-the-warehouse-accident-will-pre-existing-condition-kill-my-c-306",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back hurt before the warehouse accident - will pre-existing condition kill my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, covers aggravation; get doctor to link it.[3]",
+        "description": "**No, if the accident aggravated it, workers' comp covers the worsening; prove via medical opinion.** Prior issues don't bar benefits if new injury occurred.[3][5] Key factors: doctor links aggravation to work event; avoid 'symptom magnification' accusations. Get independent exam if disputed; document baseline vs. post-injury. Aggravation claims often win.[3]"
+      }
+    }
+  ]
+}

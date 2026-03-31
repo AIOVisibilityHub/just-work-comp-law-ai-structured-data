@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my employer make me see their doctor for my work illness in Utah?",
+  "description": "Yes for IME, but get your own doctor too.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-employer-make-me-see-their-doctor-for-my-work-illness-in-utah-387",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my employer make me see their doctor for my work illness in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for IME, but get your own doctor too.[1]",
+        "description": "Yes, they can require an IME, but the doctor owes no treatment duty to you.[1] Utah Supreme Court limits IME liability.[1] Key factors: (1) attend or risk denial; (2) record inconsistencies; (3) get your own eval. Prepare questions, bring records. Dispute biased reports via appeal. Your rights protected."
+      }
+    }
+  ]
+}

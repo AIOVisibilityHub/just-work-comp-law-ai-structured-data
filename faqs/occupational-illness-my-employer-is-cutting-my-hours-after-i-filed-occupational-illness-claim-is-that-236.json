@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer is cutting my hours after I filed occupational illness claim, is that retaliation?",
+  "description": "Yes, illegal; document and complain to labor board.",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-my-employer-is-cutting-my-hours-after-i-filed-occupational-illness-claim-is-that-236",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer is cutting my hours after I filed occupational illness claim, is that retaliation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, illegal; document and complain to labor board.",
+        "description": "Possibly illegal; protected activity.\n\nUtah/Idaho ban retaliation for comp claims; prove timing link.\n\n- Document changes, communications.\n- File complaint with labor dept.\n- Seek reinstatement, backpay.\n\nAttorney protects rights quickly."
+      }
+    }
+  ]
+}

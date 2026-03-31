@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss says it's not covered cuz I wasn't clocked in - true?",
+  "description": "No, course of employment counts.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-boss-says-it-s-not-covered-cuz-i-wasn-t-clocked-in-true-320",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss says it's not covered cuz I wasn't clocked in - true?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, course of employment counts.[9]",
+        "description": "**No, if arising out of/in course of employment (e.g., breaks), it's covered.** 'Horseplay' exception rare.[9] Key factors: prove work-related; time logs. Hearing resolves disputes; most qualify. Don't accept denial.[3]"
+      }
+    }
+  ]
+}

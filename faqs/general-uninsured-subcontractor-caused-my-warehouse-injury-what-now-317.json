@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured subcontractor caused my warehouse injury - what now?",
+  "description": "Employer comp + sue uninsured party.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-subcontractor-caused-my-warehouse-injury-what-now-317",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured subcontractor caused my warehouse injury - what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer comp + sue uninsured party.[6]",
+        "description": "**File against your employer's comp carrier; sue subcontractor personally if negligent.** States require coverage.[1][6] Key factors: prove no insurance; assets for judgment. Labor dept enforces; comp first. Recovery possible via suit.[4]"
+      }
+    }
+  ]
+}

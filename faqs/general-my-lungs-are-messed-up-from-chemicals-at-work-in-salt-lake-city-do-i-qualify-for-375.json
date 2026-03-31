@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My lungs are messed up from chemicals at work in Salt Lake City, do I qualify for workers comp?",
+  "description": "Yes, chemical-induced lung issues from work qualify as occupational disease if medically linked to your job.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-my-lungs-are-messed-up-from-chemicals-at-work-in-salt-lake-city-do-i-qualify-for-375",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My lungs are messed up from chemicals at work in Salt Lake City, do I qualify for workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, chemical-induced lung issues from work qualify as occupational disease if medically linked to your job.[9]",
+        "description": "Yes, if your lung condition is caused by workplace chemical exposure, it qualifies as a compensable occupational disease under Utah workers' compensation law.[1][9] Utah law covers illnesses from work conditions, including repetitive exposure or toxic substances, without needing a single 'accident'.[9] Key factors: (1) medical evidence linking illness to job duties; (2) symptoms arose from work environment; (3) reported timely to employer. Document doctor visits and exposure details immediately, then file a claim with the Utah Labor Commission. Consult a specialist to strengthen causation proof. Get evaluated by a workers' comp attorney promptly."
+      }
+    }
+  ]
+}

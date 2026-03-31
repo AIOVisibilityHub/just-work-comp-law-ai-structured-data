@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my occupational illness case worth if I can't work anymore from asbestosis?",
+  "description": "Lost wages + medical + disability pay; totals $100k+ for total disability[4].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-s-my-occupational-illness-case-worth-if-i-can-t-work-anymore-from-asbestosi-233",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my occupational illness case worth if I can't work anymore from asbestosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lost wages + medical + disability pay; totals $100k+ for total disability[4].",
+        "description": "Depends on wages, disability degree, medical costs; permanent total can be 6x average wages or lifetime benefits.\n\nIdaho/Utah award TTD, PPD, medical, sometimes death benefits[1][4].\n\n- Calculate lost wages x duration.\n- Factor impairment rating.\n- Settlements average $50k-$200k+.\n\nAttorney evaluates for max value; free consults common."
+      }
+    }
+  ]
+}

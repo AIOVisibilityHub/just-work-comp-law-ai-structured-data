@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the first thing I should do if I think my breathing problems are from work dust in Boise?",
+  "description": "Notify employer in writing now and get a work-linked medical diagnosis.[2][3]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-s-the-first-thing-i-should-do-if-i-think-my-breathing-problems-are-from-wor-377",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the first thing I should do if I think my breathing problems are from work dust in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer in writing now and get a work-linked medical diagnosis.[2][3]",
+        "description": "Notify your employer in writing immediately and see a doctor for diagnosis linking symptoms to work exposure.[2] Idaho workers' comp requires prompt reporting to preserve claims for occupational illnesses like dust-related lung disease.[3] Key factors: (1) written notice within 60 days; (2) medical documentation; (3) employer acknowledgment. Follow up with Industrial Commission filing if denied, preserve exposure evidence like safety reports. Don't delay—statutes start from awareness. An attorney can file properly."
+      }
+    }
+  ]
+}

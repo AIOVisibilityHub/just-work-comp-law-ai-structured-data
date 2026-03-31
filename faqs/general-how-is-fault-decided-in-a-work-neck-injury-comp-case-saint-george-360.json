@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in a work neck injury comp case Saint George?",
+  "description": "No-fault system; just prove work connection.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-a-work-neck-injury-comp-case-saint-george-360",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in a work neck injury comp case Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault system; just prove work connection.",
+        "description": "**Workers' comp is no-fault; benefits owed regardless of your or employer's fault if work-related.** Strict liability for covered injuries.[3] Key factors: Only prove arose out of employment; idiopathic falls may qualify if work worsened.[3] No lawsuits against boss. Focus on causation evidence."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed some work due to occupational illness but symptoms were delayed, does that hurt my claim?",
+  "description": "No, prove from last work exposure; document losses[1].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-i-missed-some-work-due-to-occupational-illness-but-symptoms-were-delayed-does-th-235",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed some work due to occupational illness but symptoms were delayed, does that hurt my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, prove from last work exposure; document losses[1].",
+        "description": "No, if you prove last injurious exposure caused it.\n\nIdaho requires incapacity from last occupation exposed[1].\n\n- Link to specific job hazards.\n- Document all lost time.\n- Timely notice key.\n\nLawyer reconstructs timeline for approval."
+      }
+    }
+  ]
+}

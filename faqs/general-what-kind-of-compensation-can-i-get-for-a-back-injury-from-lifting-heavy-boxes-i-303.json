@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I get for a back injury from lifting heavy boxes in the warehouse?",
+  "description": "Medical, 66% lost wages, disability pay via workers' comp.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-kind-of-compensation-can-i-get-for-a-back-injury-from-lifting-heavy-boxes-i-303",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I get for a back injury from lifting heavy boxes in the warehouse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, 66% lost wages, disability pay via workers' comp.[1]",
+        "description": "**Workers' comp covers medical expenses, lost wages (typically 66% of average weekly wage), and permanent disability benefits if applicable.** Pain/suffering isn't covered, but third-party suits might add that.[1][3] Key factors: prove injury arose from employment; maximums vary by state (Utah caps at 312 weeks). Document doctor visits and work restrictions; negotiate settlements carefully. Values depend on injury severity - severe cases reach six figures.[3]"
+      }
+    }
+  ]
+}

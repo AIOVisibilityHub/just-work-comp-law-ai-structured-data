@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim if partially at fault for getting sick at work in Ogden?",
+  "description": "Yes, no-fault system.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-claim-if-partially-at-fault-for-getting-sick-at-work-in-ogden-399",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim if partially at fault for getting sick at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault system.[9]",
+        "description": "Yes, workers' comp is no-fault; covers illnesses regardless of your actions.[9] No comparative negligence in comp.[9] Key factors: (1) work causation; (2) ignore personal fault. Focus on link. Simplifies claims greatly."
+      }
+    }
+  ]
+}

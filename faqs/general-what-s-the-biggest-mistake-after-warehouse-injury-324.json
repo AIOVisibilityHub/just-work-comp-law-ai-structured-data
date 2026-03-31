@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the biggest mistake after warehouse injury?",
+  "description": "Delay reporting or solo insurer talks.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-biggest-mistake-after-warehouse-injury-324",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the biggest mistake after warehouse injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delay reporting or solo insurer talks.[1]",
+        "description": "**Not reporting immediately or talking to adjuster without lawyer - leads to denials/low offers.**[1][4] Key factors: delay loses evidence; admissions hurt. Write report, photo site, seek care. Lawyer prevents pitfalls; free consult. Avoid rushing settlement.[10]"
+      }
+    }
+  ]
+}

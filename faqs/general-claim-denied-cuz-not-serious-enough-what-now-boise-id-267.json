@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied cuz 'not serious enough,' what now Boise ID?",
+  "description": "Appeal w/ better evidence in 1 yr—ID commission hearing.",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-cuz-not-serious-enough-what-now-boise-id-267",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied cuz 'not serious enough,' what now Boise ID?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal w/ better evidence in 1 yr—ID commission hearing.",
+        "description": "**Appeal to Idaho Industrial Commission within 1 yr; provide more medical proof.** Many reversed.[2] Key factors: Quantify pain, future care; forklift cases often severe. Idaho no-fault comp. Lawyer wins appeals."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got sick from repetitive motions at my factory job in Ogden, how do I prove it's work-related?",
+  "description": "Use doctor reports tying repetitive tasks to your diagnosis, plus job records.[3][5]",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-sick-from-repetitive-motions-at-my-factory-job-in-ogden-how-do-i-prove-it--376",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got sick from repetitive motions at my factory job in Ogden, how do I prove it's work-related?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use doctor reports tying repetitive tasks to your diagnosis, plus job records.[3][5]",
+        "description": "Provide medical reports diagnosing repetitive strain and linking it to job tasks, plus employer records of duties.[3] In Utah and Idaho, occupational diseases like carpal tunnel require proof that work caused or aggravated the condition.[3][5] Key factors: (1) physician opinion on causation; (2) work history showing repetition; (3) no strong non-work causes; (4) timely symptom reporting. Keep work logs, get independent medical exam if needed, and file claim before statute limits. Avoid signing insurer statements without review. Seek legal advice to gather evidence effectively."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for back injury workers comp claim?",
+  "description": "Med reports, employer notice, witnesses, imaging—document from day 1[1].",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-back-injury-workers-comp-claim-331",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for back injury workers comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Med reports, employer notice, witnesses, imaging—document from day 1[1].",
+        "description": "**Doctor's reports linking injury to work, incident reports, witness statements, wage records.** Photos or videos help[1]. **Key factors:** Timely medical eval, objective tests (MRI), consistent history. **Practical guidance:** Report day-of, follow treatment, log symptoms/mileage. Avoid social media posts. Request personnel file for safety records. **Utah trials use this evidence[1].**"
+      }
+    }
+  ]
+}

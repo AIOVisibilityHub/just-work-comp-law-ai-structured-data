@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My occupational disease claim involves multiple jobs, who pays?",
+  "description": "Last exposing employer primarily[1].",
+  "url": "https://justworkcomplaw.com//faq/general-my-occupational-disease-claim-involves-multiple-jobs-who-pays-239",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My occupational disease claim involves multiple jobs, who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Last exposing employer primarily[1].",
+        "description": "Last employer where exposed, or apportioned.\n\nIdaho: last injurious exposure rule[1].\n\n- Prove each contribution.\n- Successive insurers liable.\n- Commission apportions.\n\nAttorney coordinates claims."
+      }
+    }
+  ]
+}

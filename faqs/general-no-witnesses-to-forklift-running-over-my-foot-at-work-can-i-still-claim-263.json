@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to forklift running over my foot at work, can I still claim?",
+  "description": "Yes—use photos, medical, logs, experts; no witnesses not fatal.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-forklift-running-over-my-foot-at-work-can-i-still-claim-263",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to forklift running over my foot at work, can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—use photos, medical, logs, experts; no witnesses not fatal.",
+        "description": "**Yes, medical records, photos, forklift damage, maintenance logs suffice.** Circumstantial evidence works.[1][4] Key factors: OSHA violations, operator statements prove negligence. Expert reconstructs scene. Attorney builds case without eyes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I qualify for workers comp if I slipped and hurt my back at work?",
+  "description": "Yes, if in course of employment and work aggravated it—report and document[1][3].",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-qualify-for-workers-comp-if-i-slipped-and-hurt-my-back-at-work-327",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I qualify for workers comp if I slipped and hurt my back at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if in course of employment and work aggravated it—report and document[1][3].",
+        "description": "**Most workplace back injuries qualify if 'arising out of and in the course of employment.'** Falls on hard floors can be compensable if work conditions worsened injury[3]. Exclusions apply for non-work activities[1]. **Key factors:** Prove accident happened at work, medical evidence of injury, not idiopathic without work aggravation. **Practical guidance:** Report immediately, get evaluated by approved doctors, gather witness statements. Avoid signing anything waiving rights. **Utah Labor Commission handles disputes[1].**"
+      }
+    }
+  ]
+}

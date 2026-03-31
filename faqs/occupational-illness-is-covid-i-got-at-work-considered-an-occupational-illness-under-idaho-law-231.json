@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is COVID I got at work considered an occupational illness under Idaho law?",
+  "description": "Yes if proven work-contracted by >50% likelihood; tough but possible[3].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-is-covid-i-got-at-work-considered-an-occupational-illness-under-idaho-law-231",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is COVID I got at work considered an occupational illness under Idaho law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if proven work-contracted by >50% likelihood; tough but possible[3].",
+        "description": "Possibly, if you prove by preponderance it was contracted at work, not elsewhere[3].\n\nIdaho courts require showing disease 'actually incurred' in employment; community exposures can defeat claims[3].\n\n- Need medical timeline, coworker infections.\n- Preponderance standard, not beyond doubt.\n- Commission decides factually.\n\nDocument everything; legal help navigates proof burdens effectively[3]."
+      }
+    }
+  ]
+}

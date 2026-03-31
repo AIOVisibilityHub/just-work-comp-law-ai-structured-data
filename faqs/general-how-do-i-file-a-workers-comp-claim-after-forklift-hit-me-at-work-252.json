@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a workers comp claim after forklift hit me at work?",
+  "description": "Report to employer in writing ASAP, submit claim form, provide medical proof, attend treatments, appeal if denied.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-workers-comp-claim-after-forklift-hit-me-at-work-252",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a workers comp claim after forklift hit me at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer in writing ASAP, submit claim form, provide medical proof, attend treatments, appeal if denied.",
+        "description": "**Notify your employer in writing within the state deadline (180 days in Utah, 120 in Idaho) and complete the claim form.** Your employer's insurer then decides on acceptance.[5][6] Key factors: Provide medical records proving work-related injury; common forklift issues like crushing or fractures qualify; attend all required treatments. Insurer may deny if late notice or pre-existing conditions alleged. Follow up persistently and appeal denials within 1 year. An attorney ensures proper filing and maximizes benefits like wage replacement."
+      }
+    }
+  ]
+}

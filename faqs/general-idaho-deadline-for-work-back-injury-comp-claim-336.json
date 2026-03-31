@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idaho: deadline for work back injury comp claim?",
+  "description": "60 days report, 1 year file in ID—don't wait[2].",
+  "url": "https://justworkcomplaw.com//faq/general-idaho-deadline-for-work-back-injury-comp-claim-336",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idaho: deadline for work back injury comp claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "60 days report, 1 year file in ID—don't wait[2].",
+        "description": "**Report within 60 days to employer, file formal claim within 1 year of injury.** Strict enforcement[2]. **Key factors:** Date symptoms tied to work. **Practical guidance:** Written report, keep copy, start medical right away. Late claims often denied. **Idaho Industrial Commission[2].**"
+      }
+    }
+  ]
+}

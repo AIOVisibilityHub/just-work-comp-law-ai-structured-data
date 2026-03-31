@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I work at Kennecott mine near Salt Lake, hearing's gone bad from trucks—how much comp can I get?",
+  "description": "Scheduled: % binaural loss x weeks x wage rate; mines often pay well with proof.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-work-at-kennecott-mine-near-salt-lake-hearing-s-gone-bad-from-trucks-how-much--202",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I work at Kennecott mine near Salt Lake, hearing's gone bad from trucks—how much comp can I get?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scheduled: % binaural loss x weeks x wage rate; mines often pay well with proof.[2]",
+        "description": "Utah compensates hearing loss via scheduled loss: percentage of binaural hearing impairment times scheduled weeks times your comp rate.[2] For example, total binaural loss might yield 150+ weeks at 2/3 average weekly wage.[2] Key factors: Audiologist rates impairment (e.g., AMA guidelines), Utah Labor Commission adjudicates, mining noise like Bingham Canyon often supports high claims.[1][2] Get independent medical exam, document decades of exposure, avoid employer surveys downplaying noise.[1][2] Hire an attorney experienced in Utah mine claims for max value.[2]"
+      }
+    }
+  ]
+}

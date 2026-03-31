@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for a warehouse slip and fall claim?",
+  "description": "Report, photos, medical, witnesses.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-what-evidence-do-i-need-for-a-warehouse-slip-and-fall-claim-310",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for a warehouse slip and fall claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report, photos, medical, witnesses.[4]",
+        "description": "**Incident report, medical records, photos of hazard, witness contacts, and maintenance logs.** Video from cameras is gold.[1][4] Key factors: timely reporting preserves footage; doctor nexus letter. Collect before scene changes; chain of custody for items. Strong evidence = quick approval.[9]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my back injury at work worth in comp?",
+  "description": "Medical + 66% wages + impairment lump sum; backs often $20k-$80k, get rated[1].",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-what-s-my-back-injury-at-work-worth-in-comp-330",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my back injury at work worth in comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 66% wages + impairment lump sum; backs often $20k-$80k, get rated[1].",
+        "description": "**Value depends on medical costs, lost wages, permanent partial disability rating (e.g., lump sum for impairment), typically $10k-$100k+ for backs.** Utah awards include 8% interest on delays[1]. **Key factors:** Impairment percentage, surgery needs, time off work, future care. **Practical guidance:** Use comp calculators cautiously, get attorney for max settlement, consider trial for denials. No pain/suffering in comp. **Idaho similar, varies by wage[2].**"
+      }
+    }
+  ]
+}

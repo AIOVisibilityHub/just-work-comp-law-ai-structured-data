@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer for work illness instead of comp in Boise?",
+  "description": "No, comp is exclusive unless intentional.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-for-work-illness-instead-of-comp-in-boise-393",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer for work illness instead of comp in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp is exclusive unless intentional.[2]",
+        "description": "Generally no; workers' comp is exclusive remedy unless intentional tort.[2] Idaho bars suits for negligence-covered illnesses.[2] Key factors: (1) gross negligence rare exception; (2) third-party suits possible. Stick to comp channel. Consult on exceptions. Limits but ensures benefits."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does workers comp process take for neck injury in Utah?",
+  "description": "Weeks for start, months for settlement.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-does-workers-comp-process-take-for-neck-injury-in-utah-366",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does workers comp process take for neck injury in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weeks for start, months for settlement.",
+        "description": "**Initial benefits 14-30 days if undisputed; full resolution 6-18 months with hearings.** Varies by complexity.[1] Key factors: Delays from denials, IMEs; appeals add time. Track status weekly. Lawyer speeds via negotiation."
+      }
+    }
+  ]
+}

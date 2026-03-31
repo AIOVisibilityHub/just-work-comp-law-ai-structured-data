@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster already about hearing loss—did I mess up my claim?",
+  "description": "Maybe—lawyer needed to fix any bad statements.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-already-about-hearing-loss-did-i-mess-up-my-claim-219",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster already about hearing loss—did I mess up my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe—lawyer needed to fix any bad statements.[5]",
+        "description": "Possibly if admitted fault or downplayed; statements can hurt.[5] Key factors: Adjusters minimize payouts, don't sign anything without review.[5] Request claim file copy, stop talking alone.[4] Lawyer reviews what you said, refiles stronger.[5]"
+      }
+    }
+  ]
+}

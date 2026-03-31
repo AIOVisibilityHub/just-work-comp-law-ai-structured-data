@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I think my lung problems are from chemicals at work but symptoms started months later, can I still file a workers comp claim for occupational illness?",
+  "description": "Yes, delayed symptoms don't bar claims if you prove work causation and meet filing deadlines (1-2 years from diagnosis)[1]. Get medical proof and lawyer now.",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-i-think-my-lung-problems-are-from-chemicals-at-work-but-symptoms-started-months--225",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I think my lung problems are from chemicals at work but symptoms started months later, can I still file a workers comp claim for occupational illness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, delayed symptoms don't bar claims if you prove work causation and meet filing deadlines (1-2 years from diagnosis)[1]. Get medical proof and lawyer now.",
+        "description": "Yes, you can file if you prove the disease arose from work exposure, even with delayed symptoms, but strict timelines apply.\n\nOccupational illnesses like chemical exposure often have latency periods, unlike acute injuries. In Idaho, you must show the disease was incurred in employment and caused incapacity after at least 60 days with the employer[1]. Utah follows similar rules under its Labor Commission.\n\n- Prove causation by medical evidence linking exposure to illness.\n- File within 1-2 years of diagnosis or discovery, varying by state.\n- Document all exposures and doctor visits.\n\nConsult a workers comp attorney immediately to meet deadlines; delays often bar claims. Early legal help maximizes success[1][3]."
+      }
+    }
+  ]
+}

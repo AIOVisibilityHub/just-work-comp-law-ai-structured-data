@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My ears are ringing after years at the factory, can I file workers comp for hearing loss even if I used earplugs sometimes?",
+  "description": "Yes, file within 1 year of last exposure; protection doesn't automatically bar claims if noise was harmful and caused loss—get medical proof.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-ears-are-ringing-after-years-at-the-factory-can-i-file-workers-comp-for-heari-200",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My ears are ringing after years at the factory, can I file workers comp for hearing loss even if I used earplugs sometimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, file within 1 year of last exposure; protection doesn't automatically bar claims if noise was harmful and caused loss—get medical proof.[1][2]",
+        "description": "Yes, you can file a workers' compensation claim for hearing loss from workplace noise even if you used hearing protection inconsistently, as Utah law compensates permanent hearing loss from harmful industrial noise exposure.[1][2] Courts assess actual exposure heard despite protection, and medical evidence linking job noise to your condition is key.[1] Key factors: Prove noise levels exceeded safe limits (e.g., 85 dB over 8 hours), obtain audiogram showing impairment, establish causation via expert opinion.[1][2][5] Document exposure history, get evaluated by an audiologist immediately, and file within 1 year of last exposure in Utah.[2] Consult a workers' comp attorney to navigate denials based on protection use.[1]"
+      }
+    }
+  ]
+}

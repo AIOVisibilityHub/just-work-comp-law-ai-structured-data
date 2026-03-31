@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it my fault if I was rushing and got hit by a cart in the warehouse?",
+  "description": "No-fault for comp; doesn't affect benefits.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-is-it-my-fault-if-i-was-rushing-and-got-hit-by-a-cart-in-the-warehouse-309",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it my fault if I was rushing and got hit by a cart in the warehouse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault for comp; doesn't affect benefits.[1]",
+        "description": "**Workers' comp is no-fault, so your contributory negligence doesn't reduce benefits.** Solely employer negligence matters for third-party claims.[1][4] Key factors: safety violations by others strengthen case; avoid admitting fault early. Focus on hazard reporting; comp covers regardless. Fault rarely bars comp.[3]"
+      }
+    }
+  ]
+}

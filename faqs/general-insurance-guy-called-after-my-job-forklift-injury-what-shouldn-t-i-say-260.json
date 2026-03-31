@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Insurance guy called after my job forklift injury, what shouldn't I say?",
+  "description": "Don't admit fault, exaggerate/minimize injuries, sign anything—get lawyer first.",
+  "url": "https://justworkcomplaw.com//faq/general-insurance-guy-called-after-my-job-forklift-injury-what-shouldn-t-i-say-260",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Insurance guy called after my job forklift injury, what shouldn't I say?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Don't admit fault, exaggerate/minimize injuries, sign anything—get lawyer first.",
+        "description": "**Say little—'refer to my attorney' only; never admit fault or downplay injuries.** They seek to minimize payout.[3] Key factors: Recorded calls twist words; delayed symptoms appear minimized. Get lawyer first before statements. This avoids claim sabotage."
+      }
+    }
+  ]
+}

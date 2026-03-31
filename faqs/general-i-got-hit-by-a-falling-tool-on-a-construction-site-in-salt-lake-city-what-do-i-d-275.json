@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hit by a falling tool on a construction site in Salt Lake City—what do I do right now?",
+  "description": "Report to employer, get medical help, document site/photos—Utah workers' comp covers you, but sue third parties if negligent.[1][5]",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hit-by-a-falling-tool-on-a-construction-site-in-salt-lake-city-what-do-i-d-275",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hit by a falling tool on a construction site in Salt Lake City—what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer, get medical help, document site/photos—Utah workers' comp covers you, but sue third parties if negligent.[1][5]",
+        "description": "**Report the injury to your employer immediately and seek medical attention, even if injuries seem minor.** Construction sites in Utah have high risks from falling objects, one of OSHA's top hazards, and prompt action preserves your workers' comp and potential third-party claims.[1][3] Key factors: (1) Utah workers' comp covers medical bills and lost wages without proving fault; (2) if a subcontractor or property owner caused it, sue them separately under negligence laws; (3) document everything including photos and witnesses; (4) Utah's 4-year statute for personal injury applies.[5][6] Get medical records, file workers' comp within statutory deadlines, and consult a lawyer to identify third parties like negligent contractors.[1][2] A local attorney can investigate fault quickly to maximize recovery."
+      }
+    }
+  ]
+}

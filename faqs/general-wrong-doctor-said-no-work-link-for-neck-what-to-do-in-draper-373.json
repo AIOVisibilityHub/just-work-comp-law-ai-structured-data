@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Wrong doctor said no work link for neck, what to do in Draper?",
+  "description": "Seek new eval, appeal with better proof.",
+  "url": "https://justworkcomplaw.com//faq/general-wrong-doctor-said-no-work-link-for-neck-what-to-do-in-draper-373",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wrong doctor said no work link for neck, what to do in Draper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek new eval, appeal with better proof.",
+        "description": "**Get second opinion or IME; challenge with your treating doc.** Carrier IMEs biased sometimes.[2] Key factors: Independent evaluator; appeal denial; causation battle. Utah allows rebuttal evidence.[1] Lawyer coordinates."
+      }
+    }
+  ]
+}

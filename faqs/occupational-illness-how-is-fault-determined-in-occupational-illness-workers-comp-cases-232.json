@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in occupational illness workers comp cases?",
+  "description": "No-fault: prove work caused illness; employer liability strict[1].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-how-is-fault-determined-in-occupational-illness-workers-comp-cases-232",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in occupational illness workers comp cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No-fault: prove work caused illness; employer liability strict[1].",
+        "description": "No fault needed; it's no-fault system if work caused or contributed.\n\nWorkers comp covers illnesses arising from employment hazards, regardless of employer negligence[1][3].\n\n- Prove exposure and causation.\n- Pre-existing doesn't bar if work-incurred[1].\n- Multiple employers possible.\n\nFocus on medical nexus; attorney handles complexities."
+      }
+    }
+  ]
+}

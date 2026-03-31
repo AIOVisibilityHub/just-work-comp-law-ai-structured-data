@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back started hurting bad after work last week, can I still file workers comp?",
+  "description": "Report within 60 days (ID) or 180 days notice (UT), prove work link medically—don't delay[2][5].",
+  "url": "https://justworkcomplaw.com//faq/general-my-back-started-hurting-bad-after-work-last-week-can-i-still-file-workers-comp-326",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back started hurting bad after work last week, can I still file workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report within 60 days (ID) or 180 days notice (UT), prove work link medically—don't delay[2][5].",
+        "description": "**Yes, if you report within state deadlines like 60 days in Idaho or 180 days notice in Utah, but act fast.** Delayed symptoms are common in back injuries but require medical proof tying them to work[5]. Insurers often challenge late claims. **Key factors:** Doctor's opinion on causation, no prejudice to employer, idiopathic vs. work-related falls[3]. **Practical guidance:** See a doctor ASAP for records, notify employer in writing, file formally before statutes expire (1 year Idaho, varies Utah). Get legal help for appeals. **Early filing maximizes benefits[2].**"
+      }
+    }
+  ]
+}

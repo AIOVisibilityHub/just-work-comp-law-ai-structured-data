@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault for neck injury at work, does that bar comp?",
+  "description": "No, no-fault system protects you.",
+  "url": "https://justworkcomplaw.com//faq/neck-injury-at-work-partially-my-fault-for-neck-injury-at-work-does-that-bar-comp-371",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault for neck injury at work, does that bar comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, no-fault system protects you.",
+        "description": "**No, workers' comp no-fault; your negligence doesn't disqualify.** Benefits if work-related.[3] Key factors: Even horseplay sometimes covered; employer can't blame you. Pure comp advantage. Focus on injury facts."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a workers comp claim for occupational illness in Boise, Idaho?",
+  "description": "1 year from diagnosis, max 2 years; notify employer first[1].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-how-long-do-i-have-to-file-a-workers-comp-claim-for-occupational-illness-in-bois-229",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a workers comp claim for occupational illness in Boise, Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1 year from diagnosis, max 2 years; notify employer first[1].",
+        "description": "Typically 1 year from last exposure or disability, but up to 2 years max in some cases.\n\nIdaho Code requires claims within 1 year of injury/disease knowledge, not exceeding 2 years from exposure[1].\n\n- Clock starts at diagnosis linking to work.\n- Minimum 60 days employment required[1].\n- Late filings rarely excused.\n\nFile promptly with Industrial Commission; lawyer ensures compliance amid nuances."
+      }
+    }
+  ]
+}

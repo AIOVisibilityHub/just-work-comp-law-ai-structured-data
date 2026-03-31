@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I quit my noisy job 2 years ago, tinnitus started last month—is it too late for comp?",
+  "description": "Probably yes in UT/ID (1-yr from last exposure); file ASAP to test exceptions.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-quit-my-noisy-job-2-years-ago-tinnitus-started-last-month-is-it-too-late-for-c-206",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I quit my noisy job 2 years ago, tinnitus started last month—is it too late for comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Probably yes in UT/ID (1-yr from last exposure); file ASAP to test exceptions.[2]",
+        "description": "Likely too late in Utah (1-year SOL from last exposure) but check if new diagnosis restarts for occupational disease; Idaho similar strict limits.[2][3] Delayed symptoms don't always extend deadlines.[2] Key factors: Prove last exposure within SOL, link via medical opinion despite delay, exceptions rare.[2] File anyway and argue, get lawyer to assess jurisdiction specifics.[3] Document job history now before memories fade.[5]"
+      }
+    }
+  ]
+}

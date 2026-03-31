@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Idaho, can employer file against my illness claim?",
+  "description": "No, claims belong to employees only.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-in-idaho-can-employer-file-against-my-illness-claim-390",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Idaho, can employer file against my illness claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, claims belong to employees only.[2]",
+        "description": "No, only employees initiate workers' comp claims; employers can't file complaints against you.[2] Idaho Supreme Court ruled it improper.[2] Key factors: (1) employee-owned process; (2) commission jurisdiction limits. Ignore employer filings, assert your rights. Appeal any adverse orders. Protects claimant control."
+      }
+    }
+  ]
+}

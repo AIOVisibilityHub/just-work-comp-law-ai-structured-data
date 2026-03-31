@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between work injury and occupational illness claim in Utah?",
+  "description": "Illness gradual vs injury sudden; similar benefits[2].",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-what-s-the-difference-between-work-injury-and-occupational-illness-claim-in-utah-241",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between work injury and occupational illness claim in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illness gradual vs injury sudden; similar benefits[2].",
+        "description": "Injuries sudden/accidental; illnesses gradual from exposure.\n\nDifferent proof, timelines; illnesses harder[2].\n\n- Injury: event-based.\n- Illness: cumulative.\n- Both comp covered.\n\nKnow category for filing."
+      }
+    }
+  ]
+}

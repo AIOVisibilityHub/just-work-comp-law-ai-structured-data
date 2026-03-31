@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss says my hearing loss is from age, not job noise—how do I prove it's work-related?",
+  "description": "Audiogram + expert linking to job noise pattern; challenge age excuse with exposure proof.[3][5]",
+  "url": "https://justworkcomplaw.com//faq/general-boss-says-my-hearing-loss-is-from-age-not-job-noise-how-do-i-prove-it-s-work-rel-203",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss says my hearing loss is from age, not job noise—how do I prove it's work-related?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audiogram + expert linking to job noise pattern; challenge age excuse with exposure proof.[3][5]",
+        "description": "Prove work-related by medical evidence linking loss to occupational noise, like audiograms showing high-frequency notch typical of noise-induced loss.[3][5] Experts must opine job noise caused or aggravated it over age-related decline.[1][3] Key factors: Job noise logs or surveys above 85 dB, no pre-existing audiograms showing progression, rule out other causes.[1][5] Collect coworker statements, safety violation records, get second opinion if disputed.[5] Don't accept denial—appeal with lawyer support.[3]"
+      }
+    }
+  ]
+}
