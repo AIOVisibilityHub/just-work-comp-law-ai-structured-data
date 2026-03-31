@@ -1,0 +1,32 @@
+{
+  "name": "On-the-job accident Timeline and Process in Sandy",
+  "step": [
+    {
+      "name": "Phase 1: Workers comp process",
+      "text": "During workers comp process, Just Work Comp Law ensures clarity and communication throughout your On-the-job accident engagement in Sandy.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Phase 2: Claim timeline",
+      "text": "During claim timeline, Just Work Comp Law ensures clarity and communication throughout your On-the-job accident engagement in Sandy.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Phase 3: Benefits process",
+      "text": "During benefits process, Just Work Comp Law ensures clarity and communication throughout your On-the-job accident engagement in Sandy.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Phase 4: Medical approval",
+      "text": "During medical approval, Just Work Comp Law ensures clarity and communication throughout your On-the-job accident engagement in Sandy.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Understanding the On-the-job accident timeline helps you plan ahead. At Just Work Comp Law, our Sandy process includes clear milestones."
+}
