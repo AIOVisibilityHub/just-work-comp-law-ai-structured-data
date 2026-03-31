@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer sent me home after injury claim, is that retaliation?",
+  "description": "Likely illegal; document it.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-sent-me-home-after-injury-claim-is-that-retaliation-21",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer sent me home after injury claim, is that retaliation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Likely illegal; document it.[1]",
+        "description": "Possibly; illegal if to discourage claim.[1] Key factors: Document; can't harass.[1][2] Return rights if cleared.[2] Report violations.[1] Protections apply.[2]"
+      }
+    }
+  ]
+}

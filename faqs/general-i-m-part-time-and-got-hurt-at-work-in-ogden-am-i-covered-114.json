@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm part time and got hurt at work in Ogden—am I covered?",
+  "description": "Yes, part-timers covered.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-part-time-and-got-hurt-at-work-in-ogden-am-i-covered-114",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm part time and got hurt at work in Ogden—am I covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, part-timers covered.[1]",
+        "description": "Yes, nearly all Utah employers must cover employees, full or part-time, for job injuries.[1][2] No minimum hours.[1] Key factors: Excludes independents, some farm/domestic; prove employee status. Practical guidance: Report same process; wages based on actual pay. If disputed, show payroll records."
+      }
+    }
+  ]
+}

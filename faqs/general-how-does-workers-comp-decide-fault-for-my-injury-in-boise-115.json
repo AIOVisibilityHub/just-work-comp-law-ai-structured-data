@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does workers comp decide fault for my injury in Boise?",
+  "description": "No fault—covers work-related injuries.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-does-workers-comp-decide-fault-for-my-injury-in-boise-115",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does workers comp decide fault for my injury in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No fault—covers work-related injuries.[1][2]",
+        "description": "No fault needed—pure no-fault industrial insurance for work injuries.[2][3] Covers regardless of who erred.[1] Key factors: Must be arising out of/in course of employment. Practical guidance: Focus on work connection, not blame; helps claims go smoother. Fault irrelevant unless third-party suit."
+      }
+    }
+  ]
+}

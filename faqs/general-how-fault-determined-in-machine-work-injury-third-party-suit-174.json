@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How fault determined in machine work injury third-party suit?",
+  "description": "Comparative fault reduces by your % responsibility.",
+  "url": "https://justworkcomplaw.com//faq/general-how-fault-determined-in-machine-work-injury-third-party-suit-174",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How fault determined in machine work injury third-party suit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comparative fault reduces by your % responsibility.",
+        "description": "**Comparative negligence: jury apportions % fault, reduces your award.** Idaho bars if 50%+ yours[2]. Evidence like training, maintenance. Lawyer builds case."
+      }
+    }
+  ]
+}

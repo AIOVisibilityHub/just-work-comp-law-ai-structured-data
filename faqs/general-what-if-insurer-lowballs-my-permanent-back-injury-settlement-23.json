@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if insurer lowballs my permanent back injury settlement?",
+  "description": "Appeal or negotiate higher.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-insurer-lowballs-my-permanent-back-injury-settlement-23",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if insurer lowballs my permanent back injury settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal or negotiate higher.[1]",
+        "description": "Negotiate or appeal to hearing; don't accept first offer.[1][2] Key factors: Impairment rating, future costs.[2] Lawyer maximizes value.[2] Many settle higher.[1] Evidence drives it.[1]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid if exposure was from defective masks at work?",
+  "description": "Yes, third-party suit against maker; keep the gear.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-paid-if-exposure-was-from-defective-masks-at-work-189",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid if exposure was from defective masks at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, third-party suit against maker; keep the gear.",
+        "description": "**Yes, sue manufacturer separately from comp for product liability.** Employers provide PPE, but defects create third-party claims[1]. Key factors: Prove mask failed (tests, recalls); exposure despite use. No worker fault bar. Utah products liability 4 years. Preserve masks, test independently. Dual recovery possible."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster after ladder fall, did I mess up?",
+  "description": "Common mistake—stop talking, get lawyer now.",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-after-ladder-fall-did-i-mess-up-141",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster after ladder fall, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common mistake—stop talking, get lawyer now.",
+        "description": "**Possibly**—adjusters minimize claims; recorded statements used against you.[7]\n\nDon't discuss without lawyer.\n\n- Politely end future calls: 'Talk to my attorney.'\n- No fault admissions.\n\nLawyers negotiate better offers."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multiple machines involved in my work accident, who pays?",
+  "description": "Employer comp + third-party suits against others.",
+  "url": "https://justworkcomplaw.com//faq/general-multiple-machines-involved-in-my-work-accident-who-pays-165",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multiple machines involved in my work accident, who pays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer comp + third-party suits against others.",
+        "description": "**Workers' comp first from employer; third-party claims against faulty parties.** Coordinate claims[2][4]. Manufacturers, suppliers liable. Attorney apportions fault."
+      }
+    }
+  ]
+}

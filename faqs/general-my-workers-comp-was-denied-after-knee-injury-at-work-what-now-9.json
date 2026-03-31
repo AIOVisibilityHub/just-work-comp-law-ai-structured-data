@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My workers comp was denied after knee injury at work, what now?",
+  "description": "Appeal via conference or hearing fast.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-workers-comp-was-denied-after-knee-injury-at-work-what-now-9",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My workers comp was denied after knee injury at work, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal via conference or hearing fast.[1]",
+        "description": "Request a Claims Resolution Conference or file for hearing with Industrial Accidents Division.[1] Appeal promptly.[1] Key factors: Gather medical records, witness statements; don't accept denial.[2] Lawyer boosts success rates.[2] Many denials overturned with evidence.[1]"
+      }
+    }
+  ]
+}

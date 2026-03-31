@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in Utah work slip cases?",
+  "description": "Evidence/jury for third-parties; none for comp.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-utah-work-slip-cases-67",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in Utah work slip cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evidence/jury for third-parties; none for comp.",
+        "description": "**For comp, irrelevant; third-party: jury assigns percentages via evidence like warnings ignored.** Comparative negligence.[2][4] Key factors: Burden on you to prove hazard known. Experts testify. Under 50% fault ok. Avoid horseplay proof."
+      }
+    }
+  ]
+}

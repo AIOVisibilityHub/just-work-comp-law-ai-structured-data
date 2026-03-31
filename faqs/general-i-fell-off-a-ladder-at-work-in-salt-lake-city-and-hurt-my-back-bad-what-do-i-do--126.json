@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I fell off a ladder at work in Salt Lake City and hurt my back bad, what do I do right now?",
+  "description": "Seek medical care now, report to employer in writing, document everything, and call a workers' comp lawyer today to file your claim.",
+  "url": "https://justworkcomplaw.com//faq/general-i-fell-off-a-ladder-at-work-in-salt-lake-city-and-hurt-my-back-bad-what-do-i-do--126",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I fell off a ladder at work in Salt Lake City and hurt my back bad, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Seek medical care now, report to employer in writing, document everything, and call a workers' comp lawyer today to file your claim.",
+        "description": "**Immediately seek medical treatment** at an emergency room or urgent care, even if injuries seem minor, and notify your employer in writing within 24-48 hours.[1][7]\n\nFalls from ladders are common workplace injuries covered under workers' compensation in Utah and Idaho, providing medical bills, lost wages, and disability benefits without proving fault.[1][6]\n\n- Report the incident to your supervisor promptly to start the claim process.\n- Document everything: photos of the ladder, scene, and your injuries; get witness statements.\n- Avoid signing any statements from insurance adjusters without advice.\n- In Utah, idiopathic falls (from personal conditions) may still be compensable if work conditions worsened injuries, like hard floors.[1]\n\nContact a workers' comp attorney immediately for free consultation to protect your rights; do not delay as deadlines apply.[7]\n\nUtah and Idaho prioritize worker safety, but claims can be denied without proper steps."
+      }
+    }
+  ]
+}

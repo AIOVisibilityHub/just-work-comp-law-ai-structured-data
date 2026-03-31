@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer instead of workers comp in Saint George?",
+  "description": "No, comp is exclusive unless intentional harm.[1][4]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-employer-instead-of-workers-comp-in-saint-george-112",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer instead of workers comp in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp is exclusive unless intentional harm.[1][4]",
+        "description": "Generally no—Utah/Idaho workers' comp is exclusive remedy for work injuries, barring gross negligence or intentional acts.[1][4] Can't do both.[4] Key factors: Third-party suits ok if others liable (e.g., equipment maker).[3] Practical guidance: File comp first; sue others separately if applicable. Rare employer suits need strong proof. Comp faster, guaranteed if eligible."
+      }
+    }
+  ]
+}

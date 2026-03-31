@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my repetitive strain work injury claim?",
+  "description": "Medical reports, work history.[1]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-what-evidence-do-i-need-for-my-repetitive-strain-work-injury-claim-15",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my repetitive strain work injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical reports, work history.[1]",
+        "description": "Doctor's Form 123 detailing how/when/where, medical records, work logs.[1] Key factors: Consistent history to physician.[1] Witness job duties.[2] Cumulative injuries covered.[2] Lawyer organizes best.[2]"
+      }
+    }
+  ]
+}

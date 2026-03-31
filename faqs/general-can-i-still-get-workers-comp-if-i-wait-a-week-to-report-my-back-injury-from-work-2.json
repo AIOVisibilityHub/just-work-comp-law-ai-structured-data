@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still get workers comp if I wait a week to report my back injury from work?",
+  "description": "Yes, up to 180 days in Utah, but report now to protect your claim.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-still-get-workers-comp-if-i-wait-a-week-to-report-my-back-injury-from-work-2",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still get workers comp if I wait a week to report my back injury from work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, up to 180 days in Utah, but report now to protect your claim.[1]",
+        "description": "Yes, in Utah you have 180 days to report, but report immediately to avoid disqualification and ensure timely processing.[1] Delays can weaken claims if evidence fades.[2] Key factors: Employer reports to insurer in 7 days; doctor submits Form 123 in 7 days; get copies for your records.[1] Notify supervisor or HR in writing, seek treatment, and track symptoms.[1][2] Early reporting safeguards your rights to medical care and disability pay.[2]"
+      }
+    }
+  ]
+}

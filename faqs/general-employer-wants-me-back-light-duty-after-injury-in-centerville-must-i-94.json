@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer wants me back light duty after injury in Centerville, must I?",
+  "description": "Optional if doctor okays; protects full benefits.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-wants-me-back-light-duty-after-injury-in-centerville-must-i-94",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer wants me back light duty after injury in Centerville, must I?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Optional if doctor okays; protects full benefits.[4]",
+        "description": "**No requirement, but accepting may not cut benefits if unsuitable.** Utah doesn't mandate return.[4] Key factors: Doctor approves; if worsens, more comp. Refuse unsafe duty. Negotiate with insurer."
+      }
+    }
+  ]
+}

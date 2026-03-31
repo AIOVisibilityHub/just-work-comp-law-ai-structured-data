@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken leg from work worth in Ogden?",
+  "description": "Medical + 66% lost wages + permanent impairment; varies widely.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-leg-from-work-worth-in-ogden-108",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken leg from work worth in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 66% lost wages + permanent impairment; varies widely.[1][2]",
+        "description": "Value depends on medical bills, lost wages, permanent impairment rating; Utah caps some but includes TTD, PPD, medical.[1][2] No fixed formula—settlements vary.[1] Key factors: Wage replacement ~66%, impairment schedule for PPD; total disability rare. Practical guidance: Use online calculators cautiously, get attorney for accurate valuation based on records. Factors like age, job affect settlement."
+      }
+    }
+  ]
+}

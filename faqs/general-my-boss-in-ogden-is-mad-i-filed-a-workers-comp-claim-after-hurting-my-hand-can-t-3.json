@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss in Ogden is mad I filed a workers comp claim after hurting my hand, can they fire me?",
+  "description": "No, retaliation is illegal in Utah with heavy fines.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-in-ogden-is-mad-i-filed-a-workers-comp-claim-after-hurting-my-hand-can-t-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss in Ogden is mad I filed a workers comp claim after hurting my hand, can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, retaliation is illegal in Utah with heavy fines.[1]",
+        "description": "No, Utah law prohibits retaliation like firing or harassment for filing a claim, with fines up to $5,000 for violations.[1] Employers cannot impede your benefits.[1] Key factors: Document any threats or changes in treatment; report to Labor Commission if needed.[1] Continue medical treatment and claim process without fear.[2] Protections ensure you receive entitled compensation.[1]"
+      }
+    }
+  ]
+}

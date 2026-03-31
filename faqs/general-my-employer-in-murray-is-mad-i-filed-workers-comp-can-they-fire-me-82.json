@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer in Murray is mad I filed workers comp, can they fire me?",
+  "description": "No, illegal retaliation in Utah—fines up to $5K.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-in-murray-is-mad-i-filed-workers-comp-can-they-fire-me-82",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer in Murray is mad I filed workers comp, can they fire me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, illegal retaliation in Utah—fines up to $5K.[1]",
+        "description": "**No, Utah law prohibits retaliation like firing for filing a claim; fines up to $5,000 apply.** Employers can't harass or impede claims.[1][3] Key factors: Protected activity includes reporting injuries. Document retaliation. Report to Labor Commission if occurs. Job protection isn't guaranteed, but retaliation is illegal."
+      }
+    }
+  ]
+}

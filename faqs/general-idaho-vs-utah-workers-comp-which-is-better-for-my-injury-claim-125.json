@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Idaho vs Utah workers comp—which is better for my injury claim?",
+  "description": "Comparable; Idaho stricter reporting.[1][3]",
+  "url": "https://justworkcomplaw.com//faq/general-idaho-vs-utah-workers-comp-which-is-better-for-my-injury-claim-125",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Idaho vs Utah workers comp—which is better for my injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comparable; Idaho stricter reporting.[1][3]",
+        "description": "Similar no-fault systems; Utah 180-day report vs Idaho 60-day stricter; both ~66% wages.[1][3] Key factors: Utah managed care more, Idaho job not guaranteed post-injury.[3] Practical guidance: Check state rules where injured; benefits comparable but deadlines differ. Local attorney knows nuances."
+      }
+    }
+  ]
+}

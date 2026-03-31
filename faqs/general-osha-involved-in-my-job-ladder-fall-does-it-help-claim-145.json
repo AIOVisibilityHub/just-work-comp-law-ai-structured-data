@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "OSHA involved in my job ladder fall? Does it help claim?",
+  "description": "Yes, OSHA violations = strong evidence for your claim.",
+  "url": "https://justworkcomplaw.com//faq/general-osha-involved-in-my-job-ladder-fall-does-it-help-claim-145",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "OSHA involved in my job ladder fall? Does it help claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, OSHA violations = strong evidence for your claim.",
+        "description": "**OSHA citation proves unsafe conditions**, bolstering comp/third-party case.[4]\n\nFines don't pay you, but evidence.\n\n- Request OSHA file.\n- Repeat violations strengthen.\n\nComp independent of OSHA."
+      }
+    }
+  ]
+}

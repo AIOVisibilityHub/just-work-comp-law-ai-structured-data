@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Boise Idaho, how soon must I report work injury?",
+  "description": "Immediately to preserve claim.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-in-boise-idaho-how-soon-must-i-report-work-injury-20",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Boise Idaho, how soon must I report work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately to preserve claim.[3]",
+        "description": "Immediately to employer; similar to Utah's strict timelines to avoid bars.[3] Key factors: Get forms filed fast.[1] Medical proof key.[3] Local rules apply.[3] Act now.[2]"
+      }
+    }
+  ]
+}

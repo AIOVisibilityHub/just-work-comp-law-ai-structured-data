@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ice slip outside work building in Salt Lake, whose fault?",
+  "description": "Comp primary; sue property owner if negligent.",
+  "url": "https://justworkcomplaw.com//faq/general-ice-slip-outside-work-building-in-salt-lake-whose-fault-68",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ice slip outside work building in Salt Lake, whose fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp primary; sue property owner if negligent.",
+        "description": "**Workers' comp if during duties; third-party if property mgr negligent.** Report as work injury.[1] Key factors: Who controls area? Weather records. Salting history. Multiple liable. Lawyer IDs parties."
+      }
+    }
+  ]
+}

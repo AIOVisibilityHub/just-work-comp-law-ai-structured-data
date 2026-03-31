@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my twisted ankle from work in Saint George?",
+  "description": "Yes if denied or complicated—helps maximize Utah benefits.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-twisted-ankle-from-work-in-saint-george-80",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my twisted ankle from work in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if denied or complicated—helps maximize Utah benefits.[1]",
+        "description": "**Not always for simple claims, but yes if denied, complex, or retaliated against.** Utah Industrial Accidents Division offers info but no legal advice.[1] Key factors: Lawyers maximize benefits, handle appeals; free consults common. Insurers may lowball without one. For disputes, request Claims Resolution Conference first, then attorney."
+      }
+    }
+  ]
+}

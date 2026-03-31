@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it illegal for my employer to pressure me not to file comp in Salt Lake?",
+  "description": "Yes, illegal with $5k fines.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-is-it-illegal-for-my-employer-to-pressure-me-not-to-file-comp-in-salt-lake-14",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it illegal for my employer to pressure me not to file comp in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, illegal with $5k fines.[1]",
+        "description": "Yes, coercion or harassment violates Utah Code §34A-2-114, fines up to $5,000.[1] Key factors: Document interactions; report to Labor Commission.[1] Protections strong.[2] File anyway for rights.[1]"
+      }
+    }
+  ]
+}

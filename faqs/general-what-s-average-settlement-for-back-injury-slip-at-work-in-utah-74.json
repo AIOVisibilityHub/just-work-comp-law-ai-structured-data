@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's average settlement for back injury slip at work in Utah?",
+  "description": "$50K+ typical for serious back; case-specific.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-average-settlement-for-back-injury-slip-at-work-in-utah-74",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's average settlement for back injury slip at work in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50K+ typical for serious back; case-specific.",
+        "description": "**$50K-$150K for herniated disc; varies by age, job, permanency.** Comp limits.[3] Key factors: Lost earning capacity key. Surgery boosts. Compare multiples. Attorney gets 2-3x more."
+      }
+    }
+  ]
+}

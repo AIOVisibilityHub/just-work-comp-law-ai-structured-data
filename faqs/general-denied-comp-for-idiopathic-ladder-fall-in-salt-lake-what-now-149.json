@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp for 'idiopathic' ladder fall in Salt Lake—what now?",
+  "description": "Appeal showing work aggravated—Utah courts allow.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-denied-comp-for-idiopathic-ladder-fall-in-salt-lake-what-now-149",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp for 'idiopathic' ladder fall in Salt Lake—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal showing work aggravated—Utah courts allow.[1]",
+        "description": "**Appeal: prove work worsened injury** (hard floor, height) per Utah Ackley ruling.[1]\n\nNot just personal condition.\n\n- Expert on risk increase.\n- Commission hearing.\n\nWins possible with evidence."
+      }
+    }
+  ]
+}

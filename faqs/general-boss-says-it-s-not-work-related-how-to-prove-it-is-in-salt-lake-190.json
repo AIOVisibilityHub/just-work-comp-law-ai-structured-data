@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss says it's not work-related, how to prove it is in Salt Lake?",
+  "description": "Expert doctor opinion + exposure records override denials.",
+  "url": "https://justworkcomplaw.com//faq/general-boss-says-it-s-not-work-related-how-to-prove-it-is-in-salt-lake-190",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss says it's not work-related, how to prove it is in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expert doctor opinion + exposure records override denials.",
+        "description": "**Medical causation report linking symptoms to specific exposures like silica.** Pulmonologist testimony trumps employer denial[4]. Key factors: Dose-response data; rule out smoking; job exposure logs. Utah comp judges defer to experts. Demand air sampling records. Hire specialist MD early."
+      }
+    }
+  ]
+}

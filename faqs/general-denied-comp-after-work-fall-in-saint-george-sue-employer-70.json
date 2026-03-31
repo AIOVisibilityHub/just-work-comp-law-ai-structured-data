@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp after work fall in Saint George, sue employer?",
+  "description": "Appeal comp; can't sue employer directly.",
+  "url": "https://justworkcomplaw.com//faq/general-denied-comp-after-work-fall-in-saint-george-sue-employer-70",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp after work fall in Saint George, sue employer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal comp; can't sue employer directly.",
+        "description": "**No, comp exclusivity; exhaust appeals first.** Third-party only.[3] Key factors: ALJ hearing, then review. Federal OSHA rare. Intentional act exception. Lawyer wins 70% appeals."
+      }
+    }
+  ]
+}

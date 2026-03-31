@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to use the company doctor for my work injury?",
+  "description": "Initial yes, then often choice.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-have-to-use-the-company-doctor-for-my-work-injury-121",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to use the company doctor for my work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Initial yes, then often choice.[1]",
+        "description": "Utah/Idaho allow choice after initial treatment; insurer may direct managed care.[1][2] Key factors: Initial ER ok, then follow-up specified. Practical guidance: Ask for panel if offered; change if inadequate care. Document refusals."
+      }
+    }
+  ]
+}

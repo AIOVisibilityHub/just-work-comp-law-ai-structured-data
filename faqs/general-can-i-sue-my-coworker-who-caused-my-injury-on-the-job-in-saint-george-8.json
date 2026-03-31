@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my coworker who caused my injury on the job in Saint George?",
+  "description": "Rarely; comp usually exclusive unless gross negligence.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-coworker-who-caused-my-injury-on-the-job-in-saint-george-8",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my coworker who caused my injury on the job in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely; comp usually exclusive unless gross negligence.[3]",
+        "description": "Generally no, workers comp is exclusive remedy, but possible if gross negligence or third-party fault like defective equipment.[3] Idaho/Utah limit coworker suits.[3] Key factors: Check for non-employer liability; consult lawyer.[3] File comp first for sure benefits.[2] Suits rare but viable for extras.[3]"
+      }
+    }
+  ]
+}

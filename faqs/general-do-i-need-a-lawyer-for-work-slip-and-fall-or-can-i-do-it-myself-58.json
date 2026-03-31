@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for work slip and fall or can I do it myself?",
+  "description": "Strongly recommended; they increase payouts significantly.",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-work-slip-and-fall-or-can-i-do-it-myself-58",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for work slip and fall or can I do it myself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strongly recommended; they increase payouts significantly.",
+        "description": "**Yes, hire one—insurers lowball self-represented claims by 40-60%.** Free consults, contingency fees only if you win.[7] Key factors: They handle paperwork, appeals, third-party suits. Spot employer retaliation. Maximize benefits. DIY risks denial. Most settle pre-trial."
+      }
+    }
+  ]
+}

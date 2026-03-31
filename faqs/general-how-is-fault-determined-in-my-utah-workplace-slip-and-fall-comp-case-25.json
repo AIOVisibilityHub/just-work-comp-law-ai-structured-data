@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in my Utah workplace slip and fall comp case?",
+  "description": "No fault needed; no-fault system.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-determined-in-my-utah-workplace-slip-and-fall-comp-case-25",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in my Utah workplace slip and fall comp case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No fault needed; no-fault system.[1]",
+        "description": "Not determined—workers comp no-fault; benefits regardless.[1][2] Key factors: Prove occurred at work.[1] Third-party fault allows extra suit.[3] Simplifies claims.[2] Focus on injury.[1]"
+      }
+    }
+  ]
+}

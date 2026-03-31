@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped at work but pain started days later, does that hurt my case in Salt Lake?",
+  "description": "No, get medical link; report and treat early.",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-at-work-but-pain-started-days-later-does-that-hurt-my-case-in-salt-lak-59",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped at work but pain started days later, does that hurt my case in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, get medical link; report and treat early.",
+        "description": "**No, delayed symptoms common; document doctor linking to incident.** Workers' comp covers if work-related.[1] Key factors: See doctor immediately even if minor. Get MRI for hidden injuries. Avoid work until cleared. Insurers challenge delays—counter with medical opinion. Lawyer proves causation."
+      }
+    }
+  ]
+}

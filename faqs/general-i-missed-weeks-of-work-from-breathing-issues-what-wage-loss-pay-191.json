@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed weeks of work from breathing issues, what wage loss pay?",
+  "description": "66% wages tax-free after waiting period; doctor notes required.",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-weeks-of-work-from-breathing-issues-what-wage-loss-pay-191",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed weeks of work from breathing issues, what wage loss pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66% wages tax-free after waiting period; doctor notes required.",
+        "description": "**Temporary total disability: 66-75% wages from day 4, up to 1 year.** Permanent if residual impairment[4]. Key factors: Pay stubs prove average; light duty offsets; Utah min/max weekly. Retroactive if approved. Submit doctor restrictions. Appeal reductions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How to prove my headache started from work stress injury?",
+  "description": "Doctor report tying to work.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-to-prove-my-headache-started-from-work-stress-injury-17",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How to prove my headache started from work stress injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor report tying to work.[1]",
+        "description": "Doctor links it via Form 123; describe onset at work.[1][2] Key factors: Medical tests, journals.[2] Psychological claims possible.[2] Strong nexus needed.[1] Consult specialist.[2]"
+      }
+    }
+  ]
+}

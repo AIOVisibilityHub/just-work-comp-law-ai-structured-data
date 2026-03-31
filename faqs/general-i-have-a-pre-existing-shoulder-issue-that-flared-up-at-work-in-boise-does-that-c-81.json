@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing shoulder issue that flared up at work in Boise, does that count?",
+  "description": "Yes, if work aggravated it—document with doctor.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-shoulder-issue-that-flared-up-at-work-in-boise-does-that-c-81",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing shoulder issue that flared up at work in Boise, does that count?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work aggravated it—document with doctor.[2]",
+        "description": "**Yes, aggravation of pre-existing conditions is often compensable if work caused the flare-up.** Idaho and Utah cover occupational injuries worsening prior issues.[2][3] Key factors: Prove work link via doctor; report immediately (60 days Idaho). Tell physician details. Get medical evidence; insurers scrutinize these."
+      }
+    }
+  ]
+}

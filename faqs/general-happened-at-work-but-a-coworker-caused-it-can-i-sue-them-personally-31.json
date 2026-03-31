@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at work but a coworker caused it - can I sue them personally?",
+  "description": "Generally no, comp is exclusive unless intentional harm.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-happened-at-work-but-a-coworker-caused-it-can-i-sue-them-personally-31",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at work but a coworker caused it - can I sue them personally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally no, comp is exclusive unless intentional harm.[2]",
+        "description": "Workers' comp is usually exclusive remedy against coworkers and employer in Utah/Idaho, barring gross negligence or intentional acts.[2] Third-party suits possible if non-employer at fault. Key factors: (1) Co-employee immunity under comp laws; (2) Exception for willful misconduct; (3) Prove intent or extreme recklessness; (4) Vicarious liability may apply to employer. Pursue comp first, then explore exceptions with lawyer. Most cases stay within workers' comp."
+      }
+    }
+  ]
+}

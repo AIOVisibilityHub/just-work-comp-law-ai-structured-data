@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed a week of work from warehouse injury in Holladay, paid?",
+  "description": "66 2/3% after 3 days—submit doctor note.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-missed-a-week-of-work-from-warehouse-injury-in-holladay-paid-90",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed a week of work from warehouse injury in Holladay, paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "66 2/3% after 3 days—submit doctor note.[1]",
+        "description": "**Yes, temporary disability pays ~66 2/3% wages after 3-day wait.** Utah covers lost time.[1] Key factors: Doctor certifies; insurer pays. Track hours missed. Permanent issues add more."
+      }
+    }
+  ]
+}

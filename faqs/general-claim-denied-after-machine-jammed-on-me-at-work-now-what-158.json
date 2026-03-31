@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after machine jammed on me at work, now what?",
+  "description": "Appeal within 20 days, add evidence, request hearing.",
+  "url": "https://justworkcomplaw.com//faq/general-claim-denied-after-machine-jammed-on-me-at-work-now-what-158",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after machine jammed on me at work, now what?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal within 20 days, add evidence, request hearing.",
+        "description": "**Appeal to Utah Labor Commission within 20 days of denial notice.** Gather more evidence like new medicals or witnesses[1][4]. Hearings resolve disputes. Many denials overturned. Don't sign anything waiving rights. Get attorney experienced in appeals."
+      }
+    }
+  ]
+}

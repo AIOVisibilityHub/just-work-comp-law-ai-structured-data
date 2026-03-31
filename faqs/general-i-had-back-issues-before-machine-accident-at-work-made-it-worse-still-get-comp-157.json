@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had back issues before, machine accident at work made it worse—still get comp?",
+  "description": "Yes, aggravation of pre-existing conditions is compensable.",
+  "url": "https://justworkcomplaw.com//faq/general-i-had-back-issues-before-machine-accident-at-work-made-it-worse-still-get-comp-157",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had back issues before, machine accident at work made it worse—still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, aggravation of pre-existing conditions is compensable.",
+        "description": "**Yes, Utah law covers aggravation of pre-existing conditions from work accidents.** No disqualification if employment caused the flare-up[1]. Prove causal link via medical opinion. Common in machinery strain cases. Report fully. Attorney fights denials."
+      }
+    }
+  ]
+}

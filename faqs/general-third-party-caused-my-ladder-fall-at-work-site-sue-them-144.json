@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party caused my ladder fall at work site, sue them?",
+  "description": "Yes, sue for more $—comp + PI common.",
+  "url": "https://justworkcomplaw.com//faq/general-third-party-caused-my-ladder-fall-at-work-site-sue-them-144",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party caused my ladder fall at work site, sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue for more $—comp + PI common.",
+        "description": "**Yes, file personal injury suit** alongside comp for pain/suffering/punitive extras.[2][3]\n\nComp lien on settlement.\n\n- GC, ladder supplier liable if negligent.\n- No comp offset.\n\nCoordination key—lawyer manages."
+      }
+    }
+  ]
+}

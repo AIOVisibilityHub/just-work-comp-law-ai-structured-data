@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Quit job after slip and fall at work, lose benefits?",
+  "description": "No, benefits continue if injury-caused.",
+  "url": "https://justworkcomplaw.com//faq/slip-and-fall-at-work-quit-job-after-slip-and-fall-at-work-lose-benefits-72",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quit job after slip and fall at work, lose benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, benefits continue if injury-caused.",
+        "description": "**No, quitting doesn't end comp if injury-related.** Continue treatment.[4] Key factors: Prove can't work due to injury. Job search if partial. Retaliation if forced out. Lawyer protects."
+      }
+    }
+  ]
+}

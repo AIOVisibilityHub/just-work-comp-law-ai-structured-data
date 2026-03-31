@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Multi-employer site exposure, who pays in Saint George?",
+  "description": "Your employer comp + suits vs. negligent parties.",
+  "url": "https://justworkcomplaw.com//faq/general-multi-employer-site-exposure-who-pays-in-saint-george-196",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Multi-employer site exposure, who pays in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your employer comp + suits vs. negligent parties.",
+        "description": "**Primary employer via comp; sue others as third-parties if negligent.** Construction common[5]. Key factors: Contract indemnity; exposure apportionment; joint liability. Utah allows pursuit. Identify all via contracts. Lawyer coordinates claims."
+      }
+    }
+  ]
+}

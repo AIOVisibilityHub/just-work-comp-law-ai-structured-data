@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can my employer fire me for getting hurt on the job in Boise?",
+  "description": "Retaliation is illegal; document evidence and report it.[7]",
+  "url": "https://justworkcomplaw.com//faq/general-can-my-employer-fire-me-for-getting-hurt-on-the-job-in-boise-30",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can my employer fire me for getting hurt on the job in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retaliation is illegal; document evidence and report it.[7]",
+        "description": "No, Idaho and Utah prohibit retaliation for filing legitimate workers' comp claims, but prove it with evidence of timing or statements.[7] Workers' comp is exclusive remedy against employer. Key factors: (1) Show adverse action linked to claim; (2) Protected activity includes reporting injury; (3) Burden shifts if timing suspicious; (4) Document performance pre-injury. File retaliation complaint with labor department promptly. Consult an attorney as wrongful termination suits may apply beyond comp."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed work after ladder fall on job, how to get paid?",
+  "description": "File TTD claim for 2/3 wages—doctor note required.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-work-after-ladder-fall-on-job-how-to-get-paid-142",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed work after ladder fall on job, how to get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File TTD claim for 2/3 wages—doctor note required.",
+        "description": "**Temporary total disability (TTD)** pays 66% wages from day 4 (Utah) or loss day (Idaho).[1][6]\n\nMedical proof needed.\n\n- Doctor work restrictions.\n- Submit pay stubs.\n\nLight duty offered? Compare pay."
+      }
+    }
+  ]
+}

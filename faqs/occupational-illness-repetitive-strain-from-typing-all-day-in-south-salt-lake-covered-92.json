@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Repetitive strain from typing all day in South Salt Lake, covered?",
+  "description": "Yes, if job caused—doctor report key.[1]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-repetitive-strain-from-typing-all-day-in-south-salt-lake-covered-92",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Repetitive strain from typing all day in South Salt Lake, covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if job caused—doctor report key.[1]",
+        "description": "**Yes, occupational illnesses like carpal tunnel qualify if work-related.** Utah covers gradual injuries.[1] Key factors: Doctor links to job; report details. Evidence builds over time. Insurer investigates causation."
+      }
+    }
+  ]
+}

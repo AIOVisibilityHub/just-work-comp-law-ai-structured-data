@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my slip and fall at work worth in Boise Idaho?",
+  "description": "Medical + 3x wages typically; consult lawyer for case value.",
+  "url": "https://justworkcomplaw.com//faq/slip-and-fall-at-work-how-much-is-my-slip-and-fall-at-work-worth-in-boise-idaho-57",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my slip and fall at work worth in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 3x wages typically; consult lawyer for case value.",
+        "description": "**Value based on medical bills, lost wages, future care; average $20K-$100K+ depending on injury severity.** Workers' comp caps non-economic damages.[1][5] Key factors: Back fractures worth more than sprains. Permanent disability boosts. Calculate 3x medical + wages. Multipliers vary. Attorney negotiates higher settlements."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for workers comp after work accident?",
+  "description": "No but highly advised for max benefits and appeals.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-workers-comp-after-work-accident-35",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for workers comp after work accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No but highly advised for max benefits and appeals.[5]",
+        "description": "Not required, but recommended for denials, complex cases, or third-party claims in Utah/Idaho.[5] Attorneys boost approvals and value. Key factors: (1) Free consults common; (2) Contingency fee from benefits; (3) Essential for appeals; (4) Handles paperwork. Self-represent simple claims but risk errors. Most hire for best outcome."
+      }
+    }
+  ]
+}

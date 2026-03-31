@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm scared to report my injury because I need the job—help?",
+  "description": "Report safely—protected by law.[1][3]",
+  "url": "https://justworkcomplaw.com//faq/general-i-m-scared-to-report-my-injury-because-i-need-the-job-help-123",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm scared to report my injury because I need the job—help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report safely—protected by law.[1][3]",
+        "description": "Report—law protects you, retaliation illegal; benefits secure income.[1][3] Key factors: Anonymous tips possible initially. Practical guidance: Written report to HR, copy yourself; union if applicable. Commission confidential help.[2] Job security stronger long-term."
+      }
+    }
+  ]
+}

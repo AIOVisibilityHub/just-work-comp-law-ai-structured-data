@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken arm from work worth in Draper?",
+  "description": "Medical + 66 2/3% wages + disability; lawyer assesses.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-arm-from-work-worth-in-draper-84",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken arm from work worth in Draper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 66 2/3% wages + disability; lawyer assesses.[5]",
+        "description": "**Value depends on medical costs, lost wages, disability duration—no fixed formula.** Utah covers economic damages; settlements vary by case.[5] Key factors: Calculate 66 2/3% wages, future care. Pre-existing issues reduce. Lawyer estimates via comps. Avoid early settlements without advice."
+      }
+    }
+  ]
+}

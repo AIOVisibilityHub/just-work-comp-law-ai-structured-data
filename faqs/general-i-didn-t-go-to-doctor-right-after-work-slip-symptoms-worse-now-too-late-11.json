@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I didn't go to doctor right after work slip, symptoms worse now, too late?",
+  "description": "No, report within 180 days.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-didn-t-go-to-doctor-right-after-work-slip-symptoms-worse-now-too-late-11",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I didn't go to doctor right after work slip, symptoms worse now, too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, report within 180 days.[1]",
+        "description": "No, report within 180 days; delayed symptoms ok if work-related.[1][2] Key factors: Link to incident via doctor report.[1] Document timeline; get imaging.[2] Early claim prevents denials.[1] Treatment still covered.[2]"
+      }
+    }
+  ]
+}

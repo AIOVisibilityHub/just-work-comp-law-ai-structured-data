@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if multiple people caused my work accident in Salt Lake?",
+  "description": "Comp covers; sue third-parties extra.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-multiple-people-caused-my-work-accident-in-salt-lake-122",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if multiple people caused my work accident in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp covers; sue third-parties extra.[3]",
+        "description": "Workers' comp covers regardless; pursue third-parties separately if non-employer.[1][3] Key factors: Comp primary, no subrogation issues usually. Practical guidance: Identify all in report; lawyer coordinates suits. Don't delay comp."
+      }
+    }
+  ]
+}

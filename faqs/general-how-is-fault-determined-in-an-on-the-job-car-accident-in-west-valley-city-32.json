@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault determined in an on-the-job car accident in West Valley City?",
+  "description": "Scope of employment for employer liability; comp covers employee regardless.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-determined-in-an-on-the-job-car-accident-in-west-valley-city-32",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault determined in an on-the-job car accident in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Scope of employment for employer liability; comp covers employee regardless.[1]",
+        "description": "For work-related vehicle accidents, Utah assesses if within scope of employment for vicarious liability.[1] Workers' comp covers regardless of fault. Key factors: (1) Employer liable if on job duties; (2) Prove control and benefit to employer; (3) Off-duty exempts employer; (4) Third-party fault allows extra claim. Gather logs, schedules; file comp and personal injury if applicable. Attorney clarifies employer vs. third-party responsibility.[1]"
+      }
+    }
+  ]
+}

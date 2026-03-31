@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I talked to the insurance adjuster already after my injury—did I mess up?",
+  "description": "Possibly—lawyer up before more talks.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-talked-to-the-insurance-adjuster-already-after-my-injury-did-i-mess-up-111",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I talked to the insurance adjuster already after my injury—did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possibly—lawyer up before more talks.[1]",
+        "description": "Not necessarily, but be cautious—adjusters aim to minimize payouts; statements can be used against you.[1] No legal duty to give recorded ones.[2] Key factors: Stick to facts, don't admit fault or exaggerate; no-fault but details matter. Practical guidance: Politely end call, consult lawyer before more talks; review any signed forms. Many regret unsupervised chats."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much money can I get for falling off a ladder at work and breaking my leg?",
+  "description": "$50K-$200K typical; depends on injury/wages—get free eval from comp lawyer.",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-money-can-i-get-for-falling-off-a-ladder-at-work-and-breaking-my-leg-130",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much money can I get for falling off a ladder at work and breaking my leg?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$50K-$200K typical; depends on injury/wages—get free eval from comp lawyer.",
+        "description": "**Settlements average $50K-$200K+** depending on injury severity, lost wages, age, and state caps; back fractures often $100K+.[7]\n\nUtah/Idaho comp pays 66% wages (max ~$1K/wk), full medical, plus permanency ratings.\n\n- Mild: $20K-$50K; surgery/permanent disability: $150K+.\n- Multi-party sites add third-party lawsuits.\n\nGet free case value from attorney using medicals/earnings data.\n\nValues rise with strong evidence and legal negotiation."
+      }
+    }
+  ]
+}

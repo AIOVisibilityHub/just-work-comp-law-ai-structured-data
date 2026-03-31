@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have a pre-existing back problem and hurt it worse at work in Salt Lake—what now?",
+  "description": "Yes, covers aggravation—strong medical link needed.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-a-pre-existing-back-problem-and-hurt-it-worse-at-work-in-salt-lake-what-n-107",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have a pre-existing back problem and hurt it worse at work in Salt Lake—what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, covers aggravation—strong medical link needed.[1][2]",
+        "description": "Workers' comp covers aggravation of pre-existing conditions if work caused worsening; it's compensable under no-fault rules.[1][2] Insurers may investigate causation.[2] Key factors: Medical evidence linking work incident to flare-up essential; doctor reports key.[1] Practical guidance: Tell doctor full history and work connection; get imaging comparing before/after. If denied, appeal with specialist opinion. Don't downplay history—it helps prove aggravation."
+      }
+    }
+  ]
+}

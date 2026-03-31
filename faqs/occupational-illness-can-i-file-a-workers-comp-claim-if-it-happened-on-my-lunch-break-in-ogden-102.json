@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file a workers comp claim if it happened on my lunch break in Ogden?",
+  "description": "Usually no—Utah workers' comp excludes lunch breaks and commutes.[1]",
+  "url": "https://justworkcomplaw.com//faq/occupational-illness-can-i-file-a-workers-comp-claim-if-it-happened-on-my-lunch-break-in-ogden-102",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file a workers comp claim if it happened on my lunch break in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually no—Utah workers' comp excludes lunch breaks and commutes.[1]",
+        "description": "No, injuries during lunch breaks or off-duty time like commutes are typically not covered under Utah workers' comp.[1] The system covers injuries only while performing required job duties or work errands.[1] Key factors: Coverage for traumatic injuries like slips or occupational illnesses like asbestos exposure, but not personal time; no-fault system means no proving employer fault.[1][2] Practical guidance: Report anyway if arguable, but expect denial; if third party caused it, consider civil suit separately.[3] A local attorney can review specifics for exceptions."
+      }
+    }
+  ]
+}

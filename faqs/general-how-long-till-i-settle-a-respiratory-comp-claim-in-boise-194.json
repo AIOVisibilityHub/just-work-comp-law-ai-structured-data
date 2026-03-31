@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long till I settle a respiratory comp claim in Boise?",
+  "description": "Months for approval, years if appealed; average 6-18 mos.",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-till-i-settle-a-respiratory-comp-claim-in-boise-194",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long till I settle a respiratory comp claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Months for approval, years if appealed; average 6-18 mos.",
+        "description": "**3-12 months for simple; 1-3 years if litigated or latent.** Depends on medicals, disputes[2]. Key factors: Quick diagnosis speeds; appeals delay; med-only fast. Idaho panels add time. Push insurer for status. Lawyer settles 80% pre-hearing."
+      }
+    }
+  ]
+}

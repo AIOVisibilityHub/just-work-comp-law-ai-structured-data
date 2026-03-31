@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's difference between workers comp and personal injury lawsuit for job injury?",
+  "description": "Comp no-fault limited; PI fault-based fuller.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-difference-between-workers-comp-and-personal-injury-lawsuit-for-job-injur-19",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's difference between workers comp and personal injury lawsuit for job injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault limited; PI fault-based fuller.[3]",
+        "description": "Comp: No-fault, limited benefits, no sue employer; PI: Sue third parties for full damages.[3] Key factors: Comp first for medical/wages.[2] PI for extras like pain.[3] Comp exclusive vs employer.[1] Lawyer advises paths.[3]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in respiratory exposure lawsuits?",
+  "description": "Proven by safety violations, exposure data, expert analysis.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-respiratory-exposure-lawsuits-184",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in respiratory exposure lawsuits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proven by safety violations, exposure data, expert analysis.",
+        "description": "**Based on negligence: failure to ventilate, supply PPE, or warn per OSHA[1][3].** Courts/manufacturers liable if defective gear[1]. Key factors: Expert testimony on standards; exposure intensity; company knowledge. Comp is no-fault, suits need proof. In Idaho, FELA for rails adds strict liability elements[6]. Review safety audits, depositions clarify."
+      }
+    }
+  ]
+}

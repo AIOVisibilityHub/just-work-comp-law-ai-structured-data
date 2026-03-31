@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have prior back issues, can I still claim ladder fall at work in Ogden?",
+  "description": "Yes, comp covers aggravation—get doctor opinion.",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-prior-back-issues-can-i-still-claim-ladder-fall-at-work-in-ogden-135",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have prior back issues, can I still claim ladder fall at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comp covers aggravation—get doctor opinion.",
+        "description": "**Yes, workers' comp covers aggravation** of pre-existing conditions from work falls.[1][6]\n\nUtah courts allow if employment increased risk/injury.[1]\n\n- Need medical proof work worsened it.\n- Not just 'onset of pain'.[8]\n\nInsurers deny routinely—fight with experts.\n\nAttorneys specialize in these."
+      }
+    }
+  ]
+}

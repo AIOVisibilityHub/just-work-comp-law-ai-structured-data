@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is workers' comp different for respiratory claims in Utah vs Idaho?",
+  "description": "Utah better for latent diseases; both comp primary but details vary.",
+  "url": "https://justworkcomplaw.com//faq/general-is-workers-comp-different-for-respiratory-claims-in-utah-vs-idaho-188",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is workers' comp different for respiratory claims in Utah vs Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah better for latent diseases; both comp primary but details vary.",
+        "description": "**Yes, Utah has 8-year latency rule for dust diseases; Idaho emphasizes medical panels.** Both no-fault but Utah caps non-economic, Idaho allows suits easier[4]. Key factors: Filing deadlines (Utah 180 days notice); attorney involvement higher in ID. Cross-state work complicates. Check domicile rules. Local lawyer knows nuances."
+      }
+    }
+  ]
+}

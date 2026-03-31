@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's workers' comp vs suing for work slip in Idaho?",
+  "description": "Comp quicker/no-fault; suits for pain if third-party.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-workers-comp-vs-suing-for-work-slip-in-idaho-66",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's workers' comp vs suing for work slip in Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp quicker/no-fault; suits for pain if third-party.",
+        "description": "**Comp: no-fault, medical/wages only; suing third-party: fault-based, full damages including pain.** Exclusive for employer.[1][5] Key factors: Comp faster, no trial. Suits higher but riskier. 50% fault bar. Both possible. Lawyer advises best path."
+      }
+    }
+  ]
+}

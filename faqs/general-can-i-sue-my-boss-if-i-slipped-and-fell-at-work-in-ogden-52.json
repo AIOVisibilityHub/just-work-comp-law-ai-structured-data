@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I slipped and fell at work in Ogden?",
+  "description": "No, file workers' comp claim instead; sue third parties if applicable.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-i-slipped-and-fell-at-work-in-ogden-52",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I slipped and fell at work in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, file workers' comp claim instead; sue third parties if applicable.",
+        "description": "**Generally no, you must use Utah workers' compensation as the exclusive remedy against your employer.** This system provides benefits without proving fault, but limits recovery to medical costs and lost wages—no pain and suffering.[1][3] Key factors: Exceptions exist for third-party negligence like a subcontractor's spill or defective equipment. Employer intentional harm is rare but possible. Workers' comp applies if injured during work duties. Get a lawyer to check for third-party claims alongside comp."
+      }
+    }
+  ]
+}

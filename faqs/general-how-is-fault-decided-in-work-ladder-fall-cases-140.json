@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is fault decided in work ladder fall cases?",
+  "description": "Comp no-fault; fault matters for extra lawsuits only.",
+  "url": "https://justworkcomplaw.com//faq/general-how-is-fault-decided-in-work-ladder-fall-cases-140",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is fault decided in work ladder fall cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp no-fault; fault matters for extra lawsuits only.",
+        "description": "**Workers' comp ignores fault**—no-fault system; employer/third-party negligence separate.[2][3]\n\nComp pays regardless; sue others for extras.\n\n- Ladder defects? Product liability.\n- GC violation? Labor law.[3]\n\nFault only reduces third-party recovery."
+      }
+    }
+  ]
+}

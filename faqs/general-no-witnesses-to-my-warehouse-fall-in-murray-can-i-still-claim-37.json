@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my warehouse fall in Murray - can I still claim?",
+  "description": "Yes, use medical and employer records.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-warehouse-fall-in-murray-can-i-still-claim-37",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my warehouse fall in Murray - can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, use medical and employer records.[3]",
+        "description": "Yes, medical records, employer logs, and surveillance can suffice in Utah.[3] Self-reported consistent with evidence. Key factors: (1) Corroborate with docs/photos; (2) Incident report timely; (3) Expert testimony for causation; (4) Avoid inconsistencies. File claim, request video footage immediately. Attorney uncovers hidden evidence."
+      }
+    }
+  ]
+}

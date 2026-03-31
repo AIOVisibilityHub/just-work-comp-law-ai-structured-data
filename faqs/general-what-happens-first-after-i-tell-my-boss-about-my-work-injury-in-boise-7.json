@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens first after I tell my boss about my work injury in Boise?",
+  "description": "Employer notifies insurer; you get medical care.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-what-happens-first-after-i-tell-my-boss-about-my-work-injury-in-boise-7",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens first after I tell my boss about my work injury in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Employer notifies insurer; you get medical care.[1]",
+        "description": "Employer reports to insurer within 7 days, who files Form 122 with Utah/Idaho divisions; you get copies and rights form.[1] Doctor files Form 123.[1] Key factors: Seek treatment immediately; explain injury details.[1][2] Don't delay—protections like no retaliation kick in.[2] This starts medical and wage benefits flow.[1]"
+      }
+    }
+  ]
+}

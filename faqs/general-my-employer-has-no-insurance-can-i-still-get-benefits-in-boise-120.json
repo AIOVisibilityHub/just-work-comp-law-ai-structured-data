@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer has no insurance—can I still get benefits in Boise?",
+  "description": "Yes, file with commission—they handle.[3]",
+  "url": "https://justworkcomplaw.com//faq/general-my-employer-has-no-insurance-can-i-still-get-benefits-in-boise-120",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer has no insurance—can I still get benefits in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, file with commission—they handle.[3]",
+        "description": "Yes, file Uninsured Employers claim with Idaho Industrial Commission; they pursue employer.[3] Utah similar via Labor Commission.[2] Key factors: Prove no coverage, employer pays or fund covers. Practical guidance: Report to commission immediately; they notify employer, enforce insurance."
+      }
+    }
+  ]
+}

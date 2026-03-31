@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's my case worth if I can't breathe right from job chemicals in Boise?",
+  "description": "$25K to over $1M depending on diagnosis, wages lost, and permanence; attorney estimates free.",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-my-case-worth-if-i-can-t-breathe-right-from-job-chemicals-in-boise-179",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's my case worth if I can't breathe right from job chemicals in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$25K to over $1M depending on diagnosis, wages lost, and permanence; attorney estimates free.",
+        "description": "**Settlements range $25K-$1M+ based on severity, lost wages, medical costs.** Silicosis or popcorn lung claims compensate pain, disability; Idaho follows similar comp schedules[4]. Key factors: Permanent impairment rating, future care needs, age; higher for wrongful death. Multi-party liability boosts value. Get independent medical exam, calculate economic losses accurately. Consult for free valuation using verdict data."
+      }
+    }
+  ]
+}

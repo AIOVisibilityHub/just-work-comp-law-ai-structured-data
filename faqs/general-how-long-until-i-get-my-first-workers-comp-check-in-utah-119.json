@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long until I get my first workers comp check in Utah?",
+  "description": "21-45 days post-reports if accepted.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-long-until-i-get-my-first-workers-comp-check-in-utah-119",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long until I get my first workers comp check in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "21-45 days post-reports if accepted.[2]",
+        "description": "Typically 21-45 days after reports if approved; indemnity after 3-7 missed days.[2] Key factors: Insurer contacts employer for wages. Practical guidance: Submit doctor notes; push if delayed. Advances possible for hardship."
+      }
+    }
+  ]
+}

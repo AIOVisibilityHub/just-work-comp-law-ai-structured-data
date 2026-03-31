@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I choose my own doctor for work injury treatment in Utah?",
+  "description": "Limited; petition to change.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-choose-my-own-doctor-for-work-injury-treatment-in-utah-22",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I choose my own doctor for work injury treatment in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Limited; petition to change.[2]",
+        "description": "Initially employer panel, but can petition for change after.[2] Key factors: Explain injury fully.[1] Rights to care.[2] Lawyer helps switch.[2] Quality treatment first.[1]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my work injury claim gets denied in West Valley City?",
+  "description": "Appeal to state labor commission with evidence; act fast on deadlines.[2][3]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-what-if-my-work-injury-claim-gets-denied-in-west-valley-city-104",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my work injury claim gets denied in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal to state labor commission with evidence; act fast on deadlines.[2][3]",
+        "description": "Request a hearing with the Utah Labor Commission or Idaho Industrial Commission if denied; they mediate disputes.[2][3] Insurers must decide within 21 days (Utah) or face penalties.[2] Key factors: Common denial reasons include late reporting, non-work related, or pre-existing conditions; you can appeal with evidence.[1] Practical guidance: Gather medical records, witness statements; file formal dispute quickly—deadlines are strict. Get legal help as claims staff assist but don't represent you.[2] Appeal strengthens many cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I think I got lung issues from breathing dust at work in Salt Lake City, what should I do first?",
+  "description": "See a doctor now, document everything, report to employer, and call a workers' comp lawyer in Utah ASAP.",
+  "url": "https://justworkcomplaw.com//faq/workplace-respiratory-exposure-i-think-i-got-lung-issues-from-breathing-dust-at-work-in-salt-lake-city-what-sho-175",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I think I got lung issues from breathing dust at work in Salt Lake City, what should I do first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "See a doctor now, document everything, report to employer, and call a workers' comp lawyer in Utah ASAP.",
+        "description": "**See a doctor immediately for pulmonary testing and get a formal diagnosis.** Workplace respiratory exposure like silicosis or pneumoconiosis often falls under workers' compensation in Utah, where employers must provide safe conditions including ventilation and PPE[1][4]. Key factors: Document your job duties, exposure duration, and any safety violations; Utah statutes require prompt reporting of occupational illnesses within 180 days; evidence like air monitoring or coworker statements strengthens claims. Gather medical records, notify your employer in writing, and consult a workers' comp attorney before speaking to insurance. Free consultations help evaluate if negligence beyond comp applies."
+      }
+    }
+  ]
+}

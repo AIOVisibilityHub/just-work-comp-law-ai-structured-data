@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No photos or papers, can I still win a fume exposure case?",
+  "description": "Yes, testimony + medical + job proof suffices often.",
+  "url": "https://justworkcomplaw.com//faq/general-no-photos-or-papers-can-i-still-win-a-fume-exposure-case-193",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No photos or papers, can I still win a fume exposure case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, testimony + medical + job proof suffices often.",
+        "description": "**Yes, via medical history, coworker testimony, industry standards.** Cumulative exposure inferred from job title/duties[3]. Key factors: Consistent symptoms timeline; expert reconstruction; employer admissions. Utah accepts circumstantial. Reconstruct via old paystubs, union records. Strong MD report key."
+      }
+    }
+  ]
+}

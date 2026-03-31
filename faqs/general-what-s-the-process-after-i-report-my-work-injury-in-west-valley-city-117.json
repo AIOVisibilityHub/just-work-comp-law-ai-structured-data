@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process after I report my work injury in West Valley City?",
+  "description": "Report > employer/doctor forms > insurer decision in 21 days.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-process-after-i-report-my-work-injury-in-west-valley-city-117",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process after I report my work injury in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report > employer/doctor forms > insurer decision in 21 days.[2]",
+        "description": "Employer files Form 122 in 7 days, doctor Form 123; insurer decides in 21 days, pays if approved.[2] You get rights form.[2] Key factors: Extension possible to 45 days; appeal denials. Practical guidance: Follow up weekly, attend all treatments; track payments. Commission helps free.[2]"
+      }
+    }
+  ]
+}

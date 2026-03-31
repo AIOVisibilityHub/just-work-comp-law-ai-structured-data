@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped and fell at work in Salt Lake City yesterday, what do I do right now?",
+  "description": "Report to employer immediately in writing and see a doctor—Utah requires notification within 180 days but delays risk denial.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-and-fell-at-work-in-salt-lake-city-yesterday-what-do-i-do-right-now-76",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped and fell at work in Salt Lake City yesterday, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer immediately in writing and see a doctor—Utah requires notification within 180 days but delays risk denial.[1]",
+        "description": "**Report the injury to your employer immediately, ideally in writing, and seek medical attention.** In Utah, you must notify your employer within 180 days, but sooner protects your claim; employers then have 7 days to report to their insurer.[1] Key factors: Document how, when, and where it happened; get a doctor's report (Form 123); avoid signing anything without review. Go to a doctor, keep records of everything, and consider consulting a workers' comp attorney before talking to insurance. This safeguards your benefits under Utah law."
+      }
+    }
+  ]
+}

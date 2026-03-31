@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if employer uninsured after my job ladder fall?",
+  "description": "State uninsured fund pays—same benefits.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-employer-uninsured-after-my-job-ladder-fall-139",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if employer uninsured after my job ladder fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State uninsured fund pays—same benefits.",
+        "description": "**File with state uninsured fund**—Utah/Idaho guarantee benefits via contingency funds.[1][6]\n\nCovers medical/wages like insured claims.\n\n- Prove employment, injury.\n- Sue employer personally too.\n\nFunds cap lower—act quick."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Happened at work but maybe my fault, still get comp in Utah?",
+  "description": "Yes, no-fault system.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-happened-at-work-but-maybe-my-fault-still-get-comp-in-utah-16",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Happened at work but maybe my fault, still get comp in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault system.[2]",
+        "description": "Yes, workers comp is no-fault; covers regardless of blame.[2] Key factors: Prove work-related.[1] No comparative fault defense.[2] Report immediately.[1] Benefits secure.[1]"
+      }
+    }
+  ]
+}

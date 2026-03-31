@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my work injury - options?",
+  "description": "Use Utah Uninsured Employers Fund.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-uninsured-employer-after-my-work-injury-options-47",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my work injury - options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use Utah Uninsured Employers Fund.[2]",
+        "description": "Utah Uninsured Employers Fund covers if employer lacks insurance.[2] Key factors: (1) Prove no coverage; (2) Same benefits as insured; (3) Fund sues employer; (4) Report violation. File standard claim, notify fund. Attorney accesses fund."
+      }
+    }
+  ]
+}

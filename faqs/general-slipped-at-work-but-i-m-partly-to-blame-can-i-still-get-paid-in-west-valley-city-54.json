@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Slipped at work but I'm partly to blame, can I still get paid in West Valley City?",
+  "description": "Yes via workers' comp; lawsuits reduced if under 50% at fault.",
+  "url": "https://justworkcomplaw.com//faq/general-slipped-at-work-but-i-m-partly-to-blame-can-i-still-get-paid-in-west-valley-city-54",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Slipped at work but I'm partly to blame, can I still get paid in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes via workers' comp; lawsuits reduced if under 50% at fault.",
+        "description": "**Yes, workers' compensation benefits apply even if partially at fault since no fault needed.** For third-party claims, Utah/Idaho modified comparative negligence bars recovery only if over 50% at fault.[1][3][5] Key factors: Your award reduces by your fault percentage in lawsuits. Comp covers medical/lost wages fully. Document everything to counter fault arguments. Avoid admitting blame early. A lawyer maximizes recovery despite shared fault."
+      }
+    }
+  ]
+}

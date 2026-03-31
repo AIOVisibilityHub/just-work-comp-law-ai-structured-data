@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Evidence gone—machine fixed after my injury Ogden, claim dead?",
+  "description": "No, other evidence like medicals and logs work.",
+  "url": "https://justworkcomplaw.com//faq/general-evidence-gone-machine-fixed-after-my-injury-ogden-claim-dead-171",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Evidence gone—machine fixed after my injury Ogden, claim dead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, other evidence like medicals and logs work.",
+        "description": "**No, use photos, logs, witnesses, medicals before fix.** Expert reconstructs[4]. Preserve what you can now. Many succeed. Attorney subpoenas records."
+      }
+    }
+  ]
+}

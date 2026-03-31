@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work injury symptoms started weeks later—what do I do in Salt Lake?",
+  "description": "Report now—latent ok if linked to work.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-my-work-injury-symptoms-started-weeks-later-what-do-i-do-in-salt-lake-113",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work injury symptoms started weeks later—what do I do in Salt Lake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report now—latent ok if linked to work.[1][2]",
+        "description": "Still report immediately upon realization; latent injuries like repetitive stress covered if work-related.[1][2] 180-day Utah window from incident or discovery.[1] Key factors: Medical opinion linking delay to work; don't wait. Practical guidance: See doctor ASAP, document timeline; insurers scrutinize delays. Strong nexus evidence key for approval."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Machine crushed finger at work in Midvale, sue boss or just comp?",
+  "description": "Comp usually; sue third-parties separately.[5]",
+  "url": "https://justworkcomplaw.com//faq/general-machine-crushed-finger-at-work-in-midvale-sue-boss-or-just-comp-91",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Machine crushed finger at work in Midvale, sue boss or just comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp usually; sue third-parties separately.[5]",
+        "description": "**Workers' comp first; sue only for intentional harm or third-party fault.** Utah no-fault for employer.[5] Key factors: Comp covers no negligence proof. Third-party like equipment maker suable. Rare employer suits. Comp limits pain damages."
+      }
+    }
+  ]
+}

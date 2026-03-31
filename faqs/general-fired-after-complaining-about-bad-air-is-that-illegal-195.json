@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Fired after complaining about bad air, is that illegal?",
+  "description": "Illegal; sue for retaliation, get job/wages back.",
+  "url": "https://justworkcomplaw.com//faq/general-fired-after-complaining-about-bad-air-is-that-illegal-195",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Fired after complaining about bad air, is that illegal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal; sue for retaliation, get job/wages back.",
+        "description": "**Yes, whistleblower/OSHA protection bars retaliation for hazard reports.** Comp filing also shielded[1]. Key factors: Timing proves pretext; emails/texts evidence; backpay/damages available. Utah remedies include reinstatement. File DOL complaint within 30 days. Document everything."
+      }
+    }
+  ]
+}

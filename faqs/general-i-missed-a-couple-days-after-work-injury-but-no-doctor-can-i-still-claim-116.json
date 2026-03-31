@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I missed a couple days after work injury but no doctor—can I still claim?",
+  "description": "Yes, report and see doctor ASAP.[1][3]",
+  "url": "https://justworkcomplaw.com//faq/general-i-missed-a-couple-days-after-work-injury-but-no-doctor-can-i-still-claim-116",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I missed a couple days after work injury but no doctor—can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report and see doctor ASAP.[1][3]",
+        "description": "Yes, but see doctor now and report retroactively; minor injuries need reporting for future issues.[1][3] Utah 180 days.[1] Key factors: No bill yet? Still file; late medical weakens but possible. Practical guidance: Get evaluated, explain to doc; employer reports even first-aid beyond. Document lost time."
+      }
+    }
+  ]
+}

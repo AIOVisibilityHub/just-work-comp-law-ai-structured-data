@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for my simple work sprain claim in Boise?",
+  "description": "Maybe not for simple, but yes if denied or complex.[3][9]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-need-a-lawyer-for-my-simple-work-sprain-claim-in-boise-109",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for my simple work sprain claim in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe not for simple, but yes if denied or complex.[3][9]",
+        "description": "Not always for minor accepted claims, but recommended if disputed, complex, or denied—lawyers boost settlements 20-40% typically.[3][9] Free consults common.[1] Key factors: Insurers lowball without rep; handle appeals, negotiations. Practical guidance: If benefits delayed or cut, hire one—no win no fee. Self-represent simple cases via commission resources.[2] Better safe for max benefits."
+      }
+    }
+  ]
+}

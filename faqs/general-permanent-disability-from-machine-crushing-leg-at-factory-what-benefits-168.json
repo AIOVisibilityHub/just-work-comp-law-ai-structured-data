@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent disability from machine crushing leg at factory, what benefits?",
+  "description": "Disability pay, medical, wage replacement based on impairment.",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-disability-from-machine-crushing-leg-at-factory-what-benefits-168",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent disability from machine crushing leg at factory, what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Disability pay, medical, wage replacement based on impairment.",
+        "description": "**Scheduled loss award plus ongoing medical, wage loss.** Utah scales by body part, e.g., leg high value[1]. Retraining too. Evaluate impairment rating. Lawyer fights lowballs."
+      }
+    }
+  ]
+}

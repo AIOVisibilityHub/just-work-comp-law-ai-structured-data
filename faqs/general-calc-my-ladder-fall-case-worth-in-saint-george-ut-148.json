@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Calc my ladder fall case worth in Saint George UT?",
+  "description": "Medical + wages + PPD = value; free lawyer calc.",
+  "url": "https://justworkcomplaw.com//faq/general-calc-my-ladder-fall-case-worth-in-saint-george-ut-148",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Calc my ladder fall case worth in Saint George UT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + wages + PPD = value; free lawyer calc.",
+        "description": "**Use formula: medical + 66% lost wages x duration + PPD schedule value.**[1]\n\nE.g., $50K medical + $20K wages + $40K PPD = $110K base.\n\n- Age, job factor in.\n- Attorney evals free.\n\nMultipliers for severe cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the ladder was my fault in the fall at my job in Saint George?",
+  "description": "Comp pays regardless of your fault—it's no-fault insurance.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-the-ladder-was-my-fault-in-the-fall-at-my-job-in-saint-george-132",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the ladder was my fault in the fall at my job in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp pays regardless of your fault—it's no-fault insurance.",
+        "description": "**Workers' comp is no-fault**—your partial blame doesn't bar benefits in Utah/Idaho.[1][6]\n\nCovers treatment/wages anyway; negligence only affects third-party suits.\n\n- Admit no fault to adjusters.\n- Focus on injury facts.\n\nIf employer at fault (bad ladder), comp still primary; sue others separately.\n\nAttorneys shield you from blame games."
+      }
+    }
+  ]
+}

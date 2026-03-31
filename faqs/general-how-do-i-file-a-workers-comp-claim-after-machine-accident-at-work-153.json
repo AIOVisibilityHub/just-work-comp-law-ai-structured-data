@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a workers comp claim after machine accident at work?",
+  "description": "Report to employer immediately, file Form 12 with Utah Labor Commission, provide evidence.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-workers-comp-claim-after-machine-accident-at-work-153",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a workers comp claim after machine accident at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer immediately, file Form 12 with Utah Labor Commission, provide evidence.",
+        "description": "**Notify your employer in writing within days, then file Form 12 with the Utah Labor Commission within one year.** Your employer must provide medical care and report to their insurer[1][4]. Provide incident details, medical records. Insurer investigates; attend any hearing. Track all treatment. Hire an attorney if disputed."
+      }
+    }
+  ]
+}

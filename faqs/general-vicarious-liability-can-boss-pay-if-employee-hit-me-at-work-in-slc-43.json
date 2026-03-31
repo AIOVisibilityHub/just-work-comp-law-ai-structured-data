@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Vicarious liability - can boss pay if employee hit me at work in SLC?",
+  "description": "Yes if within scope of employment.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-vicarious-liability-can-boss-pay-if-employee-hit-me-at-work-in-slc-43",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Vicarious liability - can boss pay if employee hit me at work in SLC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if within scope of employment.[1]",
+        "description": "Yes if accident in scope of employment under Utah Code 78B-5-618.[1] Comp primary. Key factors: (1) Employer-employee relation; (2) Job duties at time; (3) Control exercised; (4) Evidence like schedules. Pursue comp, then employer suit if applicable. Lawyer assesses liability."
+      }
+    }
+  ]
+}

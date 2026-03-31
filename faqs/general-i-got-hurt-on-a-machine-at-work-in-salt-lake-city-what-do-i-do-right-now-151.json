@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt on a machine at work in Salt Lake City, what do I do right now?",
+  "description": "Report injury to employer immediately in writing, seek medical care, document everything, and contact a workers' comp attorney.",
+  "url": "https://justworkcomplaw.com//faq/general-i-got-hurt-on-a-machine-at-work-in-salt-lake-city-what-do-i-do-right-now-151",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt on a machine at work in Salt Lake City, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report injury to employer immediately in writing, seek medical care, document everything, and contact a workers' comp attorney.",
+        "description": "**Immediately report the injury to your supervisor or HR in writing and seek medical attention at an approved clinic.** Utah workers' comp requires prompt reporting to preserve your claim, as delays can lead to denial[1][4]. Key factors include documenting the incident details, getting treated for injuries like fractures or lacerations from machinery, and avoiding employer discussions without advice. Notify within 180 days but act fast; photograph the machine and scene. Follow up with a workers' comp attorney to file properly. Consult a specialist for best outcomes."
+      }
+    }
+  ]
+}

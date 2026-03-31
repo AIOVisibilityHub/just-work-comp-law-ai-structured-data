@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Small cut at work in Provo area, bother reporting?",
+  "description": "Yes, all injuries—even small—must report.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-small-cut-at-work-in-provo-area-bother-reporting-98",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Small cut at work in Provo area, bother reporting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all injuries—even small—must report.[1]",
+        "description": "**Yes, report all injuries even minor to protect future claims.** Utah requires for all.[1][2] Key factors: Infections happen; establishes record. No downside. Helps pattern claims."
+      }
+    }
+  ]
+}

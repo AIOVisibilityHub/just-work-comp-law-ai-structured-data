@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing condition flared up from job accident - covered?",
+  "description": "Yes if work aggravated it.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-pre-existing-condition-flared-up-from-job-accident-covered-45",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing condition flared up from job accident - covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work aggravated it.[4]",
+        "description": "Yes if employment substantially caused or aggravated it in Utah.[4] Key factors: (1) Causal nexus proof; (2) Usual exertion suffices; (3) Medical differentiation; (4) No 'but for' full cause needed. Doctor report essential. Attorney fights denials."
+      }
+    }
+  ]
+}

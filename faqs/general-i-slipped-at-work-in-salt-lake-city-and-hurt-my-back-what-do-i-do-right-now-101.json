@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I slipped at work in Salt Lake City and hurt my back, what do I do right now?",
+  "description": "Report to employer immediately in writing, see a doctor, and get report copies—Utah gives 180 days but sooner is better.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-slipped-at-work-in-salt-lake-city-and-hurt-my-back-what-do-i-do-right-now-101",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I slipped at work in Salt Lake City and hurt my back, what do I do right now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report to employer immediately in writing, see a doctor, and get report copies—Utah gives 180 days but sooner is better.[1][2]",
+        "description": "Report the injury to your employer immediately, ideally in writing, and seek medical attention from an approved provider. Your employer must file the Employer’s First Report of Injury within 7 days, and your doctor submits a Physician’s Initial Report.[1][2] In Utah, you have 180 days to report but acting fast strengthens your claim as insurers are less likely to doubt prompt reports.[1] Key factors: Document everything, explain it’s work-related to your doctor, and get a copy of reports; insurers decide within 21 days or extend to 45.[2] Practical guidance: Avoid giving recorded statements to insurance without advice, track all medical visits and lost wages; contact Utah Labor Commission at (801) 530-6800 if issues arise.[2] Consult a workers' comp specialist early to protect benefits."
+      }
+    }
+  ]
+}

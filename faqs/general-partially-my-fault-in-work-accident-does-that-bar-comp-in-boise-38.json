@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault in work accident - does that bar comp in Boise?",
+  "description": "No, comp is no-fault system.[9]",
+  "url": "https://justworkcomplaw.com//faq/general-partially-my-fault-in-work-accident-does-that-bar-comp-in-boise-38",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault in work accident - does that bar comp in Boise?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, comp is no-fault system.[9]",
+        "description": "No, workers' comp is no-fault; covers negligence by employee.[9] Fault irrelevant for benefits. Key factors: (1) Strict liability for covered injuries; (2) Contributory negligence no defense; (3) Third-party comparative fault applies; (4) Intentional acts may bar. Report and file regardless. Personal injury for others adjusts by fault.[9]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my broken arm from work worth in Ogden Utah?",
+  "description": "Medical + 2/3 wages + impairment; lawyer evaluates.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-broken-arm-from-work-worth-in-ogden-utah-10",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my broken arm from work worth in Ogden Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical + 2/3 wages + impairment; lawyer evaluates.[2]",
+        "description": "Value based on medical bills, lost wages (2/3 typically), permanent impairment; no cap on medical.[2] Settlements vary widely.[2] Key factors: Disability rating, future care needs.[2] Use lawyer for accurate calc; avoid lowball offers.[2] Comp covers basics without proving fault.[1]"
+      }
+    }
+  ]
+}

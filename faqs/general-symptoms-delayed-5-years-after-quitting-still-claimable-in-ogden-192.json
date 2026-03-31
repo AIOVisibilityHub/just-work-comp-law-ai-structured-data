@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms delayed 5 years after quitting, still claimable in Ogden?",
+  "description": "Yes, Utah allows up to 8 years for latent lung diseases.",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-delayed-5-years-after-quitting-still-claimable-in-ogden-192",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms delayed 5 years after quitting, still claimable in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah allows up to 8 years for latent lung diseases.",
+        "description": "**Yes, occupational disease statutes cover latency up to 8 years in Utah.** Black lung, silicosis qualify[6]. Key factors: Last exposure date; diagnosis proof; no break in causation. Courts extend for progressives. File upon doctor confirmation. Attorney argues tolling."
+      }
+    }
+  ]
+}

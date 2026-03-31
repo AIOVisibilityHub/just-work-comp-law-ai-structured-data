@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for machine caught my hand at work?",
+  "description": "Medical records, photos, witnesses, maintenance logs.",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-machine-caught-my-hand-at-work-156",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for machine caught my hand at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical records, photos, witnesses, maintenance logs.",
+        "description": "**Medical records, witness statements, photos of machine defect, maintenance logs, and incident report.** Show accident arose from employment[1][4]. Expert analysis proves malfunction. Preserve evidence before cleanup. Video surveillance helps. Lawyer gathers it all."
+      }
+    }
+  ]
+}

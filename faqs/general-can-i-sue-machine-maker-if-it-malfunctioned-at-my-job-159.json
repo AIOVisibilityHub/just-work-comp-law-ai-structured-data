@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue machine maker if it malfunctioned at my job?",
+  "description": "Yes, third-party liability against manufacturer possible beyond workers' comp.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-machine-maker-if-it-malfunctioned-at-my-job-159",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue machine maker if it malfunctioned at my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, third-party liability against manufacturer possible beyond workers' comp.",
+        "description": "**Yes, pursue third-party claim against manufacturer alongside workers' comp in Utah and Idaho.** Exclusive remedy is employer only; sue negligent others for extra damages[2][4]. Two-year statute in Idaho. Prove defect caused injury. Attorney coordinates both."
+      }
+    }
+  ]
+}

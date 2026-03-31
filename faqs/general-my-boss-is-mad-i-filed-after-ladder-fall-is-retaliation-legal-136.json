@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is mad I filed after ladder fall, is retaliation legal?",
+  "description": "Illegal—report to state labor dept, lawyer protects you.",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-is-mad-i-filed-after-ladder-fall-is-retaliation-legal-136",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is mad I filed after ladder fall, is retaliation legal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Illegal—report to state labor dept, lawyer protects you.",
+        "description": "**No, retaliation is illegal** under Utah/Idaho law—protected activity.[6]\n\nCan't fire/demote for claiming comp.\n\n- Document threats/changes.\n- File OSHA/EEOC charge if occurs.\n\nDamages include job reinstatement, backpay.\n\nLawyers handle retaliation suits too."
+      }
+    }
+  ]
+}

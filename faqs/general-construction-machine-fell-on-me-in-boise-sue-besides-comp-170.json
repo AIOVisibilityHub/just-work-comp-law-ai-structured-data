@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Construction machine fell on me in Boise, sue besides comp?",
+  "description": "Yes, sue third parties for negligence.",
+  "url": "https://justworkcomplaw.com//faq/general-construction-machine-fell-on-me-in-boise-sue-besides-comp-170",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Construction machine fell on me in Boise, sue besides comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, sue third parties for negligence.",
+        "description": "**Yes, third-party against owner/contractor/manufacturer if negligent.** Idaho allows alongside comp, 2-year limit[2]. Comparative fault applies. Big payouts possible. Lawyer files."
+      }
+    }
+  ]
+}

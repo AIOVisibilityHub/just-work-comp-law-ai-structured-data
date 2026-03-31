@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance already, did I mess up my claim?",
+  "description": "Maybe; lawyer reviews what you said, proceeds anyway.",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-already-did-i-mess-up-my-claim-198",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance already, did I mess up my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maybe; lawyer reviews what you said, proceeds anyway.",
+        "description": "**Possibly if admitted fault; statements used against you.** Recorded calls common[3]. Key factors: No obligation pre-lawyer; get claim number anyway. Utah no pre-suit duty. Stop talking, forward notes to attorney. They mitigate damage."
+      }
+    }
+  ]
+}

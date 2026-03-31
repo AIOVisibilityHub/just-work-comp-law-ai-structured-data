@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if my coworker caused my injury in Saint George?",
+  "description": "Yes, no-fault regardless of coworker fault.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-workers-comp-if-my-coworker-caused-my-injury-in-saint-george-118",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if my coworker caused my injury in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault regardless of coworker fault.[1]",
+        "description": "Yes, no-fault covers coworker negligence; comp handles it.[1][2] Sue coworker only if intentional.[3] Key factors: Work-related = covered. Practical guidance: Report fully, don't blame publicly; third-party if outsider. Comp first."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I settle my workers comp case early in Ogden?",
+  "description": "Yes, but after max improvement, commission OK.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-settle-my-workers-comp-case-early-in-ogden-124",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I settle my workers comp case early in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but after max improvement, commission OK.[2]",
+        "description": "Yes, via lump-sum settlement after max medical, approved by commission.[2] Key factors: Covers future medical? Rare full release. Practical guidance: Don't rush—get impairment rating first; attorney negotiates fair value. Revocable if changed conditions."
+      }
+    }
+  ]
+}

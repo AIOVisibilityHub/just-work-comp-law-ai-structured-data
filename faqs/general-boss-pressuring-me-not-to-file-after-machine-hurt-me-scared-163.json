@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Boss pressuring me not to file after machine hurt me, scared?",
+  "description": "File claim—retaliation illegal; document everything.",
+  "url": "https://justworkcomplaw.com//faq/general-boss-pressuring-me-not-to-file-after-machine-hurt-me-scared-163",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Boss pressuring me not to file after machine hurt me, scared?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File claim—retaliation illegal; document everything.",
+        "description": "**Illegal retaliation; file anyway for protected rights.** Utah prohibits firing for comp claims[1]. Document pressure. Get unemployment if terminated. Attorney protects you."
+      }
+    }
+  ]
+}

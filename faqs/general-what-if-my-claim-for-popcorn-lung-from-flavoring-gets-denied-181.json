@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my claim for popcorn lung from flavoring gets denied?",
+  "description": "Appeal fast with better medical evidence and lawyer help.",
+  "url": "https://justworkcomplaw.com//faq/general-what-if-my-claim-for-popcorn-lung-from-flavoring-gets-denied-181",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my claim for popcorn lung from flavoring gets denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Appeal fast with better medical evidence and lawyer help.",
+        "description": "**Appeal within 20-60 days depending on state; gather more medical proof.** Denials common if causation disputed in diacetyl cases[2]. Key factors: Independent pulmonologist review; show inadequate ventilation/PPE; hearing before comp judge. Utah allows attorney fees if you win appeal. Request denial reasons in writing, file timely, consider third-party suit. Persistence with strong evidence overturns most."
+      }
+    }
+  ]
+}

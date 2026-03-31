@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Talked to insurance adjuster after work slip, did I mess up?",
+  "description": "Likely; lawyer takes over communications now.",
+  "url": "https://justworkcomplaw.com//faq/general-talked-to-insurance-adjuster-after-work-slip-did-i-mess-up-63",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Talked to insurance adjuster after work slip, did I mess up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Likely; lawyer takes over communications now.",
+        "description": "**Possibly; they twist words to deny.** Stop talking, get lawyer.[1] Key factors: Recorded calls used against you. Don't admit fault or downplay injury. Lawyer handles all contact. Salvage by clarifying in writing. Most regret solo talks."
+      }
+    }
+  ]
+}

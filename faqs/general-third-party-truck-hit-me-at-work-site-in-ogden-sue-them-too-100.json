@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third-party truck hit me at work site in Ogden, sue them too?",
+  "description": "Comp + third-party suit possible.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-third-party-truck-hit-me-at-work-site-in-ogden-sue-them-too-100",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third-party truck hit me at work site in Ogden, sue them too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comp + third-party suit possible.[2]",
+        "description": "**Yes, pursue workers' comp from employer and separate suit against third-party.** Utah allows both.[2] Key factors: Comp first; third-party for extras like pain. No double-dip wages. Lawyer coordinates."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much is my on-the-job injury case worth in Utah?",
+  "description": "Medical, lost wages, disability pay; third-party for full value.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-how-much-is-my-on-the-job-injury-case-worth-in-utah-34",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is my on-the-job injury case worth in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical, lost wages, disability pay; third-party for full value.[6]",
+        "description": "Value based on medical bills, lost wages, permanent disability rating, typically 66-2/3% of average weekly wage up to caps.[6] Death benefits for dependents. Key factors: (1) Temporary total disability pays during recovery; (2) Permanent partial based on impairment; (3) No pain/suffering in comp; (4) Third-party adds full damages. Get impairment rating from doctor; lawyer maximizes settlement. Comp limits but third-party unlocks more.[6]"
+      }
+    }
+  ]
+}

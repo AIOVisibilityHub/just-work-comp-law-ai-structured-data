@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my slip at work in Bountiful, can I still claim?",
+  "description": "Yes, medical proof and report enough.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-slip-at-work-in-bountiful-can-i-still-claim-85",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my slip at work in Bountiful, can I still claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical proof and report enough.[1]",
+        "description": "**Yes, your report, medical records, and circumstances suffice without witnesses.** Utah doesn't require witnesses for comp claims.[1] Key factors: Document promptly; photos help. Doctor's opinion on cause key. Insurers investigate but can't deny solely on no witnesses."
+      }
+    }
+  ]
+}

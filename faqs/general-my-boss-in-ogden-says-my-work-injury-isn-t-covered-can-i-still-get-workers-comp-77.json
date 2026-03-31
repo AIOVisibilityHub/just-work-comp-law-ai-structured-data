@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss in Ogden says my work injury isn't covered, can I still get workers comp?",
+  "description": "Yes, Utah covers job injuries; report formally despite boss—insurer decides within 21-45 days.[1]",
+  "url": "https://justworkcomplaw.com//faq/general-my-boss-in-ogden-says-my-work-injury-isn-t-covered-can-i-still-get-workers-comp-77",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss in Ogden says my work injury isn't covered, can I still get workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Utah covers job injuries; report formally despite boss—insurer decides within 21-45 days.[1]",
+        "description": "**Yes, most work injuries are covered regardless of your boss's opinion if they occurred on the job.** Utah law requires employers to carry workers' comp insurance covering medical care and lost wages from day one.[1][3] Key factors: Injury must be work-related; report within 180 days; employer can't retaliate. File if denied, request a Claims Resolution Conference. Don't argue with your boss—report formally and get medical proof to secure benefits."
+      }
+    }
+  ]
+}

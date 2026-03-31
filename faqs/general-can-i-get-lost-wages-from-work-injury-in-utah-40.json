@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get lost wages from work injury in Utah?",
+  "description": "Yes, 66-2/3% of wages during recovery.[6]",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-get-lost-wages-from-work-injury-in-utah-40",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get lost wages from work injury in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 66-2/3% of wages during recovery.[6]",
+        "description": "Yes, temporary disability benefits cover 66-2/3% of average weekly wage during recovery.[6] Self-employed too. Key factors: (1) Prove inability via doctor; (2) Up to 312 weeks max; (3) Includes treatment time; (4) Permanent adds more. Submit pay stubs, tax returns. Lawyer ensures full calculation."
+      }
+    }
+  ]
+}

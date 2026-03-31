@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Denied comp for machine accident, sue employer instead?",
+  "description": "No suing employer; appeal comp or third-party.",
+  "url": "https://justworkcomplaw.com//faq/general-denied-comp-for-machine-accident-sue-employer-instead-173",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Denied comp for machine accident, sue employer instead?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No suing employer; appeal comp or third-party.",
+        "description": "**No, workers' comp exclusive remedy unless intentional harm.** Rare exception[2]. Appeal denial first[1]. Third-parties yes. Attorney explores all."
+      }
+    }
+  ]
+}

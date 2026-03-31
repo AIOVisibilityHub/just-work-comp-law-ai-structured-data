@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my boss if I got breathing problems from chemicals at my factory job?",
+  "description": "Possibly via workers' comp or negligence suit if proven employer fault; get medical proof first.",
+  "url": "https://justworkcomplaw.com//faq/general-can-i-sue-my-boss-if-i-got-breathing-problems-from-chemicals-at-my-factory-job-176",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my boss if I got breathing problems from chemicals at my factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possibly via workers' comp or negligence suit if proven employer fault; get medical proof first.",
+        "description": "**Yes, if employer negligence caused exposure beyond workers' comp coverage, like failing OSHA standards.** Employers must supply ventilation, PPE, and warnings; lawsuits target failures leading to pneumoconiosis or popcorn lung[1][2]. Key factors: Diagnosis linking symptoms to work (e.g., CT scans, biopsies); proof of inadequate protections; statutes of limitations (1-3 years in most states). In Utah or Idaho, comp is primary but third-party suits possible against equipment makers. Preserve evidence like photos of worksite, get witness statements, avoid signing insurer releases hastily. An attorney assesses if your case exceeds comp benefits."
+      }
+    }
+  ]
+}

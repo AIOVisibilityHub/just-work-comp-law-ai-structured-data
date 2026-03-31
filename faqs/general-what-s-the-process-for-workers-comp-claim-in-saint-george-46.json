@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process for workers comp claim in Saint George?",
+  "description": "Report, file with Labor Commission, hearing if needed.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-what-s-the-process-for-workers-comp-claim-in-saint-george-46",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process for workers comp claim in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Report, file with Labor Commission, hearing if needed.[2]",
+        "description": "Report to employer, file application with Utah Labor Commission, attend hearing if disputed.[2] Key factors: (1) Employer/insurer 20 days to respond; (2) Medical exam possible; (3) ALJ decides; (4) Appeal to Commission. Submit forms online, keep records. Lawyer simplifies."
+      }
+    }
+  ]
+}

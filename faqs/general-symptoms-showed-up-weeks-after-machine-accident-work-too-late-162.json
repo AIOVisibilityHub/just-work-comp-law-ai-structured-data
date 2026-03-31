@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after machine accident work, too late?",
+  "description": "No, report when symptoms appear; still eligible.",
+  "url": "https://justworkcomplaw.com//faq/general-symptoms-showed-up-weeks-after-machine-accident-work-too-late-162",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after machine accident work, too late?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, report when symptoms appear; still eligible.",
+        "description": "**No, file if work-related; delayed injuries common and covered.** Report ASAP upon symptoms; get medical link[4]. Utah allows if connected. Don't delay treatment. Lawyer proves nexus."
+      }
+    }
+  ]
+}

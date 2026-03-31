@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my ladder fall at work, can I still get comp?",
+  "description": "Yes, testimony + evidence enough—no witnesses needed.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-ladder-fall-at-work-can-i-still-get-comp-137",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my ladder fall at work, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, testimony + evidence enough—no witnesses needed.",
+        "description": "**Yes, your credible testimony + medicals suffice**; circumstantial evidence like ladder state helps.[2][7]\n\nSelf-reported falls common in comp.\n\n- Photos, video if available.\n- Co-worker recollections later.\n\nInsurers challenge solos—lawyers counter."
+      }
+    }
+  ]
+}

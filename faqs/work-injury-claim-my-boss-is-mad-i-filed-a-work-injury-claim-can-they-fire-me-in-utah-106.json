@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My boss is mad I filed a work injury claim—can they fire me in Utah?",
+  "description": "No, retaliation for filing is illegal—document and report.[1][3]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-my-boss-is-mad-i-filed-a-work-injury-claim-can-they-fire-me-in-utah-106",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My boss is mad I filed a work injury claim—can they fire me in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, retaliation for filing is illegal—document and report.[1][3]",
+        "description": "Utah and Idaho law protect against retaliation for filing legitimate workers' comp claims; firing for it is illegal.[1][3] No-fault system encourages reporting without fear.[2] Key factors: Prove retaliation via timing, comments, or changed treatment post-filing; exceptions for unrelated poor performance. Practical guidance: Document interactions, report to labor commission; wrongful termination claim possible separately. Consult attorney if shifts cut or harassed."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed weeks of work from machine burn injury, paid?",
+  "description": "Yes, TTD benefits after short wait period.",
+  "url": "https://justworkcomplaw.com//faq/general-missed-weeks-of-work-from-machine-burn-injury-paid-169",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed weeks of work from machine burn injury, paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, TTD benefits after short wait period.",
+        "description": "**Temporary total disability: 66 2/3% wages from day 8 if over 3 days lost.** Medical 100%[4]. Light duty option. Track losses. Attorney ensures full pay."
+      }
+    }
+  ]
+}

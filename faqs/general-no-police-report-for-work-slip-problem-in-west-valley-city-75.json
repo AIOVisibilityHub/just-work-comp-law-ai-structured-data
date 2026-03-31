@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No police report for work slip, problem in West Valley City?",
+  "description": "No, use employer report + photos.",
+  "url": "https://justworkcomplaw.com//faq/general-no-police-report-for-work-slip-problem-in-west-valley-city-75",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No police report for work slip, problem in West Valley City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use employer report + photos.",
+        "description": "**No issue; employer incident report substitutes.** Comp doesn't require police.[2] Key factors: File internal report. Photos paramount. Witnesses sign statements. Lawyer treats as standard."
+      }
+    }
+  ]
+}

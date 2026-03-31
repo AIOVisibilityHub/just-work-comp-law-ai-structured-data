@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my work slip, claim doomed in Saint George?",
+  "description": "No, use photos/video/maintenance records.",
+  "url": "https://justworkcomplaw.com//faq/general-no-witnesses-to-my-work-slip-claim-doomed-in-saint-george-62",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my work slip, claim doomed in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, use photos/video/maintenance records.",
+        "description": "**No, photos, video, maintenance logs, your testimony suffice.** Patterns of hazards help.[2] Key factors: Request incident history. Expert reconstructs. Medical consistency proves. Insurers bluff—don't fold. Lawyer finds hidden evidence."
+      }
+    }
+  ]
+}

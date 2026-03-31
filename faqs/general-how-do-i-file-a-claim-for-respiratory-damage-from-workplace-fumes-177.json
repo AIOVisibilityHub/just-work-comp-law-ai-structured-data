@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I file a claim for respiratory damage from workplace fumes?",
+  "description": "Notify employer/insurer in writing, submit medical evidence to comp board, expect evaluation.",
+  "url": "https://justworkcomplaw.com//faq/general-how-do-i-file-a-claim-for-respiratory-damage-from-workplace-fumes-177",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I file a claim for respiratory damage from workplace fumes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Notify employer/insurer in writing, submit medical evidence to comp board, expect evaluation.",
+        "description": "**Start by notifying your employer in writing within state deadlines, then file with workers' comp board.** Process involves medical evaluation proving occupational cause, like diacetyl or silica exposure[2][4]. Key factors: Submit job history, exposure details, doctor reports; hearings resolve disputes; appeals possible. Utah requires filing within 3 years of injury knowledge. Use certified mail for notice, request air quality records from employer, track all communications. Legal help navigates denials common in delayed-symptom cases."
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I get paid if I can't work after my injury in Saint George?",
+  "description": "Yes, ~66% of weekly wage for temporary total disability if approved.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-do-i-get-paid-if-i-can-t-work-after-my-injury-in-saint-george-105",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I get paid if I can't work after my injury in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ~66% of weekly wage for temporary total disability if approved.[2]",
+        "description": "Yes, Utah and Idaho provide temporary total disability benefits at about 66 2/3% of your average weekly wage once approved.[2] Payments start after insurer accepts claim via Form 141.[2] Key factors: Multiple jobs? Provide history for full wage calc; covers lost income, medical, permanent impairment.[1][2] Practical guidance: Track all missed work, submit to insurer; if denied, dispute immediately. Benefits continue until max medical improvement."
+      }
+    }
+  ]
+}

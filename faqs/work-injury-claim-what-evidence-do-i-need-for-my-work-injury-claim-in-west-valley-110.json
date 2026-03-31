@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need for my work injury claim in West Valley?",
+  "description": "Reports, medical records, witnesses, photos, wages.[1][2]",
+  "url": "https://justworkcomplaw.com//faq/work-injury-claim-what-evidence-do-i-need-for-my-work-injury-claim-in-west-valley-110",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need for my work injury claim in West Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reports, medical records, witnesses, photos, wages.[1][2]",
+        "description": "Employer/doctor reports (Forms 122/123), medical records, witness statements, photos, wage stubs.[1][2] Prompt reporting helps credibility.[1] Key factors: Prove work-related, timely notice; insurer investigates first 21 days.[2] Practical guidance: Document accident scene, symptoms daily; request all forms copies. Avoid social media posts contradicting injury. Build file before disputes."
+      }
+    }
+  ]
+}

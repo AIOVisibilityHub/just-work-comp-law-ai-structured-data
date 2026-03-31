@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have asthma already, can I still claim new lung damage from fumes in Saint George?",
+  "description": "Yes, claims cover aggravation of pre-existing conditions with medical proof.",
+  "url": "https://justworkcomplaw.com//faq/general-i-have-asthma-already-can-i-still-claim-new-lung-damage-from-fumes-in-saint-geor-183",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have asthma already, can I still claim new lung damage from fumes in Saint George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, claims cover aggravation of pre-existing conditions with medical proof.",
+        "description": "**Yes, if work aggravated or caused distinct injury like obliterans.** Pre-existing conditions don't bar claims if exposure worsened them[2]. Key factors: Before/after lung function tests; specialist differentiates; comp covers aggravation. Utah courts recognize this. Get baseline records if possible, emphasize job-specific decline. Attorney proves compensable overlay."
+      }
+    }
+  ]
+}

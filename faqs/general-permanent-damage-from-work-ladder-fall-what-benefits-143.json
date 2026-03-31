@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Permanent damage from work ladder fall, what benefits?",
+  "description": "PPD payout based on % impairment—up to hundreds K.",
+  "url": "https://justworkcomplaw.com//faq/general-permanent-damage-from-work-ladder-fall-what-benefits-143",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Permanent damage from work ladder fall, what benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PPD payout based on % impairment—up to hundreds K.",
+        "description": "**Permanent partial disability (PPD)** rating x body part value; e.g., leg 20% = $30K+.[6][7]\n\nImpairment schedule in statutes.\n\n- IME doctor rates.\n- Lump sum possible.\n\nMax total disability rare."
+      }
+    }
+  ]
+}

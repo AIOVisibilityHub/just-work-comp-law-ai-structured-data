@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back injury at work was from normal job duties but I had pre-existing issues - is it covered?",
+  "description": "Yes if work caused or aggravated it, per Utah law on usual exertions.[4]",
+  "url": "https://justworkcomplaw.com//faq/back-injury-at-work-my-back-injury-at-work-was-from-normal-job-duties-but-i-had-pre-existing-issues--28",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back injury at work was from normal job duties but I had pre-existing issues - is it covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if work caused or aggravated it, per Utah law on usual exertions.[4]",
+        "description": "Yes, Utah workers' comp covers injuries from usual exertions if there's a causal link to employment, even with pre-existing conditions.[4] The injury must arise by accident in the course of employment. Key factors: (1) Prove causation between job duties and aggravation; (2) Medical records showing work worsened condition; (3) No need for unusual event; (4) Internal failures require employment nexus. Get a doctor's note tying injury to work and file promptly. An attorney can help prove the connection if denied.[4]"
+      }
+    }
+  ]
+}

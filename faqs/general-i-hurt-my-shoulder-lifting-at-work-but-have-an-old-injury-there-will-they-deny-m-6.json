@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I hurt my shoulder lifting at work but have an old injury there, will they deny my claim?",
+  "description": "Yes, if work aggravated it—get medical proof.[2]",
+  "url": "https://justworkcomplaw.com//faq/general-i-hurt-my-shoulder-lifting-at-work-but-have-an-old-injury-there-will-they-deny-m-6",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I hurt my shoulder lifting at work but have an old injury there, will they deny my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work aggravated it—get medical proof.[2]",
+        "description": "Pre-existing conditions can be covered if work aggravated them; explain details to your doctor for Form 123.[1][2] Insurers may dispute, but aggravation qualifies.[2] Key factors: Document work causation; get strong medical opinion.[2] Avoid downplaying history; seek lawyer if contested.[2] Utah comp covers work-related worsenings.[2]"
+      }
+    }
+  ]
+}

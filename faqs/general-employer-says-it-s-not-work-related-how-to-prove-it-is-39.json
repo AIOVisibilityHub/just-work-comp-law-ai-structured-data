@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer says it's not work-related - how to prove it is?",
+  "description": "Medical nexus, witnesses, job records.[4]",
+  "url": "https://justworkcomplaw.com//faq/general-employer-says-it-s-not-work-related-how-to-prove-it-is-39",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer says it's not work-related - how to prove it is?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical nexus, witnesses, job records.[4]",
+        "description": "Use medical nexus letter, witness statements, job logs showing duties.[4] Key factors: (1) 'Arising out of' employment test; (2) Increased risk from job; (3) Timeline consistency; (4) Expert causation opinion. Preserve all evidence, avoid adjuster traps. Attorney builds strong case for hearing."
+      }
+    }
+  ]
+}

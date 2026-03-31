@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What proof do I need for a silicosis claim from cutting stone at work?",
+  "description": "Doctor diagnosis, work records, exposure evidence, witness statements.",
+  "url": "https://justworkcomplaw.com//faq/general-what-proof-do-i-need-for-a-silicosis-claim-from-cutting-stone-at-work-180",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proof do I need for a silicosis claim from cutting stone at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doctor diagnosis, work records, exposure evidence, witness statements.",
+        "description": "**Medical diagnosis via spirometry/CT, plus exposure history like job logs or air samples.** Evidence links silica dust to lung scarring when employers skip dust controls[4][5]. Key factors: Coworker affidavits, PPE records, safety violation reports; biopsy for acute cases. In Utah fabrication shops, Cal/OSHA-like enforcement aids. Photograph dusty conditions, request employer monitoring data now. Expert testimony often seals causation."
+      }
+    }
+  ]
+}
