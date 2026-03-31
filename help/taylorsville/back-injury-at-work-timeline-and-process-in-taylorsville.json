@@ -1,0 +1,32 @@
+{
+  "name": "Back injury at work Timeline and Process in Taylorsville",
+  "step": [
+    {
+      "name": "Phase 1: Workers comp process",
+      "text": "During workers comp process, Just Work Comp Law ensures clarity and communication throughout your Back injury at work engagement in Taylorsville.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Phase 2: Claim timeline",
+      "text": "During claim timeline, Just Work Comp Law ensures clarity and communication throughout your Back injury at work engagement in Taylorsville.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Phase 3: Benefits process",
+      "text": "During benefits process, Just Work Comp Law ensures clarity and communication throughout your Back injury at work engagement in Taylorsville.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Phase 4: Medical approval",
+      "text": "During medical approval, Just Work Comp Law ensures clarity and communication throughout your Back injury at work engagement in Taylorsville.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Understanding the Back injury at work timeline helps you plan ahead. At Just Work Comp Law, our Taylorsville process includes clear milestones."
+}
