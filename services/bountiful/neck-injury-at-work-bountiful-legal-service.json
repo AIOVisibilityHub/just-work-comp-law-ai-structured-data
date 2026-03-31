@@ -1,0 +1,29 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Neck injury at work",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bountiful"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Bountiful",
+    "@type": "City"
+  },
+  "description": "Professional Neck injury at work services in Bountiful. Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law.",
+  "hasOfferCatalog": {
+    "name": "Neck injury at work Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Neck injury at work",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
