@@ -1,0 +1,32 @@
+{
+  "name": "Work-related illness Timeline and Process in Centerville",
+  "step": [
+    {
+      "name": "Phase 1: Workers comp process",
+      "text": "During workers comp process, Just Work Comp Law ensures clarity and communication throughout your Work-related illness engagement in Centerville.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Phase 2: Claim timeline",
+      "text": "During claim timeline, Just Work Comp Law ensures clarity and communication throughout your Work-related illness engagement in Centerville.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Phase 3: Benefits process",
+      "text": "During benefits process, Just Work Comp Law ensures clarity and communication throughout your Work-related illness engagement in Centerville.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Phase 4: Medical approval",
+      "text": "During medical approval, Just Work Comp Law ensures clarity and communication throughout your Work-related illness engagement in Centerville.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Understanding the Work-related illness timeline helps you plan ahead. At Just Work Comp Law, our Centerville process includes clear milestones."
+}

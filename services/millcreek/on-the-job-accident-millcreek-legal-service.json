@@ -1,0 +1,29 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - On-the-job accident",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Millcreek"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Millcreek",
+    "@type": "City"
+  },
+  "description": "Professional On-the-job accident services in Millcreek. Just Work Comp Law is a Utah and Idaho workers’ compensation law firm that helps injured employees recover benefits after workplace injuries. Services include filing workers’ compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers’ compensation law.",
+  "hasOfferCatalog": {
+    "name": "On-the-job accident Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
