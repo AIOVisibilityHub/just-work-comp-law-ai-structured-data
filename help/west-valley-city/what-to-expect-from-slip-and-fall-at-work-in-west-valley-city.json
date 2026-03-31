@@ -1,0 +1,32 @@
+{
+  "name": "What to Expect from Slip and fall at work in West Valley City",
+  "step": [
+    {
+      "name": "Step 1: Workers comp process",
+      "text": "Our team guides you through workers comp process for Slip and fall at work in West Valley City.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Claim timeline",
+      "text": "Our team guides you through claim timeline for Slip and fall at work in West Valley City.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Benefits process",
+      "text": "Our team guides you through benefits process for Slip and fall at work in West Valley City.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Medical approval",
+      "text": "Our team guides you through medical approval for Slip and fall at work in West Valley City.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "What to Expect from Slip and fall at work in West Valley City\n\nWhen you choose Just Work Comp Law for Slip and fall at work, here is what to expect:\n\nStep 1: Workers comp process — Our team guides you"
+}
