@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Nida Taha",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Jared represented my father in his workers' compensation case, and we’re so thankful for the great job he did... Thanks to Jared and Roberto’s hard work, we felt supported the entire time.",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}
