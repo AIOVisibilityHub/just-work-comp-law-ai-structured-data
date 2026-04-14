@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "carston page",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Mark Talley represented me and let me just say I couldn't have been more happy with my representation!... got way more back in the settlement than I expected!",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}

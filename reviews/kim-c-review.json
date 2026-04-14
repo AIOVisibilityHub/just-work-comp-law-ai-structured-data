@@ -1,0 +1,19 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Kim C",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Mark was an absolute pleasure to work with. He was professional and I felt he genuinely cared about my case and my well being.",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Dana Hutchison",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "I can't seem to give 10 stars or I would so I'm giving five stars for Mark Talley. He has gone above and beyond my expectations helping me with my workman's comp case.",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  }
+}

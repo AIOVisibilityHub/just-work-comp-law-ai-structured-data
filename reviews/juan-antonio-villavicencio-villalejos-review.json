@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Juan Antonio Villavicencio Villalejos",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Excellent service and attention 100% professional.",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}

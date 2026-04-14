@@ -1,0 +1,14 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Maria Zarate",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "I liked that they attended to me and helped me a lot, many thanks to my lawyer and Vanesa",
+  "itemReviewed": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  }
+}
