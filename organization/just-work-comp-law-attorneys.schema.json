@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Just Work Comp Law Attorneys",
+  "url": "https://justworkcomplaw.com/",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Attorney",
+        "name": "Jon Michael Bonnesen",
+        "description": "Since 2017, Jon has dedicated his legal career to managing a high-volume civil litigation caseload. He is actively involved in every stage of the litigation process, including client intake, filings, discovery, hearings, trials, and strategic settlement negotiations. Known for his practical approach and strong advocacy, Jon consistently achieves favorable outcomes for his clients.",
+        "honorificSuffix": "Bar No. 1000269392",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Attorney",
+        "name": "Halston T. Davis",
+        "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need to recover and return to work. He dedicates 100% of his practice to workers’ compensation, including litigation to challenge denied benefits and fight insurance companies on behalf of his clients.",
+        "honorificSuffix": "Bar No. 916649461",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Attorney",
+        "name": "Mark J. Sanchez",
+        "description": "Mark has specialized in Utah workers’ compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish, helping ensure clients can communicate clearly throughout the legal process.",
+        "honorificSuffix": "Bar No. 11263",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Attorney",
+        "name": "Mark Talley",
+        "description": "Mark began working in workers’ compensation law in 2018 as a paralegal with Just Work Comp Law. He developed strong skills in case management, client communication, and case detail. In 2024, he earned his law degree and joined the firm as an attorney, where he is fully dedicated to helping clients maximize their cases.",
+        "honorificSuffix": "Bar No. 1001540408",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Attorney",
+        "name": "Jared Mortensen",
+        "description": "Jared has practiced law since 2008 and now focuses exclusively on workers’ compensation. He helps injured workers challenge denied benefits and pursue the support they deserve.",
+        "honorificSuffix": "Bar No. 10249",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Attorney",
+        "name": "Blair Jones",
+        "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. He has represented clients in complex workers’ compensation matters, as well as in criminal defense and protective services cases involving children and parents.",
+        "honorificSuffix": "Texas Bar No. 24057929",
+        "url": "https://justworkcomplaw.com/",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Just Work Comp Law"
+        }
+      }
+    }
+  ]
+}
