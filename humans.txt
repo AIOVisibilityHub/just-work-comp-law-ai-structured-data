@@ -1,0 +1,15 @@
+/* TEAM */
+  Owner: Davis-Sanchez.com
+  DBA: Just Work Comp Law
+  Legal: Workers' Compensation Specialists
+  Contact: 801-746-0290 | info@davis-sanchez.com
+  Location: Utah & Idaho
+
+/* SITE */
+  Last Update: 2026-04-15
+  Standards: HTML5, Schema.org JSON-LD
+  CMS: Lovable.dev
+  SEO: sitemap.xml + 4 schema files
+
+/* THANKS */
+  Thanks for serving injured workers across Utah & Idaho!
