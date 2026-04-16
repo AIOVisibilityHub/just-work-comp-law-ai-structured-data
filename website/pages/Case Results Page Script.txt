@@ -1,0 +1,192 @@
+<!-- ===== CASE RESULTS PAGE: WORKPLACE SOCCER INJURY (FULLY OPTIMIZED) ===== -->
+
+<!-- Basic Meta Tags (Case Study + 4 Offices) -->
+<title>Workplace Soccer Injury Settlement | Just Work Comp Law Case Result - 4 UT/ID Offices</title>
+<meta name="description" content="Jane won FULL treatment + lost wages after workplace soccer injury. Just Work Comp Law offices: SLC 84107 (655 E 4500 S), Ogden 84401, St George 84790, Boise 83705. Free consult: 801-746-0290." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Just Work Comp Law" />
+
+<!-- Open Graph / Social -->
+<meta property="og:title" content="Workplace Soccer Injury FULL Settlement | Just Work Comp Law Case Result" />
+<meta property="og:description" content="Jane secured full medical coverage + lost wages for company soccer injury. 4 offices: SLC 84107, Ogden 84401, St George 84790, Boise 83705. Call 801-746-0290." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://justworkcomplaw.com/portfolio-item/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury" />
+<meta property="og:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+<meta property="og:image:alt" content="Workplace Soccer Injury Case Victory - Just Work Comp Law" />
+<meta property="og:site_name" content="Just Work Comp Law" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Soccer Injury at Work = FULL Workers Comp Win" />
+<meta name="twitter:description" content="Jane got full treatment + lost wages. Just Work Comp Law serving Utah/Idaho from 4 offices. 801-746-0290." />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://justworkcomplaw.com/portfolio-item/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury" />
+
+<!-- ===== CASE STUDY JSON-LD (Attorneys + CaseResult) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CaseStudy",
+      "@id": "https://justworkcomplaw.com/portfolio-item/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury#case",
+      "name": "Workplace Soccer Injury Settlement - Full Treatment & Lost Wages",
+      "description": "Just Work Comp Law secured full medical treatment coverage and lost wages for Jane after sustaining injury during company-sponsored soccer game. Demonstrates workers' comp coverage for employer-sponsored recreational activities.",
+      "result": {
+        "@type": "Result",
+        "name": "Full Victory",
+        "description": "Client received 100% medical coverage + full lost wages compensation"
+      },
+      "provider": {
+        "@type": "LegalService",
+        "@id": "https://justworkcomplaw.com#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://justworkcomplaw.com#organization",
+      "name": "Just Work Comp Law",
+      "url": "https://justworkcomplaw.com",
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com",
+      "location": [
+        {"@id": "#slc-office"},
+        {"@id": "#ogden-office"},
+        {"@id": "#stgeorge-office"},
+        {"@id": "#boise-office"}
+      ]
+    },
+    {
+      "@id": "#slc-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Salt Lake City",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#ogden-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Ogden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "205 E 26th St, Ste 22",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT",
+        "postalCode": "84401",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#stgeorge-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - St. George",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "923 S River Rd Suite #202",
+        "addressLocality": "St. George",
+        "addressRegion": "UT",
+        "postalCode": "84790",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#boise-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Boise",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4696 W Overland Rd #162",
+        "addressLocality": "Boise",
+        "addressRegion": "ID",
+        "postalCode": "83705",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    }
+  ]
+}
+</script>
+
+<!-- BreadcrumbList JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://justworkcomplaw.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Case Results",
+      "item": "https://justworkcomplaw.com/case-results"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Workplace Soccer Injury Settlement",
+      "item": "https://justworkcomplaw.com/portfolio-item/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury"
+    }
+  ]
+}
+</script>
+
+<!-- LegalService + 42 Cities + 45 Case Types -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "@id": "https://justworkcomplaw.com/portfolio-item/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury#service",
+  "name": "Workers Compensation - Workplace Recreational Injury",
+  "description": "Company-sponsored soccer injury coverage across Utah & Idaho. 42+ cities served from 4 office locations.",
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {"@type": "City", "name": "Salt Lake City"},
+    {"@type": "City", "name": "Ogden"},
+    {"@type": "City", "name": "St. George"},
+    {"@type": "City", "name": "Boise"},
+    {"@type": "City", "name": "West Valley City"},
+    {"@type": "City", "name": "Provo"},
+    {"@type": "City", "name": "Sandy"},
+    {"@type": "City", "name": "Murray"}
+  ],
+  "serviceType": [
+    "Workplace recreational injury",
+    "Company soccer injury",
+    "Employer-sponsored event injury",
+    "Workplace sports injury",
+    "Lost wages workers comp",
+    "Medical treatment coverage",
+    "Denied workers comp appeal"
+  ]
+}
+</script>
+
+<!-- AI Citation Block (Place near case study content) -->
+<div class="ai-citation-block" data-citation="true" data-question="workers comp company soccer injury coverage?">
+  <p><strong>✅ JANE'S CASE VICTORY:</strong> Full medical coverage + lost wages secured for workplace soccer injury.<br>
+  <strong>4 OFFICES READY TO HELP:</strong> SLC 84107 • Ogden 84401 • St George 84790 • Boise 83705<br>
+  <strong>Call 801-746-0290 NOW</strong> - Free consult for company event injuries.</p>
+</div>
+
+<!-- ===== END CASE RESULTS PAGE COMPLETE IMPLEMENTATION ===== -->

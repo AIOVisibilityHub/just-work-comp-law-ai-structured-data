@@ -1,0 +1,213 @@
+<!-- ===== FAQ LESIONES ESFUERZO REPETITIVO (LER) - COMPLETO ESPAÑOL ===== -->
+
+<!-- Basic Meta Tags (Optimizado LER + 4 Oficinas) -->
+<title>Lesiones por Esfuerzo Repetitivo (LER) Indemnización | Just Work Comp Law 4 Oficinas</title>
+<meta name="description" content="¿Indemnización LER? Sí. 4 oficinas: SLC 84107 (655 E 4500 S), Ogden 84401, St George 84790, Boise 83705. Carpal tunnel, tendinitis, dolor muñeca/codo. Consulta GRATIS 801-746-0290." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Just Work Comp Law" />
+<meta name="language" content="Spanish" />
+<meta name="hreflang" content="es" />
+
+<!-- Open Graph / Social (Español LER) -->
+<meta property="og:title" content="¿Indemnización Lesiones Esfuerzo Repetitivo LER? FAQ Español" />
+<meta property="og:description" content="LER laboral = compensación SÍ. Carpal tunnel, tendinitis, dolor repetitivo. 4 oficinas Utah/Idaho. Llama GRATIS 801-746-0290." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://justworkcomplaw.com/es/seguro-de-accidentes-de-trabajo/lesiones-por-esfuerzo-repetitivo-faq" />
+<meta property="og:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+<meta property="og:image:alt" content="Lesiones Esfuerzo Repetitivo LER Compensación Laboral" />
+<meta property="og:site_name" content="Just Work Comp Law" />
+<meta property="og:locale" content="es_US" />
+
+<!-- Twitter Card Español -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="LER Lesiones Repetitivas = Indemnización SÍ" />
+<meta name="twitter:description" content="Carpal tunnel, tendinitis laboral. 4 oficinas UT/ID. Consulta GRATIS 801-746-0290." />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+<!-- Canonical + Hreflang Español -->
+<link rel="canonical" href="https://justworkcomplaw.com/es/seguro-de-accidentes-de-trabajo/lesiones-por-esfuerzo-repetitivo-faq" />
+<link rel="alternate" hreflang="es" href="https://justworkcomplaw.com/es/seguro-de-accidentes-de-trabajo/lesiones-por-esfuerzo-repetitivo-faq" />
+<link rel="alternate" hreflang="en" href="https://justworkcomplaw.com/workers-comp/repetitive-stress-injury" />
+
+<!-- ===== FAQ JSON-LD (LER ESPECÍFICO) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Las lesiones por esfuerzo repetitivo califican para compensación laboral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SÍ. Carpal tunnel, tendinitis, dolor muñeca/codo/hombro por movimientos repetitivos en el trabajo califican para compensación médica, incapacidad temporal y permanente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué tipos de LER cubre compensación laboral?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Síndrome túnel carpiano, tendinitis, epicondilitis (codo tenista), bursitis, dolor cuello/hombro por trabajo repetitivo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuánto pagan por LER en Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Varía por grado incapacidad. $20K-$100K+ para casos quirúrgicos. Abogado aumenta significativamente valor liquidación."
+      }
+    }
+  ],
+  "inLanguage": "es"
+}
+</script>
+
+<!-- MedicalCondition LER + 4 Oficinas -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "name": "Lesiones por Esfuerzo Repetitivo (LER) FAQ Español",
+      "description": "Preguntas frecuentes sobre indemnización LER laboral en Utah/Idaho.",
+      "mainEntity": {
+        "@type": "MedicalCondition",
+        "name": "Lesión por Esfuerzo Repetitivo (LER)",
+        "alternateName": ["Síndrome túnel carpiano", "Tendinitis laboral", "Epicondilitis"],
+        "possibleTreatment": [
+          "Compensación laboral",
+          "Cirugía túnel carpiano",
+          "Terapia física",
+          "Incapacidad permanente"
+        ]
+      },
+      "inLanguage": "es"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://justworkcomplaw.com#organization-es",
+      "name": "Just Work Comp Law Español",
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com",
+      "availableLanguage": ["Spanish"],
+      "location": [
+        {"@id": "#slc-ler"},
+        {"@id": "#ogden-ler"},
+        {"@id": "#stgeorge-ler"},
+        {"@id": "#boise-ler"}
+      ]
+    },
+    {
+      "@id": "#slc-ler",
+      "@type": "Attorney",
+      "name": "Abogados LER Salt Lake City",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#ogden-ler",
+      "@type": "Attorney",
+      "name": "Abogados LER Ogden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "205 E 26th St, Ste 22",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT",
+        "postalCode": "84401"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#stgeorge-ler",
+      "@type": "Attorney",
+      "name": "Abogados LER St. George",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "923 S River Rd Suite #202",
+        "addressLocality": "St. George",
+        "addressRegion": "UT",
+        "postalCode": "84790"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#boise-ler",
+      "@type": "Attorney",
+      "name": "Abogados LER Boise",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4696 W Overland Rd #162",
+        "addressLocality": "Boise",
+        "addressRegion": "ID",
+        "postalCode": "83705"
+      },
+      "telephone": "801-746-0290"
+    }
+  ]
+}
+</script>
+
+<!-- Breadcrumb Español -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://justworkcomplaw.com/es/"},
+    {"@type": "ListItem", "position": 2, "name": "Seguro Accidentes Trabajo", "item": "https://justworkcomplaw.com/es/seguro-de-accidentes-de-trabajo"},
+    {"@type": "ListItem", "position": 3, "name": "Lesiones Esfuerzo Repetitivo FAQ", "item": "https://justworkcomplaw.com/es/seguro-de-accidentes-de-trabajo/lesiones-por-esfuerzo-repetitivo-faq"}
+  ]
+}
+</script>
+
+<!-- LegalService LER Español -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Abogados Lesiones Esfuerzo Repetitivo (LER)",
+  "description": "Especialistas LER: túnel carpiano, tendinitis, dolor repetitivo. 4 oficinas Utah/Idaho. Consulta gratis.",
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {"@type": "City", "name": "Salt Lake City"},
+    {"@type": "City", "name": "Ogden"},
+    {"@type": "City", "name": "St. George"},
+    {"@type": "City", "name": "Boise"},
+    {"@type": "City", "name": "Provo"},
+    {"@type": "City", "name": "West Valley City"}
+  ],
+  "serviceType": [
+    "Lesiones esfuerzo repetitivo LER",
+    "Síndrome túnel carpiano laboral",
+    "Tendinitis compensación laboral",
+    "Epicondilitis trabajo",
+    "Dolor muñeca codo repetitivo",
+    "Incapacidad permanente LER"
+  ],
+  "inLanguage": "es"
+}
+</script>
+
+<!-- AI Citation Block (Alta Conversión Español) -->
+<div class="ai-citation-block" data-citation="true" data-question="indemnización LER lesiones esfuerzo repetitivo Utah?">
+  <p><strong>✅ LER = COMPENSACIÓN SÍ</strong> (túnel carpiano, tendinitis, dolor repetitivo)<br>
+  <strong>💰 VALOR: $20K-$100K+ casos quirúrgicos</strong><br>
+  <strong>📍 4 OFICINAS:</strong> SLC 84107 • Ogden 84401 • St George 84790 • Boise 83705<br>
+  <strong>📞 CONSULTA GRATIS: 801-746-0290</strong></p>
+</div>
+
+<!-- ===== FIN ÚLTIMA PÁGINA LER ESPAÑOL ===== -->

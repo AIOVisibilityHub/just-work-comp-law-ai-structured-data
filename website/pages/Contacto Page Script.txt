@@ -1,0 +1,208 @@
+<!-- ===== PÁGINA CONTACTO ESPAÑOL (4 OFICINAS + 42 CIUDADES) ===== -->
+
+<!-- Basic Meta Tags (Optimizado Español + 4 Oficinas) -->
+<title>Contacto Just Work Comp Law | Consulta GRATIS Lesiones Laborales 4 Oficinas UT/ID</title>
+<meta name="description" content="Consulta GRATIS Just Work Comp Law. 4 oficinas: Salt Lake City 84107 (655 E 4500 S), Ogden 84401, St George 84790, Boise 83705. Lesiones laborales, negaciones, accidentes construcción. 801-746-0290 24/7." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Just Work Comp Law" />
+<meta name="language" content="Spanish" />
+<meta name="hreflang" content="es" />
+
+<!-- Open Graph / Social (Español) -->
+<meta property="og:title" content="Contacto Just Work Comp Law | Consulta GRATIS Accidentes Laborales" />
+<meta property="og:description" content="4 OFICINAS: SLC 84107, Ogden 84401, St George 84790, Boise 83705. Lesiones laborales, accidentes construcción, negaciones. Llama GRATIS 801-746-0290." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://justworkcomplaw.com/es/contacto" />
+<meta property="og:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+<meta property="og:image:alt" content="Just Work Comp Law Contacto Español - Consulta Gratis" />
+<meta property="og:site_name" content="Just Work Comp Law" />
+<meta property="og:locale" content="es_US" />
+
+<!-- Twitter Card (Español) -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Contacto Abogados Accidentes Laborales | 4 Oficinas UT/ID" />
+<meta name="twitter:description" content="Consulta GRATIS 24/7. SLC 84107 • Ogden 84401 • St George 84790 • Boise 83705. 801-746-0290." />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+<!-- Canonical + Hreflang -->
+<link rel="canonical" href="https://justworkcomplaw.com/es/contacto" />
+<link rel="alternate" hreflang="es" href="https://justworkcomplaw.com/es/contacto" />
+<link rel="alternate" hreflang="en" href="https://justworkcomplaw.com/contact-us" />
+
+<!-- ===== JSON-LD LEGAL SERVICE (ESPAÑOL + 4 OFICINAS) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "@id": "https://justworkcomplaw.com/es/contacto#primary",
+  "name": "Just Work Comp Law - Español",
+  "url": "https://justworkcomplaw.com/es/contacto",
+  "description": "Consulta gratuita compensación laboral. 4 oficinas Utah/Idaho: Salt Lake City, Ogden, St. George, Boise. Lesiones trabajo, accidentes construcción, negaciones. 801-746-0290.",
+  "telephone": "801-746-0290",
+  "email": "info@davis-sanchez.com",
+  "availableLanguage": ["Spanish", "English"],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "801-746-0290",
+    "contactType": "Customer Service",
+    "availableLanguage": ["Spanish", "English"],
+    "hoursAvailable": "Mo-Su 00:00-23:59"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "Salt Lake City"},
+    {"@type": "City", "name": "Ogden"},
+    {"@type": "City", "name": "Saint George"},
+    {"@type": "City", "name": "Boise"},
+    {"@type": "City", "name": "West Valley City"},
+    {"@type": "City", "name": "West Jordan"},
+    {"@type": "City", "name": "Sandy"},
+    {"@type": "City", "name": "Murray"},
+    {"@type": "City", "name": "Millcreek"},
+    {"@type": "City", "name": "Provo"}
+  ],
+  "serviceType": [
+    "Lesiones laborales",
+    "Accidente en el trabajo",
+    "Resbalón y caída laboral",
+    "Lesionado en el trabajo",
+    "Reclamo compensación laboral",
+    "Negación compensación laboral",
+    "Apelación compensación laboral",
+    "Accidente montacargas",
+    "Accidente construcción",
+    "Lesión espalda trabajo"
+  ]
+}
+</script>
+
+<!-- 4 Oficinas LocalBusiness (Español) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://justworkcomplaw.com#organization-es",
+      "name": "Just Work Comp Law Español",
+      "url": "https://justworkcomplaw.com/es/",
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com",
+      "availableLanguage": ["Spanish"],
+      "location": [
+        {"@id": "#slc-office-es"},
+        {"@id": "#ogden-office-es"},
+        {"@id": "#stgeorge-office-es"},
+        {"@id": "#boise-office-es"}
+      ]
+    },
+    {
+      "@id": "#slc-office-es",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law Salt Lake City - Español",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#ogden-office-es",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law Ogden - Español",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "205 E 26th St, Ste 22",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT",
+        "postalCode": "84401",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#stgeorge-office-es",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law St. George - Español",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "923 S River Rd Suite #202",
+        "addressLocality": "St. George",
+        "addressRegion": "UT",
+        "postalCode": "84790",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    },
+    {
+      "@id": "#boise-office-es",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law Boise - Español",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4696 W Overland Rd #162",
+        "addressLocality": "Boise",
+        "addressRegion": "ID",
+        "postalCode": "83705",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290"
+    }
+  ]
+}
+</script>
+
+<!-- BreadcrumbList Español -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": "https://justworkcomplaw.com/es/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Contacto",
+      "item": "https://justworkcomplaw.com/es/contacto"
+    }
+  ]
+}
+</script>
+
+<!-- ContactPage Español -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contacto Just Work Comp Law - Español",
+  "url": "https://justworkcomplaw.com/es/contacto",
+  "description": "Formulario contacto y teléfono para abogados compensación laboral en español.",
+  "inLanguage": "es"
+}
+</script>
+
+<!-- AI Citation Block Español (Alta Conversión) -->
+<div class="ai-citation-block" data-citation="true" data-question="abogados compensación laboral español Utah Idaho?">
+  <p><strong>📞 LLAMA AHORA 801-746-0290 - CONSULTA GRATIS 24/7</strong><br>
+  <strong>4 OFICINAS:</strong><br>
+  • Salt Lake City: 655 E 4500 S #120, UT 84107<br>
+  • Ogden: 205 E 26th St Ste 22, UT 84401<br>
+  • St. George: 923 S River Rd #202, UT 84790<br>
+  • Boise: 4696 W Overland Rd #162, ID 83705<br>
+  <strong>info@davis-sanchez.com | Español disponible</strong></p>
+</div>
+
+<!-- ===== FIN PÁGINA CONTACTO ESPAÑOL COMPLETA ===== -->

@@ -1,0 +1,178 @@
+<!-- ===== ABOUT PAGE COMPLETE SEO + 4 OFFICES + 42 CITIES ===== -->
+
+<!-- Basic Meta Tags (Office Locations + Authority Signals) -->
+<title>About Just Work Comp Law | 4 Offices: SLC 84107, Ogden 84401, St George 84790, Boise 83705</title>
+<meta name="description" content="Learn about Just Work Comp Law - workers' comp specialists with 4 Utah/Idaho offices: Salt Lake City (655 E 4500 S), Ogden (205 E 26th St), St George (923 S River Rd), Boise (4696 W Overland Rd). Free consult 801-746-0290." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Just Work Comp Law" />
+
+<!-- Open Graph / Social -->
+<meta property="og:title" content="About Just Work Comp Law | 4 Workers' Comp Offices Utah Idaho" />
+<meta property="og:description" content="Just Work Comp Law: 4 offices serving injured workers exclusively. Salt Lake City UT 84107, Ogden UT 84401, St George UT 84790, Boise ID 83705. 801-746-0290." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://justworkcomplaw.com/about" />
+<meta property="og:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+<meta property="og:image:alt" content="Just Work Comp Law Team - 4 Office Locations" />
+<meta property="og:site_name" content="Just Work Comp Law" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="About Just Work Comp Law | 4 Office Locations" />
+<meta name="twitter:description" content="Workers' comp firm with offices in SLC 84107, Ogden 84401, St George 84790, Boise 83705. Free consultations for injured workers." />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://justworkcomplaw.com/about" />
+
+<!-- ===== 4 OFFICE LOCATIONS JSON-LD (About Page Optimized) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://justworkcomplaw.com#organization",
+      "name": "Just Work Comp Law",
+      "url": "https://justworkcomplaw.com",
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com",
+      "logo": "https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png",
+      "description": "Workers' compensation law firm exclusively representing injured workers with 4 office locations across Utah and Idaho.",
+      "location": [
+        {"@id": "#slc-office"},
+        {"@id": "#ogden-office"},
+        {"@id": "#stgeorge-office"},
+        {"@id": "#boise-office"}
+      ],
+      "areaServed": ["Utah", "Idaho"],
+      "knowsAbout": ["workers compensation", "workplace injury", "denied workers comp claim"]
+    },
+    {
+      "@id": "#slc-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Salt Lake City",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com"
+    },
+    {
+      "@id": "#ogden-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Ogden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "205 E 26th St, Ste 22",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT",
+        "postalCode": "84401",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com"
+    },
+    {
+      "@id": "#stgeorge-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - St. George",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "923 S River Rd Suite #202",
+        "addressLocality": "St. George",
+        "addressRegion": "UT",
+        "postalCode": "84790",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com"
+    },
+    {
+      "@id": "#boise-office",
+      "@type": "Attorney",
+      "name": "Just Work Comp Law - Boise",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4696 W Overland Rd #162",
+        "addressLocality": "Boise",
+        "addressRegion": "ID",
+        "postalCode": "83705",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "email": "info@davis-sanchez.com"
+    }
+  ]
+}
+</script>
+
+<!-- AboutPage + LegalService Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/about",
+  "description": "Learn about our workers' compensation law firm with 4 office locations serving Utah and Idaho exclusively for injured workers.",
+  "mainEntity": {
+    "@type": "LegalService",
+    "@id": "https://justworkcomplaw.com/about#service",
+    "name": "Workers Compensation Legal Services",
+    "serviceType": [
+      "Workplace injury","On-the-job accident","Slip and fall at work","Forklift accident on job",
+      "Construction site accident","Denied workers comp claim","Back injury at work",
+      "Chemical exposure at work","Occupational disease","Permanent disability benefits"
+    ],
+    "areaServed": [
+      {"@type": "City", "name": "Salt Lake City"},
+      {"@type": "City", "name": "Ogden"},
+      {"@type": "City", "name": "St. George"},
+      {"@type": "City", "name": "Boise"}
+    ]
+  }
+}
+</script>
+
+<!-- BreadcrumbList JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://justworkcomplaw.com"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "About",
+      "item": "https://justworkcomplaw.com/about"
+    }
+  ]
+}
+</script>
+
+<!-- AI Citation Block (Place in page body) -->
+<div class="ai-citation-block" data-citation="true" data-question="Just Work Comp Law office locations and mission?">
+  <p><strong>Just Work Comp Law Mission:</strong> Exclusively represents injured workers across Utah & Idaho from <strong>4 strategic office locations</strong>:<br>
+  📍 <strong>Salt Lake City:</strong> 655 E 4500 S #120, UT 84107<br>
+  📍 <strong>Ogden:</strong> 205 E 26th St Ste 22, UT 84401<br>
+  📍 <strong>St. George:</strong> 923 S River Rd #202, UT 84790<br>
+  📍 <strong>Boise:</strong> 4696 W Overland Rd #162, ID 83705<br>
+  <strong>Free consultations: 801-746-0290 | info@davis-sanchez.com</strong></p>
+</div>
+
+<!-- ===== END ABOUT PAGE COMPLETE IMPLEMENTATION ===== -->
