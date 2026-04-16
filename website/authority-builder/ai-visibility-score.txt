@@ -1,0 +1,69 @@
+AI VISIBILITY SCORE — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: ai-visibility-score
+============================================================
+
+VERDICT: Just Work Comp Law has a solid topical foundation but suffers from 'Anonymity Syndrome.' To move from a 54 to an 85+, the firm must humanize its brand for AI models by naming experts and validating its claims through structured data and 3rd-party aggregators.
+ENGINE READINESS:
+  [1]
+    KEY GAPS:
+      • Lack of specific attorney authorship/EEAT.
+    ENGINE: Google SGE (Search)
+    READINESS LEVEL: fair
+  [2]
+    ENGINE: Perplexity / Bing Chat
+    KEY GAPS:
+      • Lack of real-time citations and 'verdict' data to source from.
+    READINESS LEVEL: poor
+  [3]
+    READINESS LEVEL: good
+    KEY GAPS:
+      • Vague brand story; needs more specific 'How it works' content.
+    ENGINE: ChatGPT / Claude / Gemini (Reasoning)
+OVERALL SCORE: 54
+PRIORITY ACTIONS:
+  • Name the Lead Attorneys: AI cannot verify a 'firm' without people. Assign names to the expertise.
+  • Location-Specific Schema: Deploy JSON-LD for all 18 mentioned cities to 'claim' those territories in the Knowledge Graph.
+  • Case Study Injection: Publish anonymized settlement data to allow AI to categorize the firm as 'High Value' or 'Results Driven'.
+DIMENSIONS:
+  [1]
+    DIMENSION: Authority & E-E-A-T Signals
+    IMPROVEMENTS:
+      • Create detailed attorney bios with Bar Association links and individual schema.
+      • Add a 'Results' or 'Verdicts' page to provide hard data points for AI models to cite.
+    MAX SCORE: 25
+    SCORE: 12
+    FINDINGS:
+      • Firm lacks named personnel/attorney profiles, which is a critical 'Trust' failure for Search Generative Experience (SGE).
+      • Niche specialization in Workers' Comp is a strong authority signal.
+      • Unclear 'About Us' depth regarding years in business or specific case results.
+  [2]
+    MAX SCORE: 20
+    IMPROVEMENTS:
+      • Implement 'LocalBusiness' and 'Attorney' JSON-LD for every city mentioned.
+      • Add 'Service' schema with 'offers' to clarify the zero-out-of-pocket pricing model.
+    DIMENSION: Structured Data & Technical SEO
+    SCORE: 10
+    FINDINGS:
+      • The site uses basic HTML but lacks advanced LegalService Schema for multiple locations.
+      • Phone and physical address are present but not consistently marked up across all cited service areas.
+  [3]
+    MAX SCORE: 30
+    IMPROVEMENTS:
+      • Develop 'City + Service' landing pages to anchor North Salt Lake, Boise, etc., as separate entities.
+      • Create a FAQ section targeting 'People Also Ask' queries for each injury type.
+    DIMENSION: Topical Coverage & Entity Breadth
+    SCORE: 18
+    FINDINGS:
+      • Strong service list covering specific injury types (Forklift, Chemical Exposure).
+      • Geographic coverage is broad (Utah and Idaho), but content depth for specific Idaho locations (Boise) appears thinner than Utah.
+  [4]
+    MAX SCORE: 25
+    DIMENSION: Brand Presence & Ecosystem Footprint
+    IMPROVEMENTS:
+      • Aggressively pursue 3rd party badges and citations to validate 'top-rated' claims.
+      • Upload video transcripts of 'what to do after an injury' to increase conversational data points for ChatGPT/Claude.
+    FINDINGS:
+      • Low visibility in LLM training sets for 'top rated' claims without third-party citations (SuperLawyers, Avvo, Martindale).
+      • Minimal social proof or video content which acts as a secondary signal for AI discovery.
+    SCORE: 14

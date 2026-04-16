@@ -1,0 +1,68 @@
+CONTENT GAP MAP — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: content-gap-map
+============================================================
+
+OVERALL COVERAGE SCORE: 62
+CRITICAL GAPS:
+  • Procedural depth: Lack of granular guides on the specific legal steps (Hearings, Mediation, Appeals) for both Utah and Idaho boards.
+  • Industry-specific landing pages: Missing content tailored to the high-density construction and logistics industries in the Boise/SLC corridors.
+  • E-E-A-T 'Trust' signals: Lack of 'Meet the Team' or specific attorney bios which are critical for legal authority.
+CATEGORIES:
+  [1]
+    EXISTING CONTENT:
+      • Slip and fall at work
+      • Machine accidents
+      • Chemical exposure
+      • Ladder falls
+    IMPACT ON A I: Establishes foundational relevance for intent-based searches (commercial intent).
+    COVERAGE: strong
+    IMPORTANCE: critical
+    CATEGORY: Core Service Pages (Injury Types)
+    SUGGESTED CONTENT:
+      • Repetitive Stress Injuries (Carpal Tunnel) content
+      • Mental Health/PTSD claims in workers comp
+      • Secondary injury claims (injuries resulting from the first injury)
+  [2]
+    SUGGESTED CONTENT:
+      • Guide to the Idaho Industrial Commission vs. Utah Labor Commission process differences
+      • Local medical provider navigational guides for Boise and SLC workers
+      • City-specific case study summaries (anonymized)
+    IMPORTANCE: high
+    CATEGORY: Location-Specific Authority (Utah & Idaho)
+    IMPACT ON A I: Crucial for local SEO and "near me" semantic relevance.
+    COVERAGE: moderate
+    EXISTING CONTENT:
+      • Mentions of Murray, Boise, SLC, West Valley City
+  [3]
+    CATEGORY: Legal Process & Procedural Educational Content
+    IMPORTANCE: high
+    COVERAGE: minimal
+    IMPACT ON A I: Gaps here reduce "Expertise" and "Trustworthiness" scores in E-E-A-T.
+    SUGGESTED CONTENT:
+      • The Workers Comp Hearing Timeline: What to expect in Utah/Idaho
+      • How to appeal a denied claim step-by-step
+      • Calculating Permanent Partial Disability (PPD) ratings explained
+    EXISTING CONTENT:
+      • General claims assistance
+  [4]
+    SUGGESTED CONTENT:
+      • Workers Comp for Construction Workers in Salt Lake County
+      • Warehouse & Logistical Worker Injuries (Amazon/FedEx employees focus)
+      • Healthcare worker back and needle-stick injury rights
+    IMPACT ON A I: Prevents the firm from capturing long-tail searches from specific high-risk labor groups.
+    COVERAGE: none
+    IMPORTANCE: medium
+    CATEGORY: Niche Occupational Verticals (Industry-Specific)
+    EXISTING CONTENT:
+  [5]
+    SUGGESTED CONTENT:
+      • Workers Comp vs. Personal Injury: Can you sue your employer?
+      • What happens to health insurance while on workers comp?
+      • Tax implications of a workers compensation settlement in 2024
+    IMPORTANCE: high
+    CATEGORY: Financial & Benefits Clarification
+    IMPACT ON A I: High-conversion content that targets users at the 'Consideration' stage.
+    COVERAGE: minimal
+    EXISTING CONTENT:
+      • Mentions of 'Larger Settlements'

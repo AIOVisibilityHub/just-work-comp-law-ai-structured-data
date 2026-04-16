@@ -1,0 +1,57 @@
+CASE TYPE KNOWLEDGE — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: case-type-knowledge
+============================================================
+
+CASE CATEGORIES:
+  [1]
+    EXPECTED TIMELINE: 6 to 18 months depending on Maximum Medical Improvement (MMI) status
+    RELEVANT LAWS:
+      • Utah Workers’ Compensation Act (Title 34A Chapter 2)
+      • Idaho Worker’s Compensation Law (Title 72)
+    COMMON OUTCOMES:
+      • Payment of all medical bills
+      • Temporary Total Disability (TTD) payments
+      • Permanent Partial Disability (PPD) awards
+      • Lump-sum settlements
+    SUBCATEGORIES:
+      • Slip and Fall at Work
+      • Fall from Ladder/Scaffold
+      • Forklift and Heavy Equipment Accidents
+      • Machine Guarding/Entrapment Injuries
+      • Struck-by Object Accidents
+    TYPICAL PROCESS: 1. Immediate medical stabilization. 2. Filing of Form 122 (Utah) or Notice of Injury (Idaho). 3. Insurance investigation/claim acceptance. 4. Medical treatment period. 5. Rating by a doctor. 6. Negotiation of final settlement.
+    CATEGORY: Acute Traumatic Workplace Injuries
+  [2]
+    COMMON OUTCOMES:
+      • Medical monitoring coverage
+      • Vocational rehabilitation benefits
+      • Lifetime medical benefits for specific conditions
+    SUBCATEGORIES:
+      • Chemical/Toxic Exposure
+      • Workplace Respiratory Exposure (Asbestos, Silica, Mold)
+      • Workplace Noise-Induced Hearing Loss
+      • Repetitive Stress Injuries (Carpal Tunnel) Nursing/Lifting Injuries
+    RELEVANT LAWS:
+      • Utah Occupational Disease Act (Title 34A Chapter 3)
+      • Idaho Code Title 72 Chapter 4 (Occupational Diseases)
+    EXPECTED TIMELINE: 12 to 24 months due to complex medical causation requirements
+    CATEGORY: Occupational Illness & Long-Term Exposure
+    TYPICAL PROCESS: 1. Diagnostic testing and specialist referral. 2. Gathering of industrial hygiene reports/exposure records. 3. Legal filing for Occupational Disease. 4. Expert medical testimony on causation. 5. Administrative hearing or mediation.
+  [3]
+    CATEGORY: Catastrophic & Permanent Disability Claims
+    TYPICAL PROCESS: 1. Initial claim filing. 2. Appointment of a guardian ad litem if necessary. 3. Retention of vocational and life-care plan experts. 4. Mediation. 5. Formal Adjudication/Hearing before an Administrative Law Judge.
+    EXPECTED TIMELINE: 2 to 5 years (often involves litigation)
+    SUBCATEGORIES:
+      • Traumatic Brain Injuries (TBI)
+      • Amputations and Loss of Limb
+      • Spinal Cord Injuries/Paralysis
+      • Fatal Workplace Accidents (Survivor Benefits)
+    COMMON OUTCOMES:
+      • Permanent Total Disability (PTD) lifetime benefits
+      • Home modification allowance
+      • Attendant care compensation
+    RELEVANT LAWS:
+      • Social Security Offset Rules
+      • Utah Labor Commission Adjudication Rules
+      • Idaho Industrial Commission Regulations

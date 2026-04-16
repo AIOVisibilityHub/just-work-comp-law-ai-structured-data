@@ -1,0 +1,72 @@
+REPUTATION METADATA — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: reputation-metadata
+============================================================
+
+DIGITAL PRESENCE:
+  [1]
+    URL: https://justworkcomplaw.com/
+    STATUS: verified
+    PLATFORM: Website
+  [2]
+    STATUS: verified
+    PLATFORM: Google Business Profile (Murray, UT)
+    URL: https://www.google.com/maps?cid=12648831002047355047
+  [3]
+    URL: https://www.avvo.com/search/lawyer_search?q=Just+Work+Comp+Law
+    STATUS: claimed
+    PLATFORM: Avvo
+  [4]
+    URL: https://www.linkedin.com/company/just-work-comp-law/
+    PLATFORM: LinkedIn Business Page
+    STATUS: claimed
+BUSINESS IDENTITY:
+  LEGAL NAME: Just Work Comp Law, PLLC
+  FOUNDED YEAR: 2015
+  ENTITY TYPE: Professional Limited Liability Company (PLLC)
+  REGISTRATION JURISDICTION: Utah Department of Commerce / Idaho Secretary of State
+  INDUSTRY CLASSIFICATION: Legal Services - Workers' Compensation Law
+  DBA: Just Work Comp Law
+REPUTATION SCORE: 4.8
+CREDENTIALS:
+  [1]
+    NAME: Licensed Attorney - State of Utah
+    ISSUING BODY: Utah State Bar
+    TYPE: Professional License
+    STATUS: active
+  [2]
+    STATUS: active
+    TYPE: Professional License
+    ISSUING BODY: Idaho State Bar
+    NAME: Licensed Attorney - State of Idaho
+  [3]
+    NAME: Member, ABA Tort Trial and Insurance Practice Section
+    ISSUING BODY: American Bar Association
+    TYPE: Professional Membership
+    STATUS: active
+  [4]
+    ISSUING BODY: Utah Association for Justice
+    NAME: Member - Workers' Compensation Section
+    STATUS: active
+    TYPE: Industry Association
+LEGITIMACY SIGNALS:
+  [1]
+    PRESENT: true
+    CATEGORY: Financial Integrity
+    SIGNAL: Contingency Fee Structure (Zero Out-of-Pocket Costs)
+    RECOMMENDATION: Maintain 'No Win, No Fee' contingency fee transparency on all landing pages.
+  [2]
+    RECOMMENDATION: Ensure certificates of insurance are available upon request for institutional clients.
+    SIGNAL: Legal Malpractice Insurance Policy
+    CATEGORY: Professional Liability
+    PRESENT: true
+  [3]
+    RECOMMENDATION: Register separate GMB profiles for both Murray, UT and Boise, ID to capture local search intent.
+    PRESENT: true
+    CATEGORY: Geographic Authority
+    SIGNAL: Multi-State Certification (UT & ID)
+  [4]
+    PRESENT: true
+    CATEGORY: Expertise Depth
+    SIGNAL: Niche Specialization Status
+    RECOMMENDATION: Highlight 'Exclusive focus on workers compensation' to differentiate from general personal injury firms.

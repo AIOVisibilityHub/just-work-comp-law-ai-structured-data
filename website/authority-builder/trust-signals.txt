@@ -1,0 +1,78 @@
+TRUST SIGNALS SCORECARD — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: trust-signals
+============================================================
+
+TOP PRIORITY ADDITIONS:
+  • Create Attorney Bio pages with photos, bar numbers, and specific credentials to humanize the firm.
+  • Build a 'Proven Results' page with specific (de-identified) settlement figures to provide tangible proof of success.
+  • Embed verified Google Business Profile reviews directly onto the site to validate the 'Top-Rated' claim.
+CATEGORIES:
+  [1]
+    PRESENT SIGNALS:
+      • Text-based testimonials on homepage
+      • Reference to 'Top-Rated' status
+    CATEGORY: Social Proof & Reviews
+    MAX SCORE: 20
+    MISSING SIGNALS:
+      • Client video testimonials
+      • Case results/settlement tickers
+      • Verified third-party review widgets (e.g., BirdEye, Trustpilot)
+    RECOMMENDATIONS:
+      • Create a dedicated 'Results' page detailing specific settlement amounts and case types.
+      • Embed a live Google Reviews widget to prove authenticity.
+    SCORE: 8
+  [2]
+    CATEGORY: Professional Authority & Credentials
+    MAX SCORE: 20
+    PRESENT SIGNALS:
+      • Niche specialization (100% Workers Comp)
+    SCORE: 5
+    RECOMMENDATIONS:
+      • Add specific attorney names and their years of experience to the 'About' page.
+      • Join and display badges for the Utah Association for Justice (UAJ) and Idaho Trial Lawyers Association (ITLA).
+    MISSING SIGNALS:
+      • Individual attorney profiles/bios
+      • Bar association license links
+      • State-specific legal certifications (e.g., Board Certified Specialist)
+      • Professional memberships (e.g., WILG - Workers' Injury Law & Advocacy Group)
+  [3]
+    RECOMMENDATIONS:
+      • Publish a clear 'Step-by-Step Guide to Your Claim' to reduce user anxiety.
+      • Ensure 'No Win, No Fee' is explained in detail to meet ethical advertising standards.
+    SCORE: 12
+    MISSING SIGNALS:
+      • Detailed 'Process' or 'What to Expect' roadmap
+      • Fee structure transparency beyond 'zero out-of-pocket'
+      • Privacy Policy and Terms of Service links in footer
+    MAX SCORE: 20
+    CATEGORY: Transparency & Risk Reduction
+    PRESENT SIGNALS:
+      • No-cost guarantee (Contingent fee structure)
+      • Clear contact information and phone number
+  [4]
+    PRESENT SIGNALS:
+      • Service area list for Utah and Idaho
+    MAX SCORE: 20
+    CATEGORY: Geographic & Community signals
+    MISSING SIGNALS:
+      • Local office photos (interior/exterior)
+      • Community sponsorships or local charity involvement
+      • Google Maps embeds for both Utah and Idaho locations
+    SCORE: 7
+    RECOMMENDATIONS:
+      • Add a Google Map embed for the Murray, UT and Boise, ID offices to verify physical presence for SEO and trust.
+  [5]
+    PRESENT SIGNALS:
+      • Informative service descriptions
+    CATEGORY: Media & External Validation
+    MAX SCORE: 20
+    MISSING SIGNALS:
+      • Media mentions ('As Seen On')
+      • Legal industry awards (SuperLawyers, Best Lawyers, AV Preeminent)
+      • Educational blog/resource center updates
+    SCORE: 4
+    RECOMMENDATIONS:
+      • Apply for 'Avvo' ratings for individual attorneys and display the badges.
+      • Start a 'Workers' Comp Resources' blog to demonstrate thought leadership.
+OVERALL TRUST SCORE: 36

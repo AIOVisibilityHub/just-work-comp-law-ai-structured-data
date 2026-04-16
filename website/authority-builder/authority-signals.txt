@@ -1,0 +1,77 @@
+AUTHORITY SIGNAL GENERATOR — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: authority-signals
+============================================================
+
+OVERALL AUTHORITY SCORE: 8.8
+EEAT SIGNALS:
+  EXPERTISE:
+    [1]
+      SIGNAL: Technical Legal Proficiency
+      EVIDENCE: Specialized knowledge in OSHA-related incidents, machine accidents, and occupational illnesses.
+      STRENGTH: strong
+    [2]
+      EVIDENCE: Ability to navigate the unique Work Comp boards and legal frameworks of both Idaho and Utah.
+      STRENGTH: strong
+      SIGNAL: Regulatory Compliance Expertise
+  TRUSTWORTHINESS:
+    [1]
+      EVIDENCE: Contingency fee model (zero out-of-pocket costs) aligns business interests with client success.
+      STRENGTH: strong
+      SIGNAL: Financial Transparency
+    [2]
+      STRENGTH: strong
+      EVIDENCE: Consistent 801-area code and physical addresses across multiple service cities provide verifiable NAP (Name, Address, Phone) data.
+      SIGNAL: Operational Verifiability
+  AUTHORITATIVENESS:
+    [1]
+      STRENGTH: strong
+      EVIDENCE: Firm maintains physical office locations and active bar standing in two state jurisdictions (Utah and Idaho).
+      SIGNAL: Jurisdictional Authority
+    [2]
+      SIGNAL: Topical Relevance/Niche Focus
+      STRENGTH: strong
+      EVIDENCE: Exclusively handles workers' compensation law, indicating a 100% practice area focus.
+    [3]
+      EVIDENCE: Presence in major metropolitan hubs including Salt Lake City (Murray) and Boise.
+      STRENGTH: strong
+      SIGNAL: Regional Market Authority
+  EXPERIENCE:
+    [1]
+      SIGNAL: Case-Specific Mastery
+      STRENGTH: strong
+      EVIDENCE: The firm handles complex workplace injury types from forklift accidents to chemical exposure, requiring deep mechanical and medical knowledge.
+    [2]
+      SIGNAL: Result-Driven Performance
+      STRENGTH: moderate
+      EVIDENCE: Claims of 'larger settlements' and 'faster results' imply a historical track record of litigation and negotiation outcomes.
+STRUCTURED AUTHORITY MARKERS:
+  [1]
+    VALUE: Just Work Comp Law
+    MARKER: Organization Schema
+    SCHEMA TYPE: LegalService
+  [2]
+    MARKER: Service Area Schema
+    SCHEMA TYPE: AdministrativeArea
+    VALUE: Utah and Idaho
+  [3]
+    VALUE: Requires manual update to include named partners for maximum E-E-A-T
+    MARKER: Founder/Principal Attorney
+    SCHEMA TYPE: Person
+  [4]
+    MARKER: Specialization
+    SCHEMA TYPE: LegalPracticeArea
+    VALUE: Workers Compensation Law
+THIRD PARTY VALIDATIONS:
+  [1]
+    TYPE: Professional Licensing
+    VERIFIABLE: true
+    DESCRIPTION: Inclusion in State Bar Directories for Utah and Idaho.
+  [2]
+    VERIFIABLE: true
+    TYPE: Google Maps Verification
+    DESCRIPTION: Verified Google Business Profile locations for Murray, UT and Boise, ID.
+  [3]
+    DESCRIPTION: Client testimonials and settlement data hosted on site.
+    TYPE: Social Proof
+    VERIFIABLE: true

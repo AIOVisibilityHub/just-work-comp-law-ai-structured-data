@@ -1,0 +1,108 @@
+TOPIC EXPANSION — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: topic-expansion
+============================================================
+
+SEMANTIC RELATIONSHIPS:
+  [1]
+    RELATIONSHIP: specializes exclusively in
+    ENTITY2: Workers' Compensation Law
+    ENTITY1: Just Work Comp Law
+  [2]
+    ENTITY1: Utah Industrial Commission
+    RELATIONSHIP: operates within jurisdictional framework of
+    ENTITY2: Just Work Comp Law
+  [3]
+    ENTITY1: Forklift Accidents
+    RELATIONSHIP: is a specific type of
+    ENTITY2: Machine accident work injury
+  [4]
+    ENTITY1: Murray, Utah
+    RELATIONSHIP: is the primary physical location for
+    ENTITY2: Just Work Comp Law
+  [5]
+    RELATIONSHIP: is supported by the value proposition of
+    ENTITY2: No out-of-pocket costs
+    ENTITY1: Settlement Value
+PILLAR TOPICS:
+  [1]
+    TOPIC: Workers' Compensation Law & Claims
+    SUBTOPICS:
+      [1]
+        NAME: Utah Workers' Compensation System
+        ESTIMATED VOLUME: high
+        LONG TAIL VARIATIONS:
+          • how to file a workers' comp claim in Utah
+          • Utah workers compensation laws for temporary disability
+          • Utah industrial commission claim process
+        SEARCH INTENT: informational
+      [2]
+        ESTIMATED VOLUME: medium
+        LONG TAIL VARIATIONS:
+          • workers compensation settlement amounts for back surgery Utah
+          • how are workers comp settlements calculated in Idaho
+          • average settlement for forklift accident near me
+        NAME: Settlement Maximization Strategies
+        SEARCH INTENT: commercial
+      [3]
+        NAME: Local Legal Representation
+        LONG TAIL VARIATIONS:
+          • hiring a worker comp lawyer in Murray UT
+          • best work injury attorney West Valley City
+          • Boise Idaho workers compensation law firm reviews
+        ESTIMATED VOLUME: medium
+        SEARCH INTENT: transactional
+    RELEVANCE SCORE: 1
+  [2]
+    RELEVANCE SCORE: 0.95
+    SUBTOPICS:
+      [1]
+        SEARCH INTENT: informational/commercial
+        ESTIMATED VOLUME: medium
+        LONG TAIL VARIATIONS:
+          • ladder fall injuries at work lawsuit
+          • scaffolding accident attorney Utah
+          • worker's comp for falls from heights
+        NAME: Falls from Ladders & Heights
+      [2]
+        SEARCH INTENT: commercial
+        NAME: Heavy Machinery & Industrial Accidents
+        LONG TAIL VARIATIONS:
+          • forklift crush injury lawyer Boise
+          • warehouse machine accident compensation
+          • factory equipment malfunction injury claim
+        ESTIMATED VOLUME: medium
+      [3]
+        SEARCH INTENT: informational
+        NAME: Occupational Illness & Toxic Exposure
+        LONG TAIL VARIATIONS:
+          • occupational hearing loss claims Murray UT
+          • workers comp for chemical exposure at work
+          • respiratory illness from workplace mold or dust
+        ESTIMATED VOLUME: low
+    TOPIC: Workplace Injury Types & Mechanics
+  [3]
+    RELEVANCE SCORE: 0.88
+    TOPIC: Worker Rights & Benefits Administration
+    SUBTOPICS:
+      [1]
+        SEARCH INTENT: informational
+        LONG TAIL VARIATIONS:
+          • can I be fired for filing workers comp in Utah
+          • workers comp doctor list Utah
+          • retaliation for workplace injury claim Idaho
+        ESTIMATED VOLUME: high
+        NAME: Injured Worker Protections
+      [2]
+        NAME: Benefits & Appeals Process
+        LONG TAIL VARIATIONS:
+          • workers compensation permanent partial disability vs total disability
+          • denied workers comp claim appeal process Utah
+          • Vocational rehabilitation workers comp Idaho
+        ESTIMATED VOLUME: medium
+        SEARCH INTENT: informational
+CONTENT RECOMMENDATIONS:
+  • Create a 'Workers' Comp State Law Comparison' landing page specifically for companies with employees in both Utah and Idaho.
+  • Develop an interactive 'Settlement Calculator' tool to capture high-intent leads searching for value-based terms.
+  • Produce a video series: 'Your First 48 Hours After a Workplace Injury' featuring local landmarks in Murray and Boise to boost geo-relevance.
+  • Publish a 'Manufacturer-Specific Safety Guide' targeting the heavy machine and forklift accident niche common in West Valley City industrial corridors.

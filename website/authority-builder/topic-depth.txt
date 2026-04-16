@@ -1,0 +1,63 @@
+TOPIC DEPTH CHECKER — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: topic-depth
+============================================================
+
+OVERALL DEPTH SCORE: 42
+PRIORITY ACTIONS:
+  • Develop state-specific 'Statute of Limitations' content for Idaho to capture Boise-area traffic.
+  • Create a 'Verticals' section targeting Construction, Healthcare, and Logistics workers.
+  • Produce 'How-To' content regarding Independent Medical Exams (IMEs), as this is a high-anxiety touchpoint for claimants.
+  • Aggressively build out the 'Idaho' footprint, as the site currently appears heavily weighted toward Utah.
+CATEGORIES:
+  [1]
+    RECOMMENDATIONS:
+      • Create a 'Step-by-Step Guide to a Utah Workers Comp Claim' infographic and long-form post.
+      • Develop an FAQ specifically for the medical evaluation (IME) process.
+    IMPORTANCE: critical
+    GAPS:
+      • The 'Hearing' or 'Appeals' process in Utah vs. Idaho
+      • Temporary Total Disability (TTD) vs. Permanent Partial Disability (PPD) explained
+      • How to switch doctors under employer insurance
+    CURRENT COVERAGE: moderate
+    CATEGORY: Worker Comp Process & Procedure
+  [2]
+    CATEGORY: Vertical-Specific Injury Types
+    IMPORTANCE: high
+    GAPS:
+      • Construction-specific injuries (scaffolding, trenching)
+      • Healthcare worker injuries (back strain from lifting patients, needle sticks)
+      • Office-based injuries (repetitive motion, carpal tunnel)
+      • Warehouse/Logistics injuries (loading dock, Amazon/FedEx delivery accidents)
+    CURRENT COVERAGE: minimal
+    RECOMMENDATIONS:
+      • Build dedicated landing pages for 'Construction Accidents' and 'Warehouse Injuries' to capture high-intent local traffic.
+  [3]
+    RECOMMENDATIONS:
+      • Create a 'State Guide' section that distinguishes the legal requirements for Boise clients vs. Salt Lake City clients.
+    GAPS:
+      • Comparative analysis of Utah Labor Commission vs. Industrial Commission of Idaho
+      • Statute of limitations differences between the two states
+      • Reporting deadlines specific to Idaho law (Boise focus)
+    CURRENT COVERAGE: minimal
+    IMPORTANCE: high
+    CATEGORY: State-Specific Legal Nuances (UT vs ID)
+  [4]
+    GAPS:
+      • Average settlement calculators or 'factors that influence settlement' posts
+      • How social security disability interacts with workers comp settlements
+      • Medicare Set-Aside (MSA) explanations for older workers
+    CURRENT COVERAGE: minimal
+    IMPORTANCE: medium
+    RECOMMENDATIONS:
+      • Publish a guide titled 'How Much Is My Claim Worth?' focusing on wage calculation formulas.
+    CATEGORY: Economic & Settlement Valuation
+  [5]
+    CATEGORY: Local SEO & Geographic Authority
+    RECOMMENDATIONS:
+      • Create 18 unique 'Local Resource' pages for each city listed, including local court locations and hospital information.
+    CURRENT COVERAGE: moderate
+    GAPS:
+      • Case results/testimonials tied to specific cities (e.g., 'Helping workers in West Valley City')
+      • Local medical clinic partnerships or 'Where to find help in Sandy' guides
+    IMPORTANCE: high

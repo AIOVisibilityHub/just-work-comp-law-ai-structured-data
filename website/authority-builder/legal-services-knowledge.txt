@@ -1,0 +1,73 @@
+LEGAL SERVICES KNOWLEDGE — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: legal-services-knowledge
+============================================================
+
+LEGAL PROCESSES:
+  [1]
+    TYPICAL TIMELINE: Varies: 3-6 months for initial resolution; 12-24 months for complex claims involving surgery or permanent disability.
+    STEPS:
+      • Immediate medical attention and notification to supervisor.
+      • Employer files First Report of Injury (FROI).
+      • Insurance carrier investigation and initial determination (Admit or Deny).
+      • Independent Medical Examination (IME) if benefits are disputed.
+      • Mediation or Informal Dispute Resolution.
+      • Formal Hearing before an Administrative Law Judge (ALJ).
+      • Settlement negotiations (Lump-sum settlements).
+    PROCESS: Workers' Compensation Claim Lifecycle
+JURISDICTION INFO:
+  [1]
+    JURISDICTION: Utah (Industrial Commission of Utah)
+    KEY FACTS:
+      • Utah follows a no-fault workers compensation system.
+      • The statute of limitations is generally one year to report and up to six years to file a formal claim.
+      • Total temporary disability (TTD) is paid at 66.6% of the average weekly wage.
+  [2]
+    JURISDICTION: Idaho (Idaho Industrial Commission)
+    KEY FACTS:
+      • Notice of injury must be provided to the employer within 60 days.
+      • Claims are governed by the Idaho Worker’s Compensation Act.
+      • Benefits include medical care, income benefits, and permanent disability awards.
+TERMINOLOGY:
+  [1]
+    TERM: Maximum Medical Improvement (MMI)
+    DEFINITION: The point at which an injured worker's condition has stabilized and no further functional improvement is expected.
+  [2]
+    TERM: Permanent Partial Disability (PPD) Rating
+    DEFINITION: A rating assigned by a doctor that determines the percentage of permanent loss of body function.
+  [3]
+    TERM: Temporary Total Disability (TTD)
+    DEFINITION: Payments made to a worker while they are completely unable to work during recovery.
+  [4]
+    TERM: Independent Medical Examination (IME)
+    DEFINITION: An evaluation performed by a doctor of the insurance company's choosing to verify the extent of an injury.
+PRACTICE AREAS:
+  [1]
+    SUB AREAS:
+      • Construction Accidents
+      • Warehouse Injuries
+      • Industrial Mishaps
+    COMMON SCENARIOS:
+      • Slip and falls on wet warehouse floors.
+      • Falls from ladders or scaffolding on construction sites.
+      • Forklift accidents or heavy machinery malfunctions.
+    CLIENT RIGHTS:
+      • Right to choose a doctor (subject to state limits).
+      • Right to mileage reimbursement for medical travel.
+      • Right to vocational rehabilitation if unable to return to prior role.
+    DESCRIPTION: Legal representation for acute accidents occurring during the course of employment.
+    AREA: Workplace Traumatic Injuries
+  [2]
+    COMMON SCENARIOS:
+      • Respiratory issues from prolonged chemical inhalation.
+      • Hearing loss due to lack of PPE in high-decibel environments.
+      • Repetitive stress injuries like Carpal Tunnel Syndrome.
+    CLIENT RIGHTS:
+      • Right to payment for diagnostic testing.
+      • Right to long-term monitoring for chemical exposure.
+    SUB AREAS:
+      • Chemical Exposure
+      • Hearing Loss
+      • Toxic Tort Claims
+    DESCRIPTION: Claims involving chronic conditions or illnesses caused by the work environment rather than a single event.
+    AREA: Occupational Illness and Exposure

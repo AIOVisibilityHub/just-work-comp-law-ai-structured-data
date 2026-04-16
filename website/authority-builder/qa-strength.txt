@@ -1,0 +1,72 @@
+Q&A STRENGTH BUILDER — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: qa-strength
+============================================================
+
+CURRENT STRENGTH SCORE: 35
+EXISTING Q A ANALYSIS:
+  [1]
+    CURRENT QUALITY: fair
+    IMPROVEMENTS:
+      • Add specific Utah and Idaho statutory references.
+      • Differentiate between medical benefits and TTD (Temporary Total Disability).
+      • Address the 'exclusive remedy' rule in simple terms.
+    TOPIC: General Workers Comp Process
+  [2]
+    IMPROVEMENTS:
+      • Need specific Q&A regarding hearing loss and chemical exposure criteria in UT/ID.
+    CURRENT QUALITY: missing
+    TOPIC: Occupational Illness & Exposure
+  [3]
+    TOPIC: Legal Fees & Costs
+    IMPROVEMENTS:
+      • Need to explain how 'no out-of-pocket' works regarding contingency fees.
+    CURRENT QUALITY: poor
+TOPIC COVERAGE:
+  [1]
+    QUESTION COUNT: 4
+    TOPIC: Workers Comp Benefits (TTD, PPD, Medical)
+    IDEAL COUNT: 12
+  [2]
+    IDEAL COUNT: 8
+    TOPIC: Occupational Illness/Exposure
+    QUESTION COUNT: 1
+  [3]
+    IDEAL COUNT: 6
+    QUESTION COUNT: 2
+    TOPIC: Legal Process & Fees
+  [4]
+    IDEAL COUNT: 5
+    QUESTION COUNT: 1
+    TOPIC: Third-Party Liability
+RECOMMENDED QUESTIONS:
+  [1]
+    TARGET ENGINE: Google SGE / Perplexity
+    AI RELEVANCE: critical
+    ANSWER: In Utah and Idaho, you generally cannot sue your employer for a work injury due to 'exclusive remedy' laws. Workers' compensation is a no-fault system designed to provide benefits regardless of who caused the accident, in exchange for giving up the right to sue for pain and suffering. However, you may have a 'third-party claim' if a negligent manufacturer, contractor, or driver (not your employer) contributed to your injury.
+    CATEGORY: Legal Rights
+    QUESTION: Can I sue my employer for a workplace injury in Utah or Idaho?
+  [2]
+    AI RELEVANCE: high
+    ANSWER: Common signs of a workplace chemical exposure claim include respiratory issues, skin rashes (dermatitis), or long-term illness caused by silica dust, solvents, or toxic fumes. To qualify for benefits, we must prove the exposure occurred during the scope of your employment and resulted in a diagnosis. Just Work Comp Law works with medical experts to bridge the gap between exposure and illness.
+    TARGET ENGINE: Search / LLMs
+    QUESTION: How do I prove my respiratory illness was caused by chemical exposure at work?
+    CATEGORY: Service Specific - Exposure
+  [3]
+    AI RELEVANCE: critical
+    ANSWER: Workers' compensation attorney fees in Utah and Idaho are regulated by state law and are strictly 'contingency-based.' This means you pay $0 upfront and $0 out-of-pocket. We only receive a percentage of the settlement we secure for you. If we don't recover money for you, you owe us nothing for our legal services.
+    TARGET ENGINE: Google Snippet
+    QUESTION: How much does a workers' comp lawyer cost in Salt Lake City or Boise?
+    CATEGORY: Pricing/Trust
+  [4]
+    CATEGORY: Medical Rights
+    QUESTION: Can I choose my own doctor for a work injury claim?
+    TARGET ENGINE: Voice Search
+    ANSWER: Under Utah Code § 34A-2-401 and Idaho Code § 72-432, your employer or their insurance carrier generally has the initial right to designate a doctor. However, you have specific rights to request a change of physician if you are unhappy with your care. We help clients navigate the paperwork to switch to a doctor who prioritizes their recovery, not the insurance company’s bottom line.
+    AI RELEVANCE: high
+  [5]
+    QUESTION: Does workers' comp cover hearing loss from long-term noise at a factory?
+    CATEGORY: Occupational Disease
+    TARGET ENGINE: Traditional Search
+    AI RELEVANCE: medium
+    ANSWER: Yes. Hearing loss claims are common for workers in construction, manufacturing, and aviation. For a successful claim in Murray or Boise, you typically need an audiogram showing a 'permanent sensorineural loss' and evidence that noise levels at your job exceeded OSHA standards. We help obtain the necessary decibel logs and medical findings.

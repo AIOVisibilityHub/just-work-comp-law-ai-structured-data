@@ -1,0 +1,80 @@
+INDUSTRY KNOWLEDGE FILE — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: industry-knowledge
+============================================================
+
+TERMINOLOGY:
+  [1]
+    TERM: MAXIMUM MEDICAL IMPROVEMENT (MMI)
+    CONTEXT: Medical/Legal Definition
+    DEFINITION: The point at which an injured worker's condition has stabilized and is not expected to improve further with additional medical treatment.
+  [2]
+    CONTEXT: Compensation Structure
+    DEFINITION: The legal doctrine that prevents employees from suing their employers for negligence in exchange for guaranteed workers' compensation benefits.
+    TERM: EXCLUSIVE REMEDY
+  [3]
+    CONTEXT: Disability Rating
+    DEFINITION: A benefit paid when a worker has a permanent loss of function even after reaching MMI, calculated based on state-mandated impairment schedules.
+    TERM: PERMANENT PARTIAL DISABILITY (PPD)
+  [4]
+    TERM: INDEPENDENT MEDICAL EXAM (IME)
+    DEFINITION: A physician selected and paid for by the insurance company to evaluate the claimant, often resulting in conflicting medical opinions.
+    CONTEXT: Administrative Procedure
+  [5]
+    TERM: ARISING OUT OF EMPLOYMENT (AOE/COE)
+    DEFINITION: The legal standard determining whether an injury is compensable; it must be related to the duties and location of the job.
+    CONTEXT: Legal Criteria
+  [6]
+    TERM: OCCUPATIONAL DISEASE
+    CONTEXT: Occupational Health
+    DEFINITION: A condition that results from the nature of the employment (e.g., carpal tunnel, hearing loss, or chemical exposure) rather than a one-time accident.
+SEASONAL PATTERNS:
+  [1]
+    TREND: Increased slip and fall cases due to ice in parking lots/loading docks and vehicle accidents during deliveries.
+    PERIOD: Winter (December - March)
+  [2]
+    TREND: Higher volume of construction-related accidents and heat-related occupational illnesses.
+    PERIOD: Summer (June - August)
+  [3]
+    TREND: Increased reporting of injuries sustained during 'peak season' in retail and logistics sectors.
+    PERIOD: Post-Holiday (January)
+INDUSTRY NAME: Workers' Compensation Law (Utah and Idaho)
+MARKET SEGMENTS:
+  • Industrial and Manufacturing Laborers
+  • Construction and Trade Workers (falling from heights, heavy machinery)
+  • Warehouse and Logistics (Forklift accidents, lifting injuries)
+  • Transportation and Delivery Drivers
+  • Healthcare Workers (Patient lifting and respiratory exposure)
+  • Service Industry Employees (slip and falls)
+REGULATIONS:
+  [1]
+    NAME: Utah Labor Commission
+    RELEVANCE: Primary regulatory authority for state-specific legal procedures.
+    DESCRIPTION: The governing body for the Utah Workers' Compensation Act, overseeing claims disputes and industrial accidents in Utah.
+  [2]
+    DESCRIPTION: The executive agency overseeing workers' compensation in Idaho, responsible for adjudication of disputed claims.
+    NAME: Idaho Industrial Commission (IIC)
+    RELEVANCE: State-specific regulatory body for the Boise market.
+  [3]
+    DESCRIPTION: U.S. Department of Labor guidelines that often intersect with workers' comp cases involving safety failures.
+    NAME: Occupational Safety and Health Administration (OSHA)
+    RELEVANCE: Evidence of safety violations can influence legal strategy and employer liability.
+  [4]
+    NAME: HIPAA
+    RELEVANCE: Standard protocol for handling medical documentation and release forms.
+    DESCRIPTION: The law that protects the privacy of medical records, crucial for attorney-client exchange of medical evidence.
+KEY CONCEPTS:
+  • Maximal Medical Improvement (MMI)
+  • Permanent Partial Disability (PPD)
+  • Temporary Total Disability (TTD)
+  • Exclusive Remedy Rule
+  • No-Fault System nature of Workers' Comp
+  • The 'Arising Out Of and In the Course Of Employment' (AOIC) standard
+  • Impairment Ratings (percentage of body as a whole)
+COMMON PRACTICES:
+  • Contingency fee billing (no recovery, no fee)
+  • Independent Medical Examinations (IME) to challenge insurance doctor findings
+  • Maximal Medical Improvement (MMI) rating assessments
+  • Negotiating lump-sum settlements vs. structured settlements
+  • Managing 'Denial of Liability' appeals and hearings before industrial commissions
+  • Assisting with Vocational Rehabilitation services for permanent disability cases

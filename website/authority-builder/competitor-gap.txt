@@ -1,0 +1,50 @@
+COMPETITOR GAP DETECTOR — Just Work Comp Law
+Generated: 2026-04-15
+Analysis Type: competitor-gap
+============================================================
+
+EMERGING TRENDS:
+  [1]
+    TREND: Hyper-local Voice Search Optimization
+    ADOPTION: Rapidly increasing in mobile-heavy blue-collar sectors.
+    ACTION: Optimizing for voice search terms like 'workers comp lawyer near me open now' or 'how to report a fall at work in Idaho.'
+  [2]
+    TREND: Short-form Video Legal Education
+    ADOPTION: Early adopters seeing high engagement in manual labor demographics.
+    ACTION: Creating 60-second 'Quick Claim Tips' for TikTok and Reels to reach younger trade workers and warehouse staff.
+  [3]
+    ACTION: Detailed guides on how long-term COVID or respiratory issues from specific construction dust (silica) are treated under state law.
+    ADOPTION: Moderate; high value for long-term occupational illness claims.
+    TREND: Long-tail Occupational Illness Claims
+INDUSTRY STANDARDS:
+  [1]
+    YOUR STATUS: at_par
+    TYPICAL COMPETITOR APPROACH: Generic 'service area' lists at the bottom of the page.
+    STANDARD: Localized Geo-Siloing
+    OPPORTUNITY: Utilize the 801 and 208 area codes effectively. You can outperform national 'lead gen' firms by highlighting local court familiarity in Murray and Boise.
+  [2]
+    OPPORTUNITY: Publish a 'Work Comp Settlement Log' (anonymized) showing date, injury, and amount to build immediate social proof.
+    STANDARD: Case Result Transparency
+    TYPICAL COMPETITOR APPROACH: Vague 'millions recovered' banners without context.
+    YOUR STATUS: behind
+  [3]
+    OPPORTUNITY: Create a 'Denied Claim Workflow' infographic to show the literal steps (appeals, hearings) to reduce client anxiety.
+    YOUR STATUS: missing
+    TYPICAL COMPETITOR APPROACH: Dense, text-heavy FAQ pages that are difficult for injured/stressed users to read.
+    STANDARD: Visual Process Mapping
+CONTENT GAPS:
+  [1]
+    COMPETITOR USAGE: High-authority firms are creating hyper-specific 'Industry Guides' (e.g., 'Workers Comp for Amazon Warehouse Workers' or 'Rights for Rio Tinto Miners').
+    PRIORITY: high
+    CONTENT TYPE: Industry-Specific Risk Profiles
+    RECOMMENDATION: Create landing pages for the top 5 largest employers in Murray, Boise, and West Valley City detailing specific injury risks and internal reporting procedures for those companies.
+  [2]
+    COMPETITOR USAGE: Firms are moving away from generic blogs toward 'Statutory Benefit Calculators' and 'Settlement Estimator' interactive tools.
+    PRIORITY: critical
+    RECOMMENDATION: Develop a 'Utah vs. Idaho Benefit Calculator' that allows users to input their average weekly wage to see estimated TTD (Total Temporary Disability) rates.
+    CONTENT TYPE: Interactive Settlement Tools
+  [3]
+    PRIORITY: medium
+    COMPETITOR USAGE: Top-tier competitors are publishing 'Medical Provider Navigation' content—ranking the best vs. worst occupational health clinics in specific cities.
+    RECOMMENDATION: Write guides for Boise and Salt Lake City on 'What to expect at Concentra' or 'How to handle an IME (Independent Medical Exam) with [Local Doctor Name].'
+    CONTENT TYPE: Provider Transparency Reports
