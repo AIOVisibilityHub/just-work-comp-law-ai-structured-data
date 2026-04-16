@@ -1,3 +1,5 @@
+Insert inside the case results page <head> section of the website.
+
 <!-- ===== CASE RESULTS PAGE: WORKPLACE SOCCER INJURY (FULLY OPTIMIZED) ===== -->
 
 <!-- Basic Meta Tags (Case Study + 4 Offices) -->
