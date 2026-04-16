@@ -1,3 +1,5 @@
+Insert inside the faq lesiones page <head> section of the website.
+
 <!-- ===== FAQ LESIONES ESFUERZO REPETITIVO (LER) - COMPLETO ESPAÑOL ===== -->
 
 <!-- Basic Meta Tags (Optimizado LER + 4 Oficinas) -->
