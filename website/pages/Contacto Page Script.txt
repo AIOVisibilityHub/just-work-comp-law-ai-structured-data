@@ -1,3 +1,5 @@
+Insert inside the contacto page <head> section of the website.
+
 <!-- ===== PÁGINA CONTACTO ESPAÑOL (4 OFICINAS + 42 CIUDADES) ===== -->
 
 <!-- Basic Meta Tags (Optimizado Español + 4 Oficinas) -->
