@@ -1,3 +1,5 @@
+Insert inside the lumbar injury page <head> section of the website.
+
 <!-- ===== L4-L5-S1 LUMBAR INJURY PAGE (MEDICAL + 4 OFFICES + 42 CITIES) ===== -->
 
 <!-- Basic Meta Tags (High-Intent Medical Injury Targeting) -->
