@@ -1,0 +1,8 @@
+Contact: mailto:security@justworkcomplaw.com
+Contact: https://justworkcomplaw.com/contact-us
+Encryption: https://keyserver.pgp.com/vks/v1/by-fingerprint/...
+Policy: https://justworkcomplaw.com/security-policy
+Hiring: We love security researchers!
+
+Preferred-Languages: en
+Expires: 2027-04-15T00:00:00Z

@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "email": "info@davis-sanchez.com",
+  "areaServed": [
+    { "@type": "City", "name": "Salt Lake City" },
+    { "@type": "City", "name": "Ogden" },
+    { "@type": "City", "name": "Saint George" },
+    { "@type": "City", "name": "Boise, Idaho" },
+    { "@type": "City", "name": "Meridian" },
+    { "@type": "City", "name": "Eagle" },
+    { "@type": "City", "name": "Kuna" },
+    { "@type": "City", "name": "Garden City" },
+    { "@type": "City", "name": "Nampa" },
+    { "@type": "City", "name": "Caldwell" },
+    { "@type": "City", "name": "Middleton" },
+    { "@type": "City", "name": "Star" },
+    { "@type": "City", "name": "West Valley City" },
+    { "@type": "City", "name": "West Jordan" },
+    { "@type": "City", "name": "Sandy" },
+    { "@type": "City", "name": "Murray" },
+    { "@type": "City", "name": "Millcreek" },
+    { "@type": "City", "name": "South Salt Lake" },
+    { "@type": "City", "name": "North Salt Lake" },
+    { "@type": "City", "name": "Bountiful" },
+    { "@type": "City", "name": "Midvale" },
+    { "@type": "City", "name": "Taylorsville" },
+    { "@type": "City", "name": "Cottonwood Heights" },
+    { "@type": "City", "name": "Holladay" },
+    { "@type": "City", "name": "Draper" },
+    { "@type": "City", "name": "Riverton" },
+    { "@type": "City", "name": "Farmington" },
+    { "@type": "City", "name": "Centerville" },
+    { "@type": "City", "name": "Cedar City" },
+    { "@type": "City", "name": "Magna" },
+    { "@type": "City", "name": "Woods Cross" },
+    { "@type": "City", "name": "Kearns" },
+    { "@type": "City", "name": "Bluffdale" },
+    { "@type": "City", "name": "Kaysville" },
+    { "@type": "City", "name": "Clearfield" },
+    { "@type": "City", "name": "Syracuse" },
+    { "@type": "City", "name": "Roy" },
+    { "@type": "City", "name": "Tooele" },
+    { "@type": "City", "name": "Layton" },
+    { "@type": "City", "name": "West Bountiful" },
+    { "@type": "City", "name": "Emigration Canyon" },
+    { "@type": "City", "name": "White City" },
+    { "@type": "City", "name": "Park City" },
+    { "@type": "City", "name": "Lehi" },
+    { "@type": "City", "name": "Highland" },
+    { "@type": "City", "name": "American Fork" },
+    { "@type": "City", "name": "Pleasant Grove" },
+    { "@type": "City", "name": "Provo" },
+    { "@type": "City", "name": "Granite" },
+    { "@type": "City", "name": "Herriman" },
+    { "@type": "City", "name": "South Jordan" },
+    { "@type": "City", "name": "Eagle Mountain" },
+    { "@type": "City", "name": "Saratoga Springs" }
+  ],
+  "branchOf": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/"
+  },
+  "subOrganization": [
+    {
+      "@type": "LegalService",
+      "name": "Just Work Comp Law - Salt Lake City",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "url": "https://justworkcomplaw.com/"
+    },
+    {
+      "@type": "LegalService",
+      "name": "Just Work Comp Law - Ogden",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "205 E 26th St, Ste 22",
+        "addressLocality": "Ogden",
+        "addressRegion": "UT",
+        "postalCode": "84401",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "url": "https://justworkcomplaw.com/"
+    },
+    {
+      "@type": "LegalService",
+      "name": "Just Work Comp Law - Saint George",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "923 S River Rd Suite #202",
+        "addressLocality": "St George",
+        "addressRegion": "UT",
+        "postalCode": "84790",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "url": "https://justworkcomplaw.com/"
+    },
+    {
+      "@type": "LegalService",
+      "name": "Just Work Comp Law - Boise",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4696 W Overland Rd #162",
+        "addressLocality": "Boise",
+        "addressRegion": "ID",
+        "postalCode": "83705",
+        "addressCountry": "US"
+      },
+      "telephone": "801-746-0290",
+      "url": "https://justworkcomplaw.com/"
+    }
+  ]
+}

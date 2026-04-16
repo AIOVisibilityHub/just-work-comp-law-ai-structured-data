@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/",
+  "telephone": "801-746-0290",
+  "email": "info@davis-sanchez.com",
+  "description": "Just Work Comp Law is a Utah and Idaho workers' compensation law firm dedicated to helping injured employees recover benefits after workplace injuries. Services include filing workers' compensation claims, appealing denied claims, resolving medical treatment disputes, and securing compensation for lost wages, disability benefits, and long-term workplace injuries. The firm operates on a no upfront cost basis and is dedicated exclusively to workers' compensation law.",
+  "areaServed": [
+    { "@type": "City", "name": "Salt Lake City" },
+    { "@type": "City", "name": "Ogden" },
+    { "@type": "City", "name": "Saint George" },
+    { "@type": "City", "name": "Boise" },
+    { "@type": "City", "name": "West Valley City" },
+    { "@type": "City", "name": "Sandy" },
+    { "@type": "City", "name": "Murray" },
+    { "@type": "City", "name": "Provo" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Just Work Comp Law Services",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Workplace injury" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "On-the-job accident" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Slip and fall at work" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Denied workers comp claim" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Workers comp appeal" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Forklift accident on job" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Construction site accident" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Back injury at work" } }
+    ]
+  },
+  "subOrganization": [
+    {
+      "@type": "LegalService",
+      "name": "Just Work Comp Law - Salt Lake City Office",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "655 E 4500 S #120",
+        "addressLocality": "Salt Lake City",
+        "addressRegion": "UT",
+        "postalCode": "84107"
+      }
+    }
+  ]
+}

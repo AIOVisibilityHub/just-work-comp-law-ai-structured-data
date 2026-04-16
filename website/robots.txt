@@ -1,0 +1,27 @@
+# Standard robots.txt for Just Work Comp Law
+User-agent: *
+Allow: /
+
+# BLOCK AI CONTEXT FILES (private)
+Disallow: /just-work-comp-law-full-context.md
+Disallow: /llm-full.txt
+Disallow: /ai-sitemap.xml
+
+# BLOCK ADMIN / PRIVATE AREAS
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /login/
+Disallow: /*.txt$
+Disallow: /*.log$
+
+# ALLOW IMPORTANT FILES
+Allow: /sitemap.xml
+Allow: /legal-service.schema.json
+Allow: /attorneys.schema.json
+Allow: /locations.schema.json
+Allow: /just-work-comp-law.schema.json
+Allow: /.well-known/security.txt
+Allow: /humans.txt
+
+# SITEMAP
+Sitemap: https://justworkcomplaw.com/sitemap.xml
