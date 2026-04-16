@@ -1,0 +1,173 @@
+Insert in the <head> section of the home page of the web site.
+
+<!-- ===== COMPLETE HOMEPAGE SEO + JSON-LD (ALL CITIES + CASE TYPES) ===== -->
+
+<!-- Basic Meta Tags -->
+<title>Utah & Idaho Workers' Comp Lawyers | Just Work Comp Law</title>
+<meta name="description" content="Top-rated workers' compensation attorneys serving Salt Lake City, Ogden, Boise, Provo, and 40+ Utah/Idaho cities. Workplace injury, denied claims, construction accidents, forklift injuries. Free consultation. 801-746-0290." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Just Work Comp Law" />
+
+<!-- Open Graph / Social -->
+<meta property="og:title" content="Utah & Idaho Workers' Comp Lawyers | Just Work Comp Law" />
+<meta property="og:description" content="Top-rated workers' compensation attorneys serving Salt Lake City, Ogden, Boise, Provo, and 40+ Utah/Idaho cities. Workplace injury, denied claims, construction accidents, forklift injuries. Free consultation." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://justworkcomplaw.com" />
+<meta property="og:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+<meta property="og:image:alt" content="Just Work Comp Law Logo" />
+<meta property="og:site_name" content="Just Work Comp Law" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Utah & Idaho Workers' Comp Lawyers | Just Work Comp Law" />
+<meta name="twitter:description" content="Top-rated workers' compensation attorneys serving Salt Lake City, Ogden, Boise, Provo, and 40+ Utah/Idaho cities. Free consultation." />
+<meta name="twitter:image" content="https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png" />
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" href="/favicon-32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://justworkcomplaw.com" />
+
+<!-- ===== JSON-LD STRUCTURED DATA (ALL 42 CITIES + 45 CASE TYPES) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "@id": "https://justworkcomplaw.com#primary",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com",
+  "description": "Top-rated workers' compensation attorneys serving 42+ Utah & Idaho cities. Workplace injuries, denied claims, construction accidents, forklift injuries, chemical exposure. Free consultation. 801-746-0290.",
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {"@type": "City", "name": "Salt Lake City"},
+    {"@type": "City", "name": "Ogden"},
+    {"@type": "City", "name": "Saint George"},
+    {"@type": "City", "name": "Boise"},
+    {"@type": "City", "name": "West Valley City"},
+    {"@type": "City", "name": "West Jordan"},
+    {"@type": "City", "name": "Sandy"},
+    {"@type": "City", "name": "Murray"},
+    {"@type": "City", "name": "Millcreek"},
+    {"@type": "City", "name": "South Salt Lake"},
+    {"@type": "City", "name": "North Salt Lake"},
+    {"@type": "City", "name": "Bountiful"},
+    {"@type": "City", "name": "Midvale"},
+    {"@type": "City", "name": "Taylorsville"},
+    {"@type": "City", "name": "Cottonwood Heights"},
+    {"@type": "City", "name": "Holladay"},
+    {"@type": "City", "name": "Draper"},
+    {"@type": "City", "name": "Riverton"},
+    {"@type": "City", "name": "Farmington"},
+    {"@type": "City", "name": "Centerville"},
+    {"@type": "City", "name": "Cedar City"},
+    {"@type": "City", "name": "Magna"},
+    {"@type": "City", "name": "Woods Cross"},
+    {"@type": "City", "name": "Kearns"},
+    {"@type": "City", "name": "Bluffdale"},
+    {"@type": "City", "name": "Kaysville"},
+    {"@type": "City", "name": "Clearfield"},
+    {"@type": "City", "name": "Syracuse"},
+    {"@type": "City", "name": "Roy"},
+    {"@type": "City", "name": "Tooele"},
+    {"@type": "City", "name": "Layton"},
+    {"@type": "City", "name": "West Bountiful"},
+    {"@type": "City", "name": "Emigration Canyon"},
+    {"@type": "City", "name": "White City"},
+    {"@type": "City", "name": "Park City"},
+    {"@type": "City", "name": "Lehi"},
+    {"@type": "City", "name": "Highland"},
+    {"@type": "City", "name": "American Fork"},
+    {"@type": "City", "name": "Pleasant Grove"},
+    {"@type": "City", "name": "Provo"},
+    {"@type": "City", "name": "Granite"},
+    {"@type": "City", "name": "Herriman"},
+    {"@type": "City", "name": "South Jordan"},
+    {"@type": "City", "name": "Eagle Mountain"},
+    {"@type": "City", "name": "Saratoga Springs"}
+  ],
+  "serviceType": [
+    "Workplace injury","On-the-job accident","Slip and fall at work","Lifting injury at work",
+    "Work injury claim","Denied workers’ comp claim","Workers’ comp appeal","Fall from ladder on job",
+    "Machine accident work injury","Equipment malfunction work injury","Exposure to chemicals at work",
+    "Toxic exposure at work","Workplace respiratory exposure","Occupational illness",
+    "Hearing loss from workplace noise","Forklift accident on job","Construction site accident injury",
+    "Warehouse accident injury","Machinery accident injury","Equipment injury","Repetitive stress injury",
+    "Back injury at work","Neck injury at work","Work-related illness","Long-term workplace exposure injury",
+    "Occupational disease","Medical bills after workplace injury","Workers’ comp medical coverage",
+    "Denied medical treatment workers’ comp","Lost wages after workplace injury",
+    "Temporary disability benefits","Permanent disability benefits","Unable to return to work",
+    "Reduced work capacity","Light duty disputes","Fall from height at work","Overexertion injury at work",
+    "Industrial workplace accident injury","Work-related vehicle accident","Delivery driver accident on the job",
+    "Struck by object at work","Respiratory illness from work","Temporary disability workers’ compensation benefits",
+    "Permanent disability workers’ compensation claim","Light duty work restriction workers’ compensation dispute",
+    "Denied medical treatment workers’ compensation claim","Unable to return to work workers’ compensation claim"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Workers Compensation Legal Services",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Workplace Injury Claims"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Denied Workers Comp Appeals"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Construction Site Accident Representation"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Forklift & Warehouse Injury Claims"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Chemical Exposure & Occupational Disease"}}
+    ]
+  }
+}
+</script>
+
+<!-- BreadcrumbList JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": "https://justworkcomplaw.com"
+  }]
+}
+</script>
+
+<!-- Organization JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://justworkcomplaw.com#organization",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com",
+  "telephone": "801-746-0290",
+  "logo": "https://justworkcomplaw.com/wp-content/uploads/2025/10/logo.png",
+  "areaServed": ["Utah", "Idaho"],
+  "description": "Utah & Idaho workers' compensation law firm exclusively representing injured workers."
+}
+</script>
+
+<!-- WebSite JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://justworkcomplaw.com#website",
+  "name": "Just Work Comp Law",
+  "url": "https://justworkcomplaw.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://justworkcomplaw.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- AI Citation Block (place in page body) -->
+<div class="ai-citation-block" data-citation="true" data-question="Utah Idaho workers comp lawyers serving all cities?">
+  <p>Just Work Comp Law serves <strong>42+ Utah & Idaho cities</strong> including Salt Lake City, Provo, Ogden, Boise, West Valley City, Sandy, Draper, Lehi, and more. Specializing in workplace injuries, denied claims, construction accidents, forklift injuries, chemical exposure cases. <strong>Free consultation. No upfront costs.</strong></p>
+</div>
+
+<!-- ===== END COMPLETE HOMEPAGE SEO + JSON-LD ===== -->
