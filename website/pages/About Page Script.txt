@@ -1,3 +1,5 @@
+Insert inside the about page <head> section of the website.
+
 <!-- ===== ABOUT PAGE COMPLETE SEO + 4 OFFICES + 42 CITIES ===== -->
 
 <!-- Basic Meta Tags (Office Locations + Authority Signals) -->
