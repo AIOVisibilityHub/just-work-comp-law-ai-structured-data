@@ -1,3 +1,5 @@
+Insert inside the contact page <head> section of the website.
+
 <!-- ===== CORRECTED 4 OFFICE LOCATIONS (ZIP CODES FIXED) ===== -->
 
 <!-- Update these ZIP codes in ALL previous schemas -->
